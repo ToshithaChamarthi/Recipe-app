@@ -1,0 +1,22 @@
+.sidebar-btn{
+    height: 35px;
+    width: 38px;
+    background-color: red;
+    position: relative;
+    /* .bar{
+       height: 8px;
+       width: 100%;
+       position:absolute;
+       &:nth-child(1){
+        top:0;
+       }
+       &:nth-child(2){
+        top:50%;
+        transform: translateY(-50%);
+       }
+       &:nth-child(3){
+        top:100%;
+        transform: translateY(-100%);
+       }
+    } */
+}

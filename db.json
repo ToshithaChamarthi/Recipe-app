@@ -1,0 +1,2752 @@
+{
+    "categories": [
+    {
+    "category": "Biryani",
+    "recipes":[ 
+      {
+        "id": 1,
+        "title": "Hyderabadi Chicken Biryani",
+        "description": "A flavorful and aromatic biryani from Hyderabad, featuring marinated chicken and fragrant basmati rice cooked on dum.",
+        "ingredients": [
+          "500g basmati rice",
+          "750g chicken",
+          "2 onions (sliced)",
+          "1 cup yogurt",
+          "2 tbsp ginger-garlic paste",
+          "1 tbsp biryani masala",
+          "1/2 cup coriander leaves",
+          "1/2 cup mint leaves",
+          "Saffron-infused milk",
+          "Salt",
+          "Ghee"
+        ],
+        "servings": 4,
+        "calories": 650,
+        "procedure": [
+          "1. Marinate chicken with yogurt, biryani masala, ginger-garlic paste, and salt for 2 hours.",
+          "2. Fry sliced onions in ghee until golden brown.",
+          "3. Parboil basmati rice with whole spices until 70% cooked.",
+          "4. Layer the marinated chicken and rice in a heavy-bottomed pot.",
+          "5. Add saffron-infused milk, coriander leaves, and mint leaves between layers.",
+          "6. Seal the pot with dough and cook on dum (low heat) for 40 minutes.",
+          "7. Gently mix before serving."
+        ],
+        "type": "Non-Vegetarian",
+        "image": "https://www.shutterstock.com/image-photo/dum-handi-chicken-biryani-prepared-260nw-1995758048.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=tnbB1E3TPsg"
+      },
+      {
+        "id": 2,
+        "title": "Paneer Biryani",
+        "description": "A rich and aromatic vegetarian biryani with paneer cubes and fragrant spices, cooked to perfection.",
+        "ingredients": [
+          "500g basmati rice",
+          "250g paneer (cubed)",
+          "2 onions (sliced)",
+          "1 cup yogurt",
+          "2 tbsp ginger-garlic paste",
+          "1 tbsp biryani masala",
+          "1/2 cup coriander leaves",
+          "1/2 cup mint leaves",
+          "Saffron-infused milk",
+          "Salt",
+          "Ghee"
+        ],
+        "servings": 3,
+        "calories": 550,
+        "procedure": [
+          "1. Marinate paneer with yogurt, biryani masala, ginger-garlic paste, and salt for 30 minutes.",
+          "2. Fry sliced onions in ghee until golden brown.",
+          "3. Parboil basmati rice with whole spices until 70% cooked.",
+          "4. Layer the marinated paneer and rice in a heavy-bottomed pot.",
+          "5. Add saffron-infused milk, coriander leaves, and mint leaves between layers.",
+          "6. Seal the pot with dough and cook on dum (low heat) for 30 minutes.",
+          "7. Gently mix before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqgcKZB1514yhrz6XhvyXVwJ7YYCN4t9bLA&s",
+        "youtube_link": "https://www.youtube.com/watch?v=Pbc56TniI78"
+      },
+      {
+        "id": 3,
+        "title": "Mutton Biryani",
+        "description": "A traditional biryani made with tender mutton, aromatic spices, and long-grain basmati rice.",
+        "ingredients": [
+          "500g basmati rice",
+          "750g mutton",
+          "2 onions (sliced)",
+          "1 cup yogurt",
+          "2 tbsp ginger-garlic paste",
+          "1 tbsp biryani masala",
+          "1/2 cup coriander leaves",
+          "1/2 cup mint leaves",
+          "Saffron-infused milk",
+          "Salt",
+          "Ghee"
+        ],
+        "servings": 4,
+        "calories": 700,
+        "procedure": [
+          "1. Marinate mutton with yogurt, biryani masala, ginger-garlic paste, and salt for 4 hours.",
+          "2. Fry sliced onions in ghee until golden brown.",
+          "3. Parboil basmati rice with whole spices until 70% cooked.",
+          "4. Layer the marinated mutton and rice in a heavy-bottomed pot.",
+          "5. Add saffron-infused milk, coriander leaves, and mint leaves between layers.",
+          "6. Seal the pot with dough and cook on dum (low heat) for 50 minutes.",
+          "7. Gently mix before serving."
+        ],
+        "type": "Non-Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV7wdbEWK7bvqesEzBcsTLphR25UrxazaPsA&s",
+        "youtube_link": "https://www.youtube.com/watch?v=ObjbPuL5vWk"
+      },
+      {
+        "id": 4,
+        "title": "Mushroom Biryani",
+        "description": "A delicious vegetarian biryani made with mushrooms, fragrant basmati rice, and aromatic spices.",
+        "ingredients": [
+          "500g basmati rice",
+          "300g mushrooms (sliced)",
+          "2 onions (sliced)",
+          "1 cup yogurt",
+          "2 tbsp ginger-garlic paste",
+          "1 tbsp biryani masala",
+          "1/2 cup coriander leaves",
+          "1/2 cup mint leaves",
+          "Saffron-infused milk",
+          "Salt",
+          "Ghee"
+        ],
+        "servings": 3,
+        "calories": 500,
+        "procedure": [
+          "1. Marinate mushrooms with yogurt, biryani masala, ginger-garlic paste, and salt for 30 minutes.",
+          "2. Fry sliced onions in ghee until golden brown.",
+          "3. Parboil basmati rice with whole spices until 70% cooked.",
+          "4. Layer the marinated mushrooms and rice in a heavy-bottomed pot.",
+          "5. Add saffron-infused milk, coriander leaves, and mint leaves between layers.",
+          "6. Seal the pot with dough and cook on dum (low heat) for 30 minutes.",
+          "7. Gently mix before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://cookingfromheart.com/wp-content/uploads/2017/05/Chettinad-Mushroom-Biryani-4-500x500.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=iD0RXVuvBTI"
+      },
+      {
+        "id": 5,
+        "title": "Subzi Biryani",
+        "description": "A delightful mix vegetable biryani cooked with basmati rice, aromatic spices, and herbs for a flavorful experience.",
+        "ingredients": [
+          "500g basmati rice",
+          "2 cups mixed vegetables (carrots, beans, peas, potatoes)",
+          "2 onions (sliced)",
+          "1 cup yogurt",
+          "2 tbsp ginger-garlic paste",
+          "1 tbsp biryani masala",
+          "1/2 cup coriander leaves",
+          "1/2 cup mint leaves",
+          "Saffron-infused milk",
+          "Salt",
+          "Ghee"
+        ],
+        "servings": 4,
+        "calories": 520,
+        "procedure": [
+          "1. Chop vegetables into bite-sized pieces and parboil them.",
+          "2. Marinate the vegetables with yogurt, biryani masala, ginger-garlic paste, and salt for 30 minutes.",
+          "3. Fry sliced onions in ghee until golden brown.",
+          "4. Parboil basmati rice with whole spices until 70% cooked.",
+          "5. Layer the marinated vegetables and rice in a heavy-bottomed pot.",
+          "6. Add saffron-infused milk, coriander leaves, and mint leaves between layers.",
+          "7. Seal the pot with dough and cook on dum (low heat) for 30 minutes.",
+          "8. Gently mix before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIiCClDuYQVdh6HFRo7w3PdLeoHryqw8BttQ&s",
+        "youtube_link": "https://www.youtube.com/watch?v=mlt6H6ZrmLE"
+      },
+      {
+        "id": 6,
+        "title": "Cauliflower Biryani",
+        "description": "A flavorful and nutritious biryani made with spiced cauliflower florets and fragrant basmati rice.",
+        "ingredients": [
+          "500g basmati rice",
+          "300g cauliflower (cut into florets)",
+          "2 onions (sliced)",
+          "1 cup yogurt",
+          "2 tbsp ginger-garlic paste",
+          "1 tbsp biryani masala",
+          "1/2 cup coriander leaves",
+          "1/2 cup mint leaves",
+          "Saffron-infused milk",
+          "Salt",
+          "Ghee"
+        ],
+        "servings": 3,
+        "calories": 520,
+        "procedure": [
+          "1. Marinate cauliflower florets with yogurt, biryani masala, ginger-garlic paste, and salt for 30 minutes.",
+          "2. Fry sliced onions in ghee until golden brown.",
+          "3. Parboil basmati rice with whole spices until 70% cooked.",
+          "4. Layer the marinated cauliflower and rice in a heavy-bottomed pot.",
+          "5. Add saffron-infused milk, coriander leaves, and mint leaves between layers.",
+          "6. Seal the pot with dough and cook on dum (low heat) for 30 minutes.",
+          "7. Gently mix before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOP99aYFXY-l_aLORET8GkfrciAdqLZIFbFg&s",
+        "youtube_link": "https://www.youtube.com/watch?app=desktop&v=fiS_Ekpnd7c"
+      },
+      {
+        "id": 7,
+        "title": "Aloo Gobi Biryani",
+        "description": "A delicious North Indian biryani with potatoes and cauliflower, cooked with aromatic spices.",
+        "ingredients": [
+          "500g basmati rice",
+          "200g potatoes (cubed)",
+          "200g cauliflower (cut into florets)",
+          "2 onions (sliced)",
+          "1 cup yogurt",
+          "2 tbsp ginger-garlic paste",
+          "1 tbsp biryani masala",
+          "1/2 cup coriander leaves",
+          "1/2 cup mint leaves",
+          "Saffron-infused milk",
+          "Salt",
+          "Ghee"
+        ],
+        "servings": 4,
+        "calories": 540,
+        "procedure": [
+          "1. Marinate potatoes and cauliflower with yogurt, biryani masala, ginger-garlic paste, and salt for 30 minutes.",
+          "2. Fry sliced onions in ghee until golden brown.",
+          "3. Parboil basmati rice with whole spices until 70% cooked.",
+          "4. Layer the marinated vegetables and rice in a heavy-bottomed pot.",
+          "5. Add saffron-infused milk, coriander leaves, and mint leaves between layers.",
+          "6. Seal the pot with dough and cook on dum (low heat) for 30 minutes.",
+          "7. Gently mix before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://i.ytimg.com/vi/5BqRgcKHyD8/sddefault.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=HLsJx25tPuQ"
+      },
+      {
+        "id": 8,
+        "title": "Tofu Biryani",
+        "description": "A protein-packed vegetarian biryani with tofu and fragrant spices, perfect for a healthy meal.",
+        "ingredients": [
+          "500g basmati rice",
+          "250g tofu (cubed)",
+          "2 onions (sliced)",
+          "1 cup yogurt",
+          "2 tbsp ginger-garlic paste",
+          "1 tbsp biryani masala",
+          "1/2 cup coriander leaves",
+          "1/2 cup mint leaves",
+          "Saffron-infused milk",
+          "Salt",
+          "Ghee"
+        ],
+        "servings": 3,
+        "calories": 500,
+        "procedure": [
+          "1. Marinate tofu cubes with yogurt, biryani masala, ginger-garlic paste, and salt for 30 minutes.",
+          "2. Fry sliced onions in ghee until golden brown.",
+          "3. Parboil basmati rice with whole spices until 70% cooked.",
+          "4. Layer the marinated tofu and rice in a heavy-bottomed pot.",
+          "5. Add saffron-infused milk, coriander leaves, and mint leaves between layers.",
+          "6. Seal the pot with dough and cook on dum (low heat) for 30 minutes.",
+          "7. Gently mix before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeUu7mNLBv6iIvM5B5bJxQkCRtSidISEcXXw&s",
+        "youtube_link": "https://www.youtube.com/watch?v=zdT0MWqKaVs"
+      },
+      {
+        "id": 9,
+        "title": "Vegetable Pulao",
+        "description": "A light and nutritious one-pot rice dish with assorted vegetables and mild spices.",
+        "ingredients": [
+          "500g basmati rice",
+          "200g mixed vegetables (carrots, beans, peas, potatoes)",
+          "2 onions (sliced)",
+          "1 cup yogurt",
+          "2 tbsp ginger-garlic paste",
+          "1 tbsp pulao masala",
+          "1/2 cup coriander leaves",
+          "1/2 cup mint leaves",
+          "Saffron-infused milk",
+          "Salt",
+          "Ghee"
+        ],
+        "servings": 4,
+        "calories": 480,
+        "procedure": [
+          "1. Sauté onions and ginger-garlic paste in ghee until golden brown.",
+          "2. Add chopped vegetables and cook until slightly tender.",
+          "3. Add pulao masala and mix well.",
+          "4. Parboil basmati rice and add to the vegetable mix.",
+          "5. Add saffron-infused milk, coriander leaves, and mint leaves.",
+          "6. Cover and cook on low heat for 20 minutes.",
+          "7. Gently fluff before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFPjIluL4H7E7Qznz6kq0DziLeDpnSg0RqM_0J-3nemYyxHbWSK0EaaAZ70NBiy1kLAFy5ZCxgBfCpETdfnL2oSqhS88KOdNTexX9Me5y1xKbFCU0D0DocySLaCPdiP1eXT7dvEWHXstDA/s640/vegetable+pulao.JPG",
+        "youtube_link": "https://www.youtube.com/watch?v=AYkSNH5Sj4M"
+      },
+      {
+        "id": 10,
+        "title": "Mixed Vegetable Biryani",
+        "description": "A colorful and nutritious biryani made with assorted vegetables, basmati rice, and aromatic spices.",
+        "ingredients": [
+            "500g basmati rice", 
+            "1 cup carrots (chopped)", 
+            "1 cup beans (chopped)", 
+            "1/2 cup peas", 
+            "2 onions (sliced)", 
+            "1 cup yogurt", 
+            "2 tbsp ginger-garlic paste", 
+            "1 tbsp biryani masala", 
+            "1/2 cup coriander leaves", 
+            "1/2 cup mint leaves", 
+            "Saffron-infused milk", 
+            "Salt", 
+            "Ghee"],
+        "servings": 4,
+        "calories": 500,
+        "procedure": [
+            "1. Marinate the vegetables with yogurt, biryani masala, ginger-garlic paste, and salt for 30 minutes.", 
+            "2. Fry sliced onions in ghee until golden brown.",
+            "3. Parboil basmati rice with whole spices until 70% cooked.", 
+            "4. Layer the marinated vegetables and rice in a heavy-bottomed pot.", 
+            "5. Add saffron-infused milk, coriander leaves, and mint leaves between layers.", 
+            "6. Seal the pot with dough and cook on dum (low heat) for 30 minutes.", 
+            "7. Gently mix before serving."],
+        "type": "Vegetarian",
+        "image": "https://myheartbeets.com/wp-content/uploads/2018/03/pressure-cooker-veggie-biryani.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=81kbQLXr7a4"
+      },
+      {
+        "id": 11,
+        "title": "Bottle Gourd Biryani",
+        "description": "A unique and healthy biryani made with bottle gourd (lauki), flavored with spices and herbs.",
+        "ingredients": [
+            "500g basmati rice", 
+            "2 cups bottle gourd (cubed)", 
+            "2 onions (sliced)", 
+            "1 cup yogurt", 
+            "2 tbsp ginger-garlic paste", 
+            "1 tbsp biryani masala", 
+            "1/2 cup coriander leaves", 
+            "1/2 cup mint leaves", 
+            "Saffron-infused milk", 
+            "Salt", 
+            "Ghee"],
+        "servings": 3,
+        "calories": 480,
+        "procedure": [
+            "1. Marinate bottle gourd with yogurt, biryani masala, ginger-garlic paste, and salt for 30 minutes.", 
+            "2. Fry sliced onions in ghee until golden brown.", 
+            "3. Parboil basmati rice with whole spices until 70% cooked.", 
+            "4. Layer the marinated bottle gourd and rice in a heavy-bottomed pot.", 
+            "5. Add saffron-infused milk, coriander leaves, and mint leaves between layers.", 
+            "6. Seal the pot with dough and cook on dum (low heat) for 30 minutes.", 
+            "7. Gently mix before serving."],
+        "type": "Vegetarian",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX-GqTN4ExmActAsKuS5zYw4m7CP9-crlRSGKjd35_HH-WoFkew-lpG-yMxDPPJOZ9tDH9kUw7lgR15G-cYiI0heyiIYkd2Wa6DQGPVcnn0-n9KIcvObDeWdHgGrOhY-QbM0153ilIAJo/s1600/IMG_6506.JPG",
+        "youtube_link": "https://www.youtube.com/watch?v=qneVmqYYmsY"
+      },
+      {
+        "id": 12,
+        "title": "Green Pea Biryani",
+        "description": "A simple and flavorful biryani with green peas, aromatic basmati rice, and Indian spices.",
+        "ingredients": [
+            "500g basmati rice", 
+            "1 cup green peas", 
+            "2 onions (sliced)", 
+            "1 cup yogurt", 
+            "2 tbsp ginger-garlic paste", 
+            "1 tbsp biryani masala", 
+            "1/2 cup coriander leaves", 
+            "1/2 cup mint leaves", 
+            "Saffron-infused milk", 
+            "Salt", 
+            "Ghee"],
+        "servings": 3,
+        "calories": 460,
+        "procedure": [
+            "1. Marinate green peas with yogurt, biryani masala, ginger-garlic paste, and salt for 30 minutes.", 
+            "2. Fry sliced onions in ghee until golden brown.", 
+            "3. Parboil basmati rice with whole spices until 70% cooked.", 
+            "4. Layer the marinated green peas and rice in a heavy-bottomed pot.", 
+            "5. Add saffron-infused milk, coriander leaves, and mint leaves between layers.", 
+            "6. Seal the pot with dough and cook on dum (low heat) for 30 minutes.", 
+            "7. Gently mix before serving."],
+        "type": "Vegetarian",
+        "image": "https://yellowchilis.com/wp-content/uploads/2021/01/matar-pulao-recipe-green-peas-pulao-in-pressure-cooker-instant-pot.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=TxKnJcUKmpQ"
+      },
+      {
+        "id": 13,
+        "title": "Chicken Biryani",
+        "description": "A classic and popular biryani made with marinated chicken, fragrant rice, and a blend of aromatic spices.",
+        "ingredients": [
+            "500g basmati rice", 
+            "750g chicken", 
+            "2 onions (sliced)", 
+            "1 cup yogurt", 
+            "2 tbsp ginger-garlic paste", 
+            "1 tbsp biryani masala", 
+            "1/2 cup coriander leaves", 
+            "1/2 cup mint leaves", 
+            "Saffron-infused milk", 
+            "Salt", 
+            "Ghee"],
+        "servings": 4,
+        "calories": 630,
+        "procedure": [
+            "1. Marinate chicken with yogurt, biryani masala, ginger-garlic paste, and salt for 2 hours.", 
+            "2. Fry sliced onions in ghee until golden brown.", 
+            "3. Parboil basmati rice with whole spices until 70% cooked.", 
+            "4. Layer the marinated chicken and rice in a heavy-bottomed pot.", 
+            "5. Add saffron-infused milk, coriander leaves, and mint leaves between layers.", 
+            "6. Seal the pot with dough and cook on dum (low heat) for 40 minutes.", 
+            "7. Gently mix before serving."],
+        "type": "Non-Vegetarian",
+        "image": "https://www.funfoodfrolic.com/wp-content/uploads/2020/07/Chicken-Pulao-Thumbnail.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Z59OiR9EtMY"
+      },
+      {
+        "id": 14,
+        "title": "Lucknowi Biryani",
+        "description": "A royal Awadhi-style biryani known for its subtle flavors and slow-cooked aromatic spices.",
+        "ingredients": [
+          "500g basmati rice",
+          "750g mutton",
+          "2 onions (sliced)",
+          "1 cup yogurt",
+          "2 tbsp ginger-garlic paste",
+          "1 tbsp garam masala",
+          "1/2 cup coriander leaves",
+          "1/2 cup mint leaves",
+          "1/2 cup milk",
+          "1/4 tsp saffron",
+          "2 tbsp rose water",
+          "2 tbsp kewra water",
+          "Salt",
+          "Ghee"
+        ],
+        "servings": 4,
+        "calories": 680,
+        "procedure": [
+          "1. Marinate mutton with yogurt, garam masala, ginger-garlic paste, salt, and rose water for 4 hours.",
+          "2. Fry sliced onions in ghee until golden brown.",
+          "3. Parboil basmati rice with whole spices until 70% cooked.",
+          "4. Layer the marinated mutton and rice in a heavy-bottomed pot.",
+          "5. Add saffron-infused milk, kewra water, coriander leaves, and mint leaves between layers.",
+          "6. Seal the pot with dough and cook on dum (low heat) for 45 minutes.",
+          "7. Gently mix before serving."
+        ],
+        "type": "Non-Vegetarian",
+        "image":"https://www.foodfusion.com/wp-content/uploads/2024/06/Lucknowi-Mutton-Biryani-in-Multicooker-Recipe-by-Food-Fusion-1.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=dbQnkRRqp5E"
+      },
+      {
+        "id": 15,
+        "title": "Thalassery Biryani",
+        "description": "A unique Malabar biryani from Kerala, known for its use of fragrant short-grain rice and mild spices.",
+        "ingredients": [
+          "500g Jeerakasala rice",
+          "750g chicken",
+          "2 onions (sliced)",
+          "2 tomatoes (chopped)",
+          "1 cup yogurt",
+          "2 tbsp ginger-garlic paste",
+          "1 tbsp fennel powder",
+          "1/2 cup coriander leaves",
+          "1/2 cup mint leaves",
+          "2 tbsp lemon juice",
+          "1/4 tsp turmeric powder",
+          "2 tbsp ghee",
+          "Salt"
+        ],
+        "servings": 4,
+        "calories": 620,
+        "procedure": [
+          "1. Marinate chicken with yogurt, fennel powder, ginger-garlic paste, turmeric, and salt for 2 hours.",
+          "2. Fry sliced onions in ghee until golden brown.",
+          "3. Add tomatoes and cook until soft.",
+          "4. Parboil Jeerakasala rice with whole spices until 70% cooked.",
+          "5. Layer the chicken mixture and rice in a pot.",
+          "6. Add lemon juice, coriander leaves, and mint leaves between layers.",
+          "7. Seal and cook on dum (low heat) for 30 minutes.",
+          "8. Mix gently before serving."
+        ],
+        "type": "Non-Vegetarian",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz-OrQJZQFgT4mT9bYzQNreTj3TZ4THiKmpxzD7C8zFvXdwjuYXYOifINAz4TCSnnDeVzr7E5hLZzo19ISMOrn5O1xR3ltHgztoKRQ7CmUw_TXLUjTCBv8xIM_qAV42fPMJUeHnLgqZiw/s1600/z15.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=fw_z1nxkWGI"
+      },
+      {
+        "id": 16,
+        "title": "Ambur Biryani",
+        "description": "A famous Tamil Nadu biryani, prepared with seeraga samba rice and a simple yet flavorful masala.",
+        "ingredients": [
+          "500g Seeraga Samba rice",
+          "750g mutton",
+          "2 onions (sliced)",
+          "2 tomatoes (chopped)",
+          "1 cup yogurt",
+          "2 tbsp ginger-garlic paste",
+          "1 tbsp chili powder",
+          "1 tbsp coriander powder",
+          "1/2 cup coriander leaves",
+          "1/2 cup mint leaves",
+          "1/2 cup coconut milk",
+          "Salt",
+          "Ghee"
+        ],
+        "servings": 4,
+        "calories": 690,
+        "procedure": [
+          "1. Marinate mutton with yogurt, chili powder, coriander powder, and salt for 3 hours.",
+          "2. Fry sliced onions in ghee until golden brown.",
+          "3. Add tomatoes and cook until soft.",
+          "4. Add marinated mutton and cook until tender.",
+          "5. Parboil Seeraga Samba rice with whole spices until 70% cooked.",
+          "6. Layer mutton mixture and rice in a heavy-bottomed pot.",
+          "7. Add coconut milk, coriander leaves, and mint leaves.",
+          "8. Seal and cook on dum (low heat) for 40 minutes.",
+          "9. Mix gently before serving."
+        ],
+        "type": "Non-Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_h9F8EeCBMIl4HBDCYoEGekUK1a80S4JdvQ&s",
+        "youtube_link": "https://www.youtube.com/watch?v=IFAf2PzhDcE"
+      },
+      {
+        "id": 17,
+        "title": "Sindhi Biryani",
+        "description": "A spicy and tangy biryani from Sindh, Pakistan, known for its use of tomatoes, potatoes, and dried plums.",
+        "ingredients": [
+          "500g basmati rice",
+          "750g chicken",
+          "2 onions (sliced)",
+          "3 tomatoes (chopped)",
+          "2 potatoes (cubed)",
+          "2 tbsp ginger-garlic paste",
+          "1 tbsp biryani masala",
+          "1/2 cup coriander leaves",
+          "1/2 cup mint leaves",
+          "2 tbsp dried plums",
+          "1 tbsp green chili paste",
+          "1 tbsp lemon juice",
+          "Salt",
+          "Ghee"
+        ],
+        "servings": 4,
+        "calories": 670,
+        "procedure": [
+          "1. Marinate chicken with ginger-garlic paste, green chili paste, and salt for 1 hour.",
+          "2. Fry sliced onions in ghee until golden brown.",
+          "3. Add tomatoes and cook until soft.",
+          "4. Add potatoes and cook for a few minutes.",
+          "5. Parboil basmati rice with whole spices until 70% cooked.",
+          "6. Layer chicken mixture, rice, and dried plums in a heavy-bottomed pot.",
+          "7. Add lemon juice, coriander leaves, and mint leaves between layers.",
+          "8. Seal and cook on dum (low heat) for 35 minutes.",
+          "9. Mix gently before serving."
+        ],
+        "type": "Non-Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjPr6gQD5W9BIqLLgqpT0jP_TKKuP0KQQQtQ&s",
+        "youtube_link": "https://www.youtube.com/watch?v=CfvLyEs1Odo"
+      },
+      {
+        "id": 18,
+        "title": "Kolkata Biryani",
+        "description": "A mildly spiced and aromatic biryani from Kolkata, known for its use of potatoes and subtle flavors.",
+        "ingredients": [
+          "500g basmati rice",
+          "750g chicken/mutton",
+          "2 potatoes (halved)",
+          "2 onions (sliced)",
+          "1 cup yogurt",
+          "2 tbsp ginger-garlic paste",
+          "1 tbsp biryani masala",
+          "1/2 cup coriander leaves",
+          "1/2 cup mint leaves",
+          "Saffron-infused milk",
+          "1 tbsp rose water",
+          "1 tbsp kewra water",
+          "Salt",
+          "Ghee"
+        ],
+        "servings": 4,
+        "calories": 650,
+        "procedure": [
+          "1. Marinate chicken/mutton with yogurt, biryani masala, ginger-garlic paste, and salt for 4 hours.",
+          "2. Fry sliced onions in ghee until golden brown.",
+          "3. Fry potatoes until slightly golden and set aside.",
+          "4. Parboil basmati rice with whole spices until 70% cooked.",
+          "5. Layer the marinated meat, potatoes, and rice in a heavy-bottomed pot.",
+          "6. Add saffron-infused milk, coriander leaves, mint leaves, rose water, and kewra water between layers.",
+          "7. Seal the pot with dough and cook on dum (low heat) for 45 minutes.",
+          "8. Gently mix before serving."
+        ],
+        "type": "Non-Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStvdZv9-9AK9epWA8duL-7yJYrvMJHvveDjQ&s",
+        "youtube_link": "https://www.youtube.com/watch?v=hZ2Bi0Wv1NI"
+      },
+      {
+        "id": 19,
+        "title": "Dindigul Biryani",
+        "description": "A South Indian biryani from Dindigul, known for its tangy and spicy flavors using seeraga samba rice.",
+        "ingredients": [
+          "500g seeraga samba rice",
+          "750g mutton/chicken",
+          "2 onions (sliced)",
+          "3 tomatoes (chopped)",
+          "1 cup yogurt",
+          "2 tbsp ginger-garlic paste",
+          "2 tbsp black pepper powder",
+          "1 tbsp biryani masala",
+          "1/2 cup coriander leaves",
+          "1/2 cup mint leaves",
+          "2 tbsp lemon juice",
+          "Salt",
+          "Ghee"
+        ],
+        "servings": 4,
+        "calories": 700,
+        "procedure": [
+          "1. Marinate mutton/chicken with yogurt, black pepper, biryani masala, and salt for 2 hours.",
+          "2. Fry sliced onions in ghee until golden brown.",
+          "3. Add chopped tomatoes and cook until soft.",
+          "4. Add marinated meat and cook until tender.",
+          "5. Parboil seeraga samba rice with whole spices until 70% cooked.",
+          "6. Layer the cooked meat and rice in a heavy-bottomed pot.",
+          "7. Add coriander leaves, mint leaves, and lemon juice between layers.",
+          "8. Seal the pot and cook on dum (low heat) for 40 minutes.",
+          "9. Gently mix before serving."
+        ],
+        "type": "Non-Vegetarian",
+        "image": "https://i.ytimg.com/vi/MW5MKb25mIY/maxresdefault.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=MW5MKb25mIY"
+      },
+      {
+        "id": 20,
+        "title": "Chettinad Biryani",
+        "description": "A spicy and flavorful biryani from Chettinad, made with bold spices and seeraga samba rice.",
+        "ingredients": [
+          "500g seeraga samba rice",
+          "750g chicken/mutton",
+          "2 onions (sliced)",
+          "3 tomatoes (chopped)",
+          "1 cup yogurt",
+          "2 tbsp ginger-garlic paste",
+          "1 tbsp Chettinad spice mix",
+          "2 dried red chilies",
+          "1/2 cup coriander leaves",
+          "1/2 cup mint leaves",
+          "1/2 cup coconut milk",
+          "Salt",
+          "Ghee"
+        ],
+        "servings": 4,
+        "calories": 720,
+        "procedure": [
+          "1. Marinate chicken/mutton with yogurt, Chettinad spice mix, and salt for 3 hours.",
+          "2. Fry sliced onions in ghee until golden brown.",
+          "3. Add chopped tomatoes and dried red chilies, cook until soft.",
+          "4. Add marinated meat and cook until tender.",
+          "5. Parboil seeraga samba rice with whole spices until 70% cooked.",
+          "6. Layer the cooked meat and rice in a heavy-bottomed pot.",
+          "7. Add coconut milk, coriander leaves, and mint leaves between layers.",
+          "8. Seal the pot and cook on dum (low heat) for 45 minutes.",
+          "9. Gently mix before serving."
+        ],
+        "type": "Non-Vegetarian",
+        "image": "https://vismaifood.com/storage/app/uploads/public/914/f47/fa9/thumb__700_0_0_0_auto.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=8-LJzve9e6E"
+      }
+    ]
+    },
+    {
+    "category": "Burgers",
+    "recipes": [
+      {
+        "id": 21,
+        "title": "Black Bean Burger",
+        "description": "A hearty and flavorful vegetarian burger made with black beans, spices, and breadcrumbs.",
+        "ingredients": [
+          "1 can (400g) black beans (drained and mashed)",
+          "1/2 cup breadcrumbs",
+          "1/2 cup finely chopped onions",
+          "1/4 cup chopped bell peppers",
+          "1 clove garlic (minced)",
+          "1 tsp cumin powder",
+          "1/2 tsp chili powder",
+          "1 tbsp soy sauce",
+          "1 egg (or flax egg for vegan version)",
+          "Salt and pepper to taste",
+          "1 tbsp olive oil"
+        ],
+        "servings": 4,
+        "calories": 320,
+        "procedure": [
+          "1. Mash the black beans in a large bowl until mostly smooth.",
+          "2. Add breadcrumbs, onions, bell peppers, garlic, cumin, chili powder, soy sauce, and egg.",
+          "3. Mix well and form into four equal-sized patties.",
+          "4. Heat olive oil in a pan over medium heat.",
+          "5. Cook the patties for 4-5 minutes on each side until golden brown and crispy.",
+          "6. Serve on a toasted bun with lettuce, tomato, and your favorite condiments."
+        ],
+        "type": "Vegetarian",
+        "image": "https://naturallieplantbased.com/wp-content/uploads/2023/02/southwest-black-bean-burgers-500x500.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=43vG7Z58uIQ"
+      },
+      {
+        "id": 22,
+        "title": "Mushroom Swiss Burger",
+        "description": "A delicious burger featuring sautéed mushrooms and melted Swiss cheese on a juicy patty.",
+        "ingredients": [
+          "400g mushrooms (sliced)",
+          "1 tbsp butter",
+          "1 tsp garlic (minced)",
+          "4 beef or veggie burger patties",
+          "4 slices Swiss cheese",
+          "4 burger buns",
+          "Lettuce and tomato for topping",
+          "Salt and pepper to taste"
+        ],
+        "servings": 4,
+        "calories": 450,
+        "procedure": [
+          "1. Melt butter in a pan over medium heat.",
+          "2. Add mushrooms and garlic, sauté until golden and tender.",
+          "3. Cook the burger patties in a separate pan or grill for 4-5 minutes per side.",
+          "4. Place a slice of Swiss cheese on each patty and let it melt.",
+          "5. Toast the burger buns lightly.",
+          "6. Assemble the burger with lettuce, tomato, mushroom topping, and patty.",
+          "7. Serve hot with fries or a side salad."
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0hozi1S8LaAzHga583oA64FaZbWRCj7x3w&s",
+        "youtube_link": "https://www.youtube.com/watch?v=9josnaDKkVw"
+      },
+      {
+        "id": 23,
+        "title": "Lentil Burger",
+        "description": "A protein-packed vegetarian burger made with lentils, spices, and whole grains.",
+        "ingredients": [
+          "1 cup cooked lentils",
+          "1/2 cup rolled oats",
+          "1/4 cup breadcrumbs",
+          "1/4 cup finely chopped onions",
+          "1 clove garlic (minced)",
+          "1 tsp paprika",
+          "1/2 tsp cumin powder",
+          "1 tbsp soy sauce",
+          "1 egg (or flax egg for vegan version)",
+          "Salt and pepper to taste",
+          "1 tbsp olive oil"
+        ],
+        "servings": 4,
+        "calories": 330,
+        "procedure": [
+          "1. Mash the cooked lentils in a bowl.",
+          "2. Add rolled oats, breadcrumbs, onions, garlic, paprika, cumin, soy sauce, and egg.",
+          "3. Mix well and form into four patties.",
+          "4. Heat olive oil in a pan and cook the patties for 4-5 minutes per side.",
+          "5. Serve on a toasted bun with lettuce, tomato, and your favorite condiments."
+        ],
+        "type": "Vegetarian",
+        "image": "https://assets.bonappetit.com/photos/5d03bea59ffc67bff3c6f86e/1:1/w_2448,h_2448,c_limit/HLY_Lentil_Burger_Horizontal.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=I1nrU4XDrzg"
+      },
+      {
+        "id": 24,
+        "title": "Quinoa Veggie Burger",
+        "description": "A nutritious and delicious burger made with quinoa, vegetables, and flavorful seasonings.",
+        "ingredients": [
+          "1 cup cooked quinoa",
+          "1/2 cup grated carrots",
+          "1/2 cup finely chopped bell peppers",
+          "1/4 cup breadcrumbs",
+          "1 egg (or flax egg for vegan version)",
+          "1 tsp garlic powder",
+          "1 tsp onion powder",
+          "1/2 tsp paprika",
+          "Salt and pepper to taste",
+          "1 tbsp olive oil"
+        ],
+        "servings": 4,
+        "calories": 340,
+        "procedure": [
+          "1. In a bowl, mix quinoa, grated carrots, bell peppers, breadcrumbs, and seasonings.",
+          "2. Add the egg and mix until everything binds together.",
+          "3. Shape the mixture into four patties.",
+          "4. Heat olive oil in a pan and cook each patty for 4-5 minutes per side.",
+          "5. Serve on a bun with lettuce, tomato, and your favorite condiments."
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1x7CjZtfcNwPxmoMmGwQVhjBhRa6iylhZMw&s",
+        "youtube_link": "https://www.youtube.com/watch?v=ccAMO0LYnRs"
+      },
+      {
+        "id": 25,
+        "title": "Sweet Potato Falafel Burger",
+        "description": "A Middle Eastern-inspired burger made with mashed sweet potatoes and spiced chickpeas.",
+        "ingredients": [
+          "1 cup mashed sweet potatoes",
+          "1 can (400g) chickpeas (drained and mashed)",
+          "1/4 cup flour",
+          "1/4 cup chopped parsley",
+          "1 clove garlic (minced)",
+          "1 tsp cumin powder",
+          "1/2 tsp coriander powder",
+          "Salt and pepper to taste",
+          "1 tbsp olive oil"
+        ],
+        "servings": 4,
+        "calories": 360,
+        "procedure": [
+          "1. Mash the sweet potatoes and chickpeas together in a bowl.",
+          "2. Add flour, parsley, garlic, cumin, coriander, salt, and pepper.",
+          "3. Mix well and form into four patties.",
+          "4. Heat olive oil in a pan and cook each patty for 4-5 minutes per side.",
+          "5. Serve in a pita or bun with tahini sauce and salad."
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc1fhq_HGafJOvNna9kfdRsbat4J8RF1oHLJlwRjuKIMMnIxKqeUFsYBsff6BF07f3msQ&usqp=CAU",
+        "youtube_link": "https://www.youtube.com/watch?v=wmTJYzv7RYg"
+      },
+      {
+        "id": 26,
+        "title": "Chicken Aloo Tikki Burger",
+        "description": "A fusion burger combining crispy chicken and spiced aloo tikki, served with fresh veggies and tangy sauce.",
+        "ingredients": [
+          "1 chicken breast (minced)",
+          "1 medium potato (boiled and mashed)",
+          "1/2 cup breadcrumbs",
+          "1/2 tsp garam masala",
+          "1/2 tsp cumin powder",
+          "1/2 tsp red chili powder",
+          "Salt to taste",
+          "1 egg (beaten)",
+          "1/2 cup cornflour",
+          "Oil for frying",
+          "2 burger buns",
+          "Lettuce leaves",
+          "1 tomato (sliced)",
+          "1 onion (sliced)",
+          "2 tbsp mayonnaise",
+          "1 tbsp mint chutney"
+        ],
+        "servings": 2,
+        "calories": 550,
+        "procedure": [
+          "1. Mix minced chicken, mashed potato, breadcrumbs, garam masala, cumin powder, red chili powder, and salt in a bowl.",
+          "2. Shape the mixture into patties and coat them with cornflour.",
+          "3. Dip the patties in beaten egg and then coat them with breadcrumbs.",
+          "4. Heat oil in a pan and shallow fry the patties until golden brown.",
+          "5. Toast the burger buns lightly.",
+          "6. Spread mayonnaise and mint chutney on the buns.",
+          "7. Place lettuce, the fried patty, tomato, and onion slices in the burger.",
+          "8. Cover with the top bun and serve hot."
+        ],
+        "type": "Non-Vegetarian",
+        "image": "https://i.ytimg.com/vi/RBQmuTFz7KE/maxresdefault.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=RBQmuTFz7KE"
+      },
+      {
+        "id": 27,
+        "title": "Chicken Barbecue Burger",
+        "description": "A smoky and juicy barbecue-flavored chicken burger with melted cheese and fresh toppings.",
+        "ingredients": [
+          "1 chicken breast (boneless)",
+          "2 tbsp barbecue sauce",
+          "1/2 tsp smoked paprika",
+          "1/2 tsp garlic powder",
+          "Salt to taste",
+          "1 tbsp olive oil",
+          "2 burger buns",
+          "1 slice cheddar cheese",
+          "Lettuce leaves",
+          "1 tomato (sliced)",
+          "1 onion (caramelized)",
+          "2 tbsp mayonnaise",
+          "1 tsp mustard sauce"
+        ],
+        "servings": 2,
+        "calories": 600,
+        "procedure": [
+          "1. Marinate chicken breast with barbecue sauce, smoked paprika, garlic powder, salt, and olive oil for 30 minutes.",
+          "2. Grill the marinated chicken on medium heat until cooked through.",
+          "3. Toast the burger buns lightly.",
+          "4. Spread mayonnaise and mustard sauce on the buns.",
+          "5. Place lettuce, grilled chicken, cheddar cheese, caramelized onions, and tomato slices in the burger.",
+          "6. Cover with the top bun and serve warm."
+        ],
+        "type": "Non-Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAE38ewzS29HRCyk3HbjCpWufCIO6SkqvLZw&s",
+        "youtube_link": "https://www.youtube.com/watch?v=xY1318SLRl4"
+      },
+      {
+        "id": 28,
+        "title": "Chicken Indian Traditional Burger",
+        "description": "A burger infused with Indian spices, featuring a spiced chicken patty, mint chutney, and crispy onions.",
+        "ingredients": [
+          "1 chicken breast (minced)",
+          "1/2 cup breadcrumbs",
+          "1 tbsp yogurt",
+          "1/2 tsp garam masala",
+          "1/2 tsp turmeric powder",
+          "1/2 tsp cumin powder",
+          "1/2 tsp red chili powder",
+          "Salt to taste",
+          "1 tbsp chopped coriander leaves",
+          "1 egg (beaten)",
+          "1/2 cup cornflour",
+          "Oil for frying",
+          "2 burger buns",
+          "1 onion (sliced and fried until crispy)",
+          "Lettuce leaves",
+          "1 tomato (sliced)",
+          "2 tbsp mint chutney",
+          "1 tbsp mayonnaise"
+        ],
+        "servings": 2,
+        "calories": 580,
+        "procedure": [
+          "1. Mix minced chicken with yogurt, breadcrumbs, garam masala, turmeric powder, cumin powder, red chili powder, salt, and chopped coriander leaves.",
+          "2. Shape the mixture into patties and coat with cornflour.",
+          "3. Dip in beaten egg and coat with breadcrumbs.",
+          "4. Heat oil in a pan and fry the patties until golden brown.",
+          "5. Toast the burger buns lightly.",
+          "6. Spread mint chutney and mayonnaise on the buns.",
+          "7. Place lettuce, fried chicken patty, crispy onions, and tomato slices.",
+          "8. Cover with the top bun and serve hot."
+        ],
+        "type": "Non-Vegetarian",
+        "image": "https://lacafeotheque.in/wp-content/uploads/2018/04/CHICKEN-INDIAN-TRADITIONAL-BURGER.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=TSCxbJ2DLR8"
+      },
+      {
+        "id": 29,
+        "title": "Chicken Mexican Burger",
+        "description": "A spicy Mexican-inspired burger with grilled chicken, jalapenos, and zesty chipotle sauce.",
+        "ingredients": [
+          "1 chicken breast (boneless)",
+          "1/2 tsp cumin powder",
+          "1/2 tsp smoked paprika",
+          "1/2 tsp garlic powder",
+          "Salt to taste",
+          "1 tbsp olive oil",
+          "2 burger buns",
+          "1 slice pepper jack cheese",
+          "Lettuce leaves",
+          "1 tomato (sliced)",
+          "1 tbsp jalapenos (sliced)",
+          "2 tbsp chipotle mayo"
+        ],
+        "servings": 2,
+        "calories": 620,
+        "procedure": [
+          "1. Marinate chicken breast with cumin powder, smoked paprika, garlic powder, salt, and olive oil for 30 minutes.",
+          "2. Grill the marinated chicken until fully cooked.",
+          "3. Toast the burger buns lightly.",
+          "4. Spread chipotle mayo on both sides of the buns.",
+          "5. Place lettuce, grilled chicken, pepper jack cheese, jalapenos, and tomato slices.",
+          "6. Cover with the top bun and serve hot."
+        ],
+        "type": "Non-Vegetarian",
+        "image": "https://www.americana.co.uk/siteassets/images/03.-recipes/01.-images/street-food---mexican-chipotle-chicken-burger---grill-marked-bun---1496x1024.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=bVbUJe9JHMQ"
+      },
+      {
+        "id": 30,
+        "title": "Egg Tikki Burger",
+        "description": "A unique burger featuring a crispy spiced egg patty, fresh veggies, and a flavorful sauce.",
+        "ingredients": [
+          "2 eggs",
+          "1 medium potato (boiled and mashed)",
+          "1/2 cup breadcrumbs",
+          "1/2 tsp cumin powder",
+          "1/2 tsp red chili powder",
+          "Salt to taste",
+          "1 tbsp chopped coriander leaves",
+          "1/2 cup cornflour",
+          "Oil for frying",
+          "2 burger buns",
+          "Lettuce leaves",
+          "1 tomato (sliced)",
+          "1 onion (sliced)",
+          "2 tbsp mayonnaise",
+          "1 tbsp mustard sauce"
+        ],
+        "servings": 2,
+        "calories": 520,
+        "procedure": [
+          "1. Boil the eggs, peel them, and mash with boiled potato, breadcrumbs, cumin powder, red chili powder, salt, and chopped coriander.",
+          "2. Shape into patties and coat with cornflour.",
+          "3. Heat oil in a pan and shallow fry the patties until golden brown.",
+          "4. Toast the burger buns lightly.",
+          "5. Spread mayonnaise and mustard sauce on the buns.",
+          "6. Place lettuce, egg patty, tomato, and onion slices.",
+          "7. Cover with the top bun and serve warm."
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfTRFHvey4uGFmnI5aK3k70Chzpe41mOHyyQ&s",
+        "youtube_link": "https://www.youtube.com/watch?v=MjRfl2YjrkM"
+      }
+    ]
+  },
+  {
+    "category": "Cakes",
+    "recipes": [
+      {
+        "id": 31,
+      "title": "Carrot Cake",
+      "description": "A moist and flavorful cake made with grated carrots, warm spices, and topped with creamy frosting.",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "2 cups grated carrots",
+        "1 cup sugar",
+        "1 cup brown sugar",
+        "1 cup vegetable oil",
+        "4 eggs",
+        "1 tsp vanilla extract",
+        "2 tsp baking powder",
+        "1 tsp baking soda",
+        "1/2 tsp salt",
+        "1 tsp cinnamon",
+        "1/2 tsp nutmeg",
+        "1/2 cup chopped walnuts (optional)"
+      ],
+      "servings": 8,
+      "calories": 450,
+      "procedure": [
+        "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
+        "2. In a bowl, whisk together flour, baking powder, baking soda, salt, cinnamon, and nutmeg.",
+        "3. In another bowl, beat eggs, sugar, brown sugar, oil, and vanilla extract until smooth.",
+        "4. Gradually add the dry ingredients to the wet mixture and mix well.",
+        "5. Fold in grated carrots and chopped walnuts.",
+        "6. Pour the batter into the prepared cake pan and bake for 30-35 minutes.",
+        "7. Let the cake cool before frosting with cream cheese frosting."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://www.rainbownourishments.com/wp-content/uploads/2023/03/vegan-carrot-cake-1.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=J_3eDTPZx7E"
+    },
+    {
+      "id": 32,
+      "title": "Red Velvet Cake",
+      "description": "A soft and rich red velvet cake with a slight cocoa flavor, layered with creamy frosting.",
+      "ingredients": [
+        "2 1/2 cups all-purpose flour",
+        "1 1/2 cups sugar",
+        "1 cup buttermilk",
+        "1/2 cup unsalted butter (softened)",
+        "2 eggs",
+        "2 tbsp cocoa powder",
+        "1 tsp vanilla extract",
+        "1 tsp baking soda",
+        "1 tsp white vinegar",
+        "1/2 tsp salt",
+        "2 tbsp red food coloring"
+      ],
+      "servings": 8,
+      "calories": 480,
+      "procedure": [
+        "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
+        "2. In a bowl, whisk together flour, cocoa powder, baking soda, and salt.",
+        "3. In another bowl, beat butter and sugar until fluffy.",
+        "4. Add eggs one at a time, then mix in vanilla extract and red food coloring.",
+        "5. Alternately add the dry ingredients and buttermilk, mixing until smooth.",
+        "6. Stir in vinegar and mix well.",
+        "7. Pour the batter into the cake pan and bake for 30-35 minutes.",
+        "8. Let cool before frosting with cream cheese frosting."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6sBf4LGAr_hatfaS_bGlGzFB7d9ecxxMGsg&s",
+      "youtube_link": "https://www.youtube.com/watch?v=cMPUB3DUssA"
+    },
+    {
+      "id": 33,
+      "title": "Black Forest Cake",
+      "description": "A classic German chocolate cake layered with cherries, whipped cream, and chocolate shavings.",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1 3/4 cups sugar",
+        "3/4 cup cocoa powder",
+        "1 tsp baking powder",
+        "1/2 tsp baking soda",
+        "1/2 tsp salt",
+        "1 cup buttermilk",
+        "1/2 cup vegetable oil",
+        "2 eggs",
+        "1 tsp vanilla extract",
+        "1 cup hot water",
+        "1 1/2 cups whipped cream",
+        "1 cup cherries (pitted)",
+        "1/2 cup chocolate shavings"
+      ],
+      "servings": 10,
+      "calories": 500,
+      "procedure": [
+        "1. Preheat the oven to 350°F (175°C) and grease two cake pans.",
+        "2. In a bowl, whisk together flour, cocoa powder, baking powder, baking soda, salt, and sugar.",
+        "3. Add eggs, buttermilk, oil, and vanilla extract, mixing well.",
+        "4. Slowly add hot water while stirring until the batter is smooth.",
+        "5. Pour the batter evenly into the cake pans and bake for 30-35 minutes.",
+        "6. Let the cakes cool completely before assembling.",
+        "7. Layer the cake with whipped cream and cherries.",
+        "8. Sprinkle chocolate shavings on top before serving."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJk4aFchB7Q3D6EneQlO-KZ6wwbDikS7g8pA&s",
+      "youtube_link": "https://www.youtube.com/watch?v=RahpPht8sfA"
+    },
+    {
+      "id": 34,
+      "title": "Eggless Chocolate Cake",
+      "description": "A rich and moist eggless chocolate cake made with cocoa powder and layered with creamy chocolate frosting.",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "2 cups sugar",
+        "3/4 cup cocoa powder",
+        "2 tsp baking powder",
+        "1 1/2 tsp baking soda",
+        "1 tsp salt",
+        "1 cup milk",
+        "1/2 cup vegetable oil",
+        "2 tsp vanilla extract",
+        "1 cup boiling water"
+      ],
+      "servings": 10,
+      "calories": 520,
+      "procedure": [
+        "1. Preheat the oven to 350°F (175°C) and grease two cake pans.",
+        "2. In a bowl, mix flour, cocoa powder, baking powder, baking soda, salt, and sugar.",
+        "3. Add milk, oil, and vanilla extract, mixing well.",
+        "4. Slowly add boiling water while stirring until the batter is smooth.",
+        "5. Pour the batter into the cake pans and bake for 30-35 minutes.",
+        "6. Let the cakes cool before assembling.",
+        "7. Layer with chocolate frosting and serve."
+      ],
+      "type": "Vegetarian",
+      "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2023/12/eggless-chocolate-cake-1-500x375.jpeg",
+      "youtube_link": "https://www.youtube.com/watch?v=NJDJo_pknLw"
+    },
+    {
+        "id": 35,
+        "title": "Cheesecake",
+        "description": "A creamy and rich baked cheesecake with a buttery graham cracker crust.",
+        "ingredients": [
+          "2 cups graham cracker crumbs",
+          "1/2 cup melted butter",
+          "3 tbsp sugar",
+          "2 (8 oz) packages cream cheese",
+          "1 cup sugar",
+          "2 eggs",
+          "1 tsp vanilla extract",
+          "1/2 cup sour cream"
+        ],
+        "servings": 8,
+        "calories": 500,
+        "procedure": [
+          "1. Preheat the oven to 325°F (163°C) and grease a springform pan.",
+          "2. Mix graham cracker crumbs, melted butter, and sugar. Press into the bottom of the pan.",
+          "3. In a bowl, beat cream cheese and sugar until smooth.",
+          "4. Add eggs one at a time, mixing well after each addition.",
+          "5. Stir in vanilla extract and sour cream until smooth.",
+          "6. Pour the filling over the crust and bake for 45-50 minutes.",
+          "7. Let the cheesecake cool, then refrigerate for at least 4 hours before serving."
+        ],
+        "type": "Non-Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1G0FvYywpvZSoh15Hqy4nj78BHKxij_zoc_p1ZL-4mXTEvOicoGVOpzJQFxBURc1arS0&usqp=CAU",
+        "youtube_link": "https://www.youtube.com/watch?v=9F197RwgHEg"
+      },
+      {
+        "id": 36,
+        "title": "Coconut Cake",
+        "description": "A light and fluffy coconut cake layered with coconut frosting and topped with shredded coconut.",
+        "ingredients": [
+          "2 1/2 cups all-purpose flour",
+          "2 cups sugar",
+          "1 cup coconut milk",
+          "1/2 cup unsalted butter (softened)",
+          "3 eggs",
+          "1 tsp vanilla extract",
+          "2 tsp baking powder",
+          "1/2 tsp salt",
+          "1 cup shredded coconut"
+        ],
+        "servings": 10,
+        "calories": 480,
+        "procedure": [
+          "1. Preheat the oven to 350°F (175°C) and grease two cake pans.",
+          "2. In a bowl, whisk together flour, baking powder, and salt.",
+          "3. In another bowl, beat butter and sugar until fluffy.",
+          "4. Add eggs one at a time, mixing well after each addition.",
+          "5. Mix in vanilla extract and coconut milk.",
+          "6. Gradually add dry ingredients and mix until smooth.",
+          "7. Fold in shredded coconut.",
+          "8. Pour the batter into the cake pans and bake for 30-35 minutes.",
+          "9. Let cool before frosting with coconut frosting and topping with more shredded coconut."
+        ],
+        "type": "Non-Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbWlvyLYcSYhpfsDFKXssyLURhpDs4kkHWyg&s",
+        "youtube_link": "https://www.youtube.com/watch?v=5BQ63W6_uFU"
+      },
+      {
+        "id": 37,
+        "title": "Coffee Cake",
+        "description": "A soft and moist cinnamon-flavored coffee cake topped with a buttery streusel crumble.",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1 cup sugar",
+          "1/2 cup butter (softened)",
+          "1 cup milk",
+          "2 tsp baking powder",
+          "1/2 tsp salt",
+          "1 tsp cinnamon",
+          "1 tsp vanilla extract"
+        ],
+        "servings": 8,
+        "calories": 450,
+        "procedure": [
+          "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
+          "2. In a bowl, mix flour, baking powder, salt, and cinnamon.",
+          "3. In another bowl, cream butter and sugar until fluffy.",
+          "4. Add vanilla extract and mix well.",
+          "5. Gradually add dry ingredients and milk, mixing until smooth.",
+          "6. Pour the batter into the cake pan and top with a cinnamon streusel crumble.",
+          "7. Bake for 30-35 minutes until golden brown.",
+          "8. Let cool before serving."
+        ],
+        "type": "Vegetarian",
+        "image":"https://bakewithshivesh.com/wp-content/uploads/2021/06/IMG_9778-scaled.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=9NQmW4BfRGo"
+      },
+      {
+        "id": 38,
+        "title": "Lemon Cake",
+        "description": "A bright and zesty lemon cake with a soft texture, topped with a tangy lemon glaze.",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1 1/2 cups sugar",
+          "1/2 cup unsalted butter (softened)",
+          "1/2 cup vegetable oil",
+          "3 eggs",
+          "1/2 cup lemon juice",
+          "1 tbsp lemon zest",
+          "1 tsp vanilla extract",
+          "2 tsp baking powder",
+          "1/2 tsp salt"
+        ],
+        "servings": 8,
+        "calories": 460,
+        "procedure": [
+          "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
+          "2. In a bowl, whisk together flour, baking powder, and salt.",
+          "3. In another bowl, beat butter, sugar, and oil until fluffy.",
+          "4. Add eggs one at a time, mixing well after each addition.",
+          "5. Stir in lemon juice, lemon zest, and vanilla extract.",
+          "6. Gradually add dry ingredients and mix until smooth.",
+          "7. Pour the batter into the cake pan and bake for 30-35 minutes.",
+          "8. Let cool before drizzling with lemon glaze."
+        ],
+        "type": "Non-Vegetarian",
+        "image": "https://preppykitchen.com/wp-content/uploads/2022/06/Lemon-Cake-Recipe.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=dQ5JgHqGNSs"
+      },
+      {
+        "id": 39,
+      "title": "Devil's Food Cake",
+      "description": "A rich and decadent chocolate cake with a deep, dark color and a moist, airy texture.",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1 3/4 cups sugar",
+        "3/4 cup unsweetened cocoa powder",
+        "2 tsp baking soda",
+        "1 tsp baking powder",
+        "1/2 tsp salt",
+        "1 cup buttermilk",
+        "1/2 cup vegetable oil",
+        "2 eggs",
+        "1 tsp vanilla extract",
+        "1 cup hot water"
+      ],
+      "servings": 10,
+      "calories": 520,
+      "procedure": [
+        "1. Preheat the oven to 350°F (175°C) and grease two cake pans.",
+        "2. In a bowl, whisk together flour, cocoa powder, baking soda, baking powder, salt, and sugar.",
+        "3. Add eggs, buttermilk, oil, and vanilla extract, mixing well.",
+        "4. Slowly add hot water while stirring until the batter is smooth.",
+        "5. Pour the batter into the cake pans and bake for 30-35 minutes.",
+        "6. Let the cakes cool completely before assembling.",
+        "7. Frost with chocolate ganache or buttercream before serving."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://www.allrecipes.com/thmb/eAT8XQeAVDI19tLZXQjB8M4IJk0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/101385501-devils-food-cake-meredith-1-a1ed892d65844a928b005769b8260312.png",
+      "youtube_link": "https://www.youtube.com/watch?v=FnYaEvKMETw"
+    },
+    {
+      "id": 40,
+      "title": "Pound Cake",
+      "description": "A classic buttery cake with a dense, rich texture, perfect with tea or coffee.",
+      "ingredients": [
+        "1 cup unsalted butter (softened)",
+        "2 cups sugar",
+        "4 eggs",
+        "2 tsp vanilla extract",
+        "3 cups all-purpose flour",
+        "1 tsp baking powder",
+        "1/2 tsp salt",
+        "1 cup whole milk"
+      ],
+      "servings": 8,
+      "calories": 450,
+      "procedure": [
+        "1. Preheat the oven to 350°F (175°C) and grease a loaf pan.",
+        "2. In a bowl, whisk together flour, baking powder, and salt.",
+        "3. In another bowl, beat butter and sugar until light and fluffy.",
+        "4. Add eggs one at a time, mixing well after each addition.",
+        "5. Mix in vanilla extract.",
+        "6. Alternately add the dry ingredients and milk, mixing until smooth.",
+        "7. Pour the batter into the loaf pan and bake for 50-60 minutes.",
+        "8. Let cool before slicing and serving."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/perfect-pound-cake-8472-preview-65e741110d936.jpg?crop=0.6666666666666667xw:1xh;center,top&resize=1200:*",
+      "youtube_link": "https://www.youtube.com/watch?v=lTmCZZr346I"
+    },
+    {
+      "id": 41,
+      "title": "Angel Food Cake",
+      "description": "A light and fluffy cake made with egg whites, perfect for pairing with fresh berries and whipped cream.",
+      "ingredients": [
+        "1 cup cake flour",
+        "1 1/2 cups sugar",
+        "12 egg whites",
+        "1 1/2 tsp cream of tartar",
+        "1 tsp vanilla extract",
+        "1/2 tsp salt"
+      ],
+      "servings": 10,
+      "calories": 280,
+      "procedure": [
+        "1. Preheat the oven to 350°F (175°C) and prepare a tube pan (do not grease).",
+        "2. In a bowl, sift together cake flour and half the sugar.",
+        "3. In a separate bowl, beat egg whites until foamy, then add cream of tartar and salt.",
+        "4. Gradually add the remaining sugar while continuing to beat until stiff peaks form.",
+        "5. Gently fold in the flour mixture and vanilla extract.",
+        "6. Pour the batter into the tube pan and smooth the top.",
+        "7. Bake for 35-40 minutes until golden brown and springy to the touch.",
+        "8. Invert the pan and let the cake cool completely before removing."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfPCzm1jNFlwDPDEYZ_6c2QxIeq__Vn9_k8w&s",
+      "youtube_link": "https://www.youtube.com/watch?v=21o0RbkmBTs"
+    },
+    {
+      "id": 42,
+      "title": "Chiffon Cake",
+      "description": "A soft and airy cake that combines the richness of butter cakes and the lightness of sponge cakes.",
+      "ingredients": [
+        "2 cups cake flour",
+        "1 1/2 cups sugar",
+        "1 tbsp baking powder",
+        "1/2 tsp salt",
+        "1/2 cup vegetable oil",
+        "6 egg yolks",
+        "3/4 cup water",
+        "1 tsp vanilla extract",
+        "6 egg whites",
+        "1/2 tsp cream of tartar"
+      ],
+      "servings": 10,
+      "calories": 340,
+      "procedure": [
+        "1. Preheat the oven to 325°F (160°C) and grease a tube pan.",
+        "2. In a bowl, whisk together cake flour, sugar, baking powder, and salt.",
+        "3. Add oil, egg yolks, water, and vanilla extract, then mix until smooth.",
+        "4. In another bowl, beat egg whites and cream of tartar until stiff peaks form.",
+        "5. Gently fold the egg whites into the batter until fully incorporated.",
+        "6. Pour the batter into the pan and smooth the top.",
+        "7. Bake for 50-55 minutes until golden brown and springy.",
+        "8. Let cool before slicing and serving."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPVBbxT22Oa0a2OoiGTaCV1F0Mw7alvf-GKA&s",
+      "youtube_link": "https://www.youtube.com/watch?v=pEL5IcDQdEw"
+      },
+      {
+        "id": 43,
+        "title": "Hummingbird Cake",
+        "description": "A moist and tropical-flavored cake made with bananas, pineapple, and warm spices, topped with cream cheese frosting.",
+        "ingredients": [
+          "3 cups all-purpose flour",
+          "2 cups sugar",
+          "1 tsp baking soda",
+          "1 tsp cinnamon",
+          "1/2 tsp salt",
+          "3 eggs",
+          "1 cup vegetable oil",
+          "2 tsp vanilla extract",
+          "1 cup crushed pineapple (with juice)",
+          "2 ripe bananas (mashed)",
+          "1 cup chopped pecans (optional)"
+        ],
+        "servings": 10,
+        "calories": 520,
+        "procedure": [
+          "1. Preheat the oven to 350°F (175°C) and grease two cake pans.",
+          "2. In a large bowl, whisk together flour, sugar, baking soda, cinnamon, and salt.",
+          "3. In another bowl, beat eggs, oil, and vanilla extract until combined.",
+          "4. Stir in mashed bananas, crushed pineapple, and pecans.",
+          "5. Gradually mix the dry ingredients into the wet ingredients.",
+          "6. Pour batter into cake pans and bake for 25-30 minutes.",
+          "7. Let cool before frosting with cream cheese frosting."
+        ],
+        "type": "Non-Vegetarian",
+        "image": "https://i.redd.it/877az10zv1q91.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=IAHpiHh8DM8"
+      },
+      {
+        "id": 44,
+        "title": "Pineapple Upside-Down Cake",
+        "description": "A classic buttery cake with caramelized pineapple and cherries baked on top.",
+        "ingredients": [
+          "1 1/2 cups all-purpose flour",
+          "1 cup sugar",
+          "1/2 cup unsalted butter",
+          "2 eggs",
+          "1 tsp baking powder",
+          "1/2 tsp salt",
+          "1/2 cup milk",
+          "1 tsp vanilla extract",
+          "1/2 cup brown sugar",
+          "6 pineapple slices",
+          "6 maraschino cherries"
+        ],
+        "servings": 8,
+        "calories": 480,
+        "procedure": [
+          "1. Preheat oven to 350°F (175°C) and grease a cake pan.",
+          "2. Melt butter and pour it into the pan, then sprinkle brown sugar evenly.",
+          "3. Arrange pineapple slices and place cherries in the center of each slice.",
+          "4. In a bowl, whisk together flour, baking powder, and salt.",
+          "5. In another bowl, beat sugar, eggs, and vanilla extract until fluffy.",
+          "6. Alternately add dry ingredients and milk, mixing until smooth.",
+          "7. Pour batter over the pineapple slices and bake for 35-40 minutes.",
+          "8. Let cool slightly, then invert the cake onto a plate before serving."
+        ],
+        "type": "Non-Vegetarian",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2019/05/Pineapple-upside-down-cake-32b5bb3.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=AYydRUSdgT0"
+      },
+      {
+        "id": 45,
+        "title": "Apple Cake",
+        "description": "A spiced apple cake filled with chunks of fresh apples, perfect for fall desserts.",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1 cup sugar",
+          "1/2 cup brown sugar",
+          "1/2 cup vegetable oil",
+          "1/2 cup applesauce",
+          "2 tsp baking powder",
+          "1 tsp cinnamon",
+          "1/2 tsp nutmeg",
+          "1/2 tsp salt",
+          "1 tsp vanilla extract",
+          "2 apples (peeled and chopped)",
+          "1/2 cup chopped walnuts (optional)"
+        ],
+        "servings": 8,
+        "calories": 460,
+        "procedure": [
+          "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
+          "2. In a bowl, whisk together flour, baking powder, cinnamon, nutmeg, and salt.",
+          "3. In another bowl, beat sugar, brown sugar, oil, applesauce, and vanilla extract.",
+          "4. Gradually mix the dry ingredients into the wet ingredients until combined.",
+          "5. Fold in chopped apples and walnuts.",
+          "6. Pour batter into the prepared pan and bake for 30-35 minutes.",
+          "7. Let cool before serving. Can be topped with powdered sugar or caramel glaze."
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaqE9goMHE2BQVHQ0Jh00t2oQdANX8jQrDoQ&s",
+        "youtube_link": "https://www.youtube.com/watch?v=268hMZt3irI"
+      },
+      {
+        "id": 46,
+        "title": "German Chocolate Cake",
+        "description": "A rich and indulgent chocolate cake layered with coconut-pecan frosting, a true classic.",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "2 cups sugar",
+          "3/4 cup cocoa powder",
+          "1 tsp baking powder",
+          "1/2 tsp baking soda",
+          "1/2 tsp salt",
+          "1 cup buttermilk",
+          "1/2 cup vegetable oil",
+          "2 eggs",
+          "1 tsp vanilla extract",
+          "1 cup hot water",
+          "1 cup shredded coconut",
+          "1/2 cup chopped pecans",
+          "1/2 cup evaporated milk",
+          "1/4 cup butter",
+          "1/2 cup brown sugar"
+        ],
+        "servings": 10,
+        "calories": 550,
+        "procedure": [
+          "1. Preheat the oven to 350°F (175°C) and grease two cake pans.",
+          "2. In a bowl, whisk together flour, cocoa powder, baking powder, baking soda, salt, and sugar.",
+          "3. Add eggs, buttermilk, oil, and vanilla extract, mixing well.",
+          "4. Slowly add hot water while stirring until the batter is smooth.",
+          "5. Pour the batter evenly into the cake pans and bake for 30-35 minutes.",
+          "6. Let cakes cool before preparing the frosting.",
+          "7. In a saucepan, heat evaporated milk, butter, and brown sugar until melted.",
+          "8. Stir in shredded coconut and chopped pecans, cooking until thickened.",
+          "9. Spread the frosting between layers and over the cake before serving."
+        ],
+        "type": "Non-Vegetarian",
+        "image": "https://www.culinaryhill.com/wp-content/uploads/2023/01/German-Chocolate-Cake-Culinary-Hill-1200x800-1.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=0UasR9Rk1Ow"
+      },
+      {
+        "id": 47,
+      "title": "Eggless Vanilla Cake",
+      "description": "A soft and fluffy vanilla cake made without eggs, perfect for any occasion.",
+      "ingredients": [
+        "2 1/2 cups all-purpose flour",
+        "1 1/2 cups sugar",
+        "1 cup milk",
+        "1/2 cup vegetable oil",
+        "1 tbsp vanilla extract",
+        "1 tsp baking soda",
+        "2 tsp baking powder",
+        "1/2 tsp salt",
+        "1 tbsp vinegar"
+      ],
+      "servings": 8,
+      "calories": 420,
+      "procedure": [
+        "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
+        "2. In a bowl, mix flour, baking soda, baking powder, and salt.",
+        "3. In another bowl, whisk sugar, oil, milk, vinegar, and vanilla extract.",
+        "4. Gradually add the dry ingredients to the wet mixture and mix until smooth.",
+        "5. Pour the batter into the cake pan and bake for 30-35 minutes.",
+        "6. Let cool before serving or frosting."
+      ],
+      "type": "Vegetarian",
+      "image": "https://sugarandsparrow.s3.us-west-2.amazonaws.com/flour/wp-content/uploads/2025/02/07084918/Eggless-Vanilla-Cake-Recipe-6-246x300.jpeg",
+      "youtube_link": "https://www.youtube.com/watch?v=MuGwzWuuBWM"
+    },
+    {
+      "id": 48,
+      "title": "Eggless Banana Cake",
+      "description": "A moist and delicious banana cake made without eggs, perfect for breakfast or dessert.",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1 cup mashed bananas",
+        "1 cup sugar",
+        "1/2 cup vegetable oil",
+        "1 tsp vanilla extract",
+        "1/2 cup yogurt",
+        "1 tsp baking soda",
+        "1 1/2 tsp baking powder",
+        "1/2 tsp cinnamon",
+        "1/4 tsp salt"
+      ],
+      "servings": 8,
+      "calories": 400,
+      "procedure": [
+        "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
+        "2. In a bowl, mix flour, baking soda, baking powder, salt, and cinnamon.",
+        "3. In another bowl, whisk sugar, oil, mashed bananas, vanilla extract, and yogurt.",
+        "4. Gradually add dry ingredients to the wet mixture and stir until combined.",
+        "5. Pour the batter into the cake pan and bake for 30-35 minutes.",
+        "6. Let cool before serving."
+      ],
+      "type": "Vegetarian",
+      "image": "https://i.ytimg.com/vi/HDXvS1TKKaQ/sddefault.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=tDU9QDH0X1Q"
+    },
+    {
+      "id": 49,
+      "title": "Eggless Caramel Cake",
+      "description": "A rich and moist caramel-flavored cake without eggs, topped with smooth caramel glaze.",
+      "ingredients": [
+        "2 1/2 cups all-purpose flour",
+        "1 1/2 cups sugar",
+        "1 cup milk",
+        "1/2 cup vegetable oil",
+        "1/2 cup caramel sauce",
+        "1 tsp vanilla extract",
+        "1 tsp baking soda",
+        "2 tsp baking powder",
+        "1/2 tsp salt"
+      ],
+      "servings": 8,
+      "calories": 450,
+      "procedure": [
+        "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
+        "2. In a bowl, mix flour, baking soda, baking powder, and salt.",
+        "3. In another bowl, whisk sugar, oil, milk, caramel sauce, and vanilla extract.",
+        "4. Gradually add dry ingredients to the wet mixture and stir until smooth.",
+        "5. Pour the batter into the cake pan and bake for 30-35 minutes.",
+        "6. Let cool and drizzle with caramel sauce before serving."
+      ],
+      "type": "Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkDSlnSgXANGxZGTW5JVN05Jmhpbnx4TDRng&s",
+      "youtube_link": "https://www.youtube.com/watch?v=vaCiCazi0YI"
+    },
+    {
+      "id": 50,
+      "title": "Eggless Fruit Cake",
+      "description": "A delicious, moist fruit cake packed with dried fruits and nuts, made without eggs.",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1 cup sugar",
+        "1 cup milk",
+        "1/2 cup vegetable oil",
+        "1 cup mixed dried fruits (raisins, apricots, cherries)",
+        "1/2 cup chopped nuts (walnuts, almonds)",
+        "1 tsp vanilla extract",
+        "1 tsp baking soda",
+        "1 1/2 tsp baking powder",
+        "1/2 tsp cinnamon",
+        "1/4 tsp nutmeg",
+        "1/2 tsp salt"
+      ],
+      "servings": 10,
+      "calories": 480,
+      "procedure": [
+        "1. Preheat the oven to 325°F (160°C) and grease a cake pan.",
+        "2. In a bowl, mix flour, baking soda, baking powder, salt, cinnamon, and nutmeg.",
+        "3. In another bowl, whisk sugar, oil, milk, and vanilla extract.",
+        "4. Gradually add dry ingredients to the wet mixture and mix well.",
+        "5. Fold in dried fruits and chopped nuts.",
+        "6. Pour the batter into the cake pan and bake for 40-45 minutes.",
+        "7. Let cool before slicing and serving."
+      ],
+      "type": "Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR90qbCCNJFGkqJG4CSkcezDedzf2VcRL9YHA&s",
+      "youtube_link": "https://www.youtube.com/watch?v=DVVuib1uXoE"
+      },
+      {
+        "id": 51,
+      "title": "Vanilla Cake",
+      "description": "A classic soft and fluffy vanilla-flavored cake, perfect for any occasion.",
+      "ingredients": [
+        "2 1/2 cups all-purpose flour",
+        "1 1/2 cups sugar",
+        "1 cup butter (softened)",
+        "4 eggs",
+        "1 cup milk",
+        "2 tsp vanilla extract",
+        "2 1/2 tsp baking powder",
+        "1/2 tsp salt"
+      ],
+      "servings": 8,
+      "calories": 400,
+      "procedure": [
+        "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
+        "2. In a bowl, whisk together flour, baking powder, and salt.",
+        "3. In another bowl, beat butter and sugar until fluffy.",
+        "4. Add eggs one at a time, beating well after each addition.",
+        "5. Mix in vanilla extract.",
+        "6. Alternately add the dry ingredients and milk, mixing until smooth.",
+        "7. Pour the batter into the prepared cake pan and bake for 30-35 minutes.",
+        "8. Let cool before serving or frosting."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR29xrUJtD1pMJf2JRxPB8L_QJbIWx3lqUl_w&s",
+      "youtube_link": "https://www.youtube.com/watch?v=EYXQmbZNhy8"
+    },
+    {
+      "id": 52,
+      "title": "Banana Cake",
+      "description": "A moist and sweet banana-flavored cake with a rich texture and natural sweetness.",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1 cup mashed ripe bananas",
+        "1 cup sugar",
+        "1/2 cup butter (softened)",
+        "2 eggs",
+        "1/2 cup milk",
+        "1 tsp vanilla extract",
+        "1 tsp baking soda",
+        "1/2 tsp salt"
+      ],
+      "servings": 8,
+      "calories": 420,
+      "procedure": [
+        "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
+        "2. In a bowl, whisk together flour, baking soda, and salt.",
+        "3. In another bowl, beat butter and sugar until creamy.",
+        "4. Add eggs one at a time, then mix in mashed bananas and vanilla extract.",
+        "5. Gradually add the dry ingredients while alternating with milk.",
+        "6. Pour the batter into the prepared cake pan and bake for 30-35 minutes.",
+        "7. Let cool before serving."
+      ],
+      "type": "Non-Vegetarian",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFMelbb4XnaCHloN0vjo3adVYqF-mDFAhL1w&s",
+      "youtube_link": "https://www.youtube.com/watch?v=3oKTwuYk8Fs"
+    },
+    {
+      "id": 53,
+      "title": "Caramel Cake",
+      "description": "A decadent caramel-flavored cake with a rich caramel glaze for extra indulgence.",
+      "ingredients": [
+        "2 1/2 cups all-purpose flour",
+        "1 1/2 cups sugar",
+        "1/2 cup brown sugar",
+        "1 cup butter (softened)",
+        "3 eggs",
+        "1 cup milk",
+        "1/2 cup caramel sauce",
+        "2 tsp vanilla extract",
+        "2 tsp baking powder",
+        "1/2 tsp salt"
+      ],
+      "servings": 8,
+      "calories": 450,
+      "procedure": [
+        "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
+        "2. In a bowl, whisk together flour, baking powder, and salt.",
+        "3. In another bowl, beat butter, sugar, and brown sugar until creamy.",
+        "4. Add eggs one at a time, then mix in vanilla extract.",
+        "5. Alternately add the dry ingredients and milk, mixing until smooth.",
+        "6. Fold in caramel sauce and mix well.",
+        "7. Pour the batter into the prepared cake pan and bake for 30-35 minutes.",
+        "8. Let cool before drizzling with extra caramel sauce."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://legateaucakes.com/cdn/shop/files/1-2kg-circle-egg-salted-caramel-cake-41815899275543.jpg?v=1690103712",
+      "youtube_link": "https://www.youtube.com/watch?v=CHbrXX23cto"
+      },
+      {
+        "id": 54,
+      "title": "Molten Chocolate Cake",
+      "description": "A rich and gooey molten chocolate cake with a soft, oozing center, perfect for chocolate lovers.",
+      "ingredients": [
+        "200g dark chocolate",
+        "100g unsalted butter",
+        "2 eggs",
+        "2 egg yolks",
+        "1/2 cup sugar",
+        "1/4 cup all-purpose flour",
+        "1/2 tsp vanilla extract",
+        "Pinch of salt"
+      ],
+      "servings": 4,
+      "calories": 450,
+      "procedure": [
+        "1. Preheat the oven to 425°F (220°C) and grease ramekins.",
+        "2. Melt dark chocolate and butter together over low heat, stirring until smooth.",
+        "3. In a separate bowl, whisk eggs, egg yolks, sugar, and vanilla extract until thick and pale.",
+        "4. Gently fold the melted chocolate mixture into the egg mixture.",
+        "5. Sift in flour and salt, and mix until just combined.",
+        "6. Pour the batter into the greased ramekins, filling them about 3/4 full.",
+        "7. Bake for 10-12 minutes until the edges are set but the center remains gooey.",
+        "8. Let cool for a minute before serving warm."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnuNMk8sS39SNEGW_8iNF6LwCp6H2u85nvzQ&s",
+      "youtube_link": "https://www.youtube.com/watch?v=gW3JtHpuzrk"
+    },
+    {
+      "id": 55,
+      "title": "Strawberry Cake",
+      "description": "A soft and moist strawberry cake made with fresh strawberries, topped with delicious frosting.",
+      "ingredients": [
+        "2 1/2 cups all-purpose flour",
+        "1 1/2 cups sugar",
+        "1/2 cup unsalted butter (softened)",
+        "1 cup fresh strawberry puree",
+        "1/2 cup milk",
+        "2 eggs",
+        "1 tsp vanilla extract",
+        "1 1/2 tsp baking powder",
+        "1/2 tsp baking soda",
+        "1/4 tsp salt",
+        "Pink food coloring (optional)"
+      ],
+      "servings": 8,
+      "calories": 420,
+      "procedure": [
+        "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
+        "2. In a bowl, whisk together flour, baking powder, baking soda, and salt.",
+        "3. In another bowl, cream butter and sugar until fluffy.",
+        "4. Add eggs one at a time, mixing well after each addition.",
+        "5. Stir in vanilla extract and fresh strawberry puree.",
+        "6. Alternately add dry ingredients and milk, mixing until smooth.",
+        "7. Add pink food coloring if desired for a richer color.",
+        "8. Pour the batter into the cake pan and bake for 30-35 minutes.",
+        "9. Let the cake cool before frosting with strawberry cream cheese frosting."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFwqnvd71TVkdeosQ8wePChEABa62cZVWJA&s",
+      "youtube_link": "https://www.youtube.com/watch?v=fmD5GnrtOjc"
+    }
+    ]
+  },
+  {
+    "category": "Chaat",
+    "recipes": [
+      {
+        "id": 56,
+        "title": "Masala Chaat",
+        "description": "A tangy and spicy chaat made with boiled potatoes, chickpeas, and chaat masala.",
+        "ingredients": [
+          "2 boiled potatoes (diced)",
+          "1 cup boiled chickpeas",
+          "1 small onion (finely chopped)",
+          "1 small tomato (finely chopped)",
+          "1 green chili (finely chopped)",
+          "1/2 tsp chaat masala",
+          "1/2 tsp cumin powder",
+          "1/4 tsp black salt",
+          "1/2 tsp red chili powder",
+          "1 tbsp lemon juice",
+          "2 tbsp tamarind chutney",
+          "Fresh coriander leaves (chopped)",
+          "Sev for garnish"
+        ],
+        "servings": 2,
+        "calories": 220,
+        "procedure": [
+          "1. In a bowl, mix boiled potatoes, chickpeas, onion, tomato, and green chili.",
+          "2. Add chaat masala, cumin powder, black salt, red chili powder, and lemon juice.",
+          "3. Mix well and drizzle tamarind chutney over it.",
+          "4. Garnish with chopped coriander and sev before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://www.kannammacooks.com/wp-content/uploads/masala-poori-homemade-chaat-street-side-recipe-5.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=xric8J7sm94"
+      },
+      {
+        "id": 57,
+        "title": "Gobi Chaat",
+        "description": "A crispy and flavorful cauliflower chaat with spices and chutneys.",
+        "ingredients": [
+          "2 cups cauliflower florets",
+          "1/2 cup gram flour",
+          "1/4 cup rice flour",
+          "1/2 tsp turmeric powder",
+          "1/2 tsp red chili powder",
+          "1/2 tsp garam masala",
+          "1/2 tsp chaat masala",
+          "Salt to taste",
+          "Water as needed",
+          "Oil for frying",
+          "1 tbsp tamarind chutney",
+          "1 tbsp green chutney",
+          "Chopped onions and coriander for garnish"
+        ],
+        "servings": 3,
+        "calories": 250,
+        "procedure": [
+          "1. Mix gram flour, rice flour, turmeric, chili powder, garam masala, and salt in a bowl.",
+          "2. Add water gradually to form a thick batter.",
+          "3. Dip cauliflower florets into the batter and deep-fry until golden brown.",
+          "4. Toss the fried florets with chaat masala and serve with tamarind and green chutney.",
+          "5. Garnish with chopped onions and coriander before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://i.ytimg.com/vi/TmT6PmptYq8/maxresdefault.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=xYhTLtaHaow"
+      },
+      {
+        "id": 58,
+        "title": "Aloo Tikki Chaat",
+        "description": "Crispy potato patties served with yogurt, chutneys, and spices.",
+        "ingredients": [
+          "2 boiled potatoes",
+          "1/4 cup bread crumbs",
+          "1/2 tsp salt",
+          "1/2 tsp cumin powder",
+          "1/2 tsp chaat masala",
+          "1/4 tsp black pepper",
+          "Oil for frying",
+          "1/2 cup yogurt",
+          "2 tbsp tamarind chutney",
+          "2 tbsp green chutney",
+          "Sev and chopped coriander for garnish"
+        ],
+        "servings": 2,
+        "calories": 300,
+        "procedure": [
+          "1. Mash boiled potatoes and mix with bread crumbs, salt, cumin powder, chaat masala, and black pepper.",
+          "2. Shape into small patties and shallow-fry until golden brown.",
+          "3. Place the tikkis on a plate and top with yogurt, tamarind chutney, and green chutney.",
+          "4. Garnish with sev and coriander before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://sinfullyspicy.com/wp-content/uploads/2023/03/1-1.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=mUSSswBTQJA"
+      },
+      {
+        "id": 59,
+        "title": "Papdi Chaat",
+        "description": "Crispy papdis topped with yogurt, chutneys, and flavorful spices.",
+        "ingredients": [
+          "10 papdis",
+          "1/2 cup boiled chickpeas",
+          "1/2 cup boiled potatoes (diced)",
+          "1/2 cup yogurt",
+          "2 tbsp tamarind chutney",
+          "2 tbsp green chutney",
+          "1/2 tsp chaat masala",
+          "1/4 tsp black salt",
+          "Sev and chopped coriander for garnish"
+        ],
+        "servings": 2,
+        "calories": 280,
+        "procedure": [
+          "1. Arrange papdis on a serving plate.",
+          "2. Top with boiled chickpeas and potatoes.",
+          "3. Drizzle yogurt, tamarind chutney, and green chutney over the papdis.",
+          "4. Sprinkle chaat masala and black salt.",
+          "5. Garnish with sev and coriander before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://www.sailusfood.com/wp-content/uploads/2010/03/papdi-chaat.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=6l7MecdJjDs"
+      },
+      {
+        "id": 60,
+        "title": "Dahi Papad Chaat",
+        "description": "A crispy and tangy chaat made with roasted papad, spiced yogurt, chutneys, and crunchy toppings.",
+        "ingredients": [
+          "4 roasted papads",
+          "1/2 cup boiled and mashed potatoes",
+          "1/2 cup boiled chickpeas",
+          "1/2 cup fresh yogurt (whisked)",
+          "1/2 tsp chaat masala",
+          "1/2 tsp cumin powder",
+          "1/2 tsp black salt",
+          "1 tbsp tamarind chutney",
+          "2 tbsp green chutney",
+          "1/2 cup sev",
+          "2 tbsp finely chopped onions",
+          "2 tbsp finely chopped tomatoes",
+          "Chopped coriander for garnish"
+        ],
+        "servings": 2,
+        "calories": 260,
+        "procedure": [
+          "1. Roast the papads on an open flame or dry roast in a pan until crispy.",
+          "2. Break the papads into large pieces and place them on a serving plate.",
+          "3. Spread the mashed potato and chickpea mixture evenly over the papads.",
+          "4. Drizzle whisked yogurt, tamarind chutney, and green chutney on top.",
+          "5. Sprinkle chopped onions, tomatoes, chaat masala, cumin powder, and black salt.",
+          "6. Garnish with sev and chopped coriander before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://example.com/dahi-papad-chaat.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=example33"
+      },
+      {
+        "id": 61,
+        "title": "Samosa Chaat",
+        "description": "Crispy samosas crushed and topped with spiced chickpeas, yogurt, and chutneys.",
+        "ingredients": [
+          "2 samosas",
+          "1 cup boiled chickpeas",
+          "1/2 cup yogurt",
+          "2 tbsp tamarind chutney",
+          "2 tbsp green chutney",
+          "1/2 tsp chaat masala",
+          "1/4 tsp black salt",
+          "1/2 tsp red chili powder",
+          "Sev and chopped coriander for garnish"
+        ],
+        "servings": 2,
+        "calories": 350,
+        "procedure": [
+          "1. Crush the samosas on a plate.",
+          "2. Top with boiled chickpeas and yogurt.",
+          "3. Drizzle tamarind chutney and green chutney.",
+          "4. Sprinkle chaat masala, black salt, and red chili powder.",
+          "5. Garnish with sev and coriander before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://example.com/samosa-chaat.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=example6"
+      },
+      {
+        "id": 62,
+        "title": "Sev Puri",
+        "description": "Crispy puris topped with a mix of potatoes, chutneys, and lots of sev.",
+        "ingredients": [
+          "10 puris",
+          "1/2 cup boiled potatoes (diced)",
+          "1/2 cup chopped onions",
+          "1/2 cup chopped tomatoes",
+          "2 tbsp tamarind chutney",
+          "2 tbsp green chutney",
+          "1/2 tsp chaat masala",
+          "1/4 tsp black salt",
+          "1/2 tsp red chili powder",
+          "1/2 cup sev",
+          "Chopped coriander for garnish"
+        ],
+        "servings": 2,
+        "calories": 280,
+        "procedure": [
+          "1. Arrange puris on a plate.",
+          "2. Add boiled potatoes, chopped onions, and tomatoes on top.",
+          "3. Drizzle tamarind chutney and green chutney.",
+          "4. Sprinkle chaat masala, black salt, and red chili powder.",
+          "5. Generously top with sev and garnish with coriander before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://example.com/sev-puri.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=example7"
+      },
+      {
+        "id": 63,
+        "title": "Ragda Pattice",
+        "description": "A delicious chaat with crispy potato patties served with spiced white peas curry.",
+        "ingredients": [
+          "2 boiled potatoes",
+          "1/4 cup bread crumbs",
+          "1/2 tsp salt",
+          "1/2 tsp cumin powder",
+          "1/2 tsp chaat masala",
+          "1/4 tsp black pepper",
+          "Oil for frying",
+          "1 cup white peas (boiled and mashed)",
+          "1/2 tsp turmeric powder",
+          "1/2 tsp garam masala",
+          "2 tbsp tamarind chutney",
+          "2 tbsp green chutney",
+          "Sev and chopped coriander for garnish"
+        ],
+        "servings": 2,
+        "calories": 320,
+        "procedure": [
+          "1. Mash boiled potatoes and mix with bread crumbs, salt, cumin powder, chaat masala, and black pepper.",
+          "2. Shape into patties and shallow-fry until golden brown.",
+          "3. In a pan, cook boiled white peas with turmeric powder and garam masala.",
+          "4. Serve the patties on a plate, topped with the white peas curry.",
+          "5. Drizzle tamarind and green chutney, then garnish with sev and coriander."
+        ],
+        "type": "Vegetarian",
+        "image": "https://example.com/ragda-pattice.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=example8"
+      },
+      {
+        "id": 64,
+        "title": "Bhel Puri",
+        "description": "A light and crunchy chaat made with puffed rice, vegetables, and chutneys.",
+        "ingredients": [
+          "2 cups puffed rice",
+          "1/2 cup chopped onions",
+          "1/2 cup chopped tomatoes",
+          "1/2 cup boiled potatoes (diced)",
+          "1/2 cup sev",
+          "2 tbsp tamarind chutney",
+          "2 tbsp green chutney",
+          "1/2 tsp chaat masala",
+          "1/4 tsp black salt",
+          "1/2 tsp red chili powder",
+          "Chopped coriander for garnish"
+        ],
+        "servings": 2,
+        "calories": 250,
+        "procedure": [
+          "1. In a large bowl, mix puffed rice, onions, tomatoes, and potatoes.",
+          "2. Add tamarind chutney and green chutney.",
+          "3. Sprinkle chaat masala, black salt, and red chili powder.",
+          "4. Mix well and top with sev and chopped coriander before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://example.com/bhel-puri.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=example9"
+      },
+      {
+        "id": 65,
+        "title": "Dabeli",
+        "description": "A spicy and sweet Gujarati street food made with spiced potato filling in a bun.",
+        "ingredients": [
+          "2 pav buns",
+          "2 boiled potatoes (mashed)",
+          "1 tbsp dabeli masala",
+          "1 tbsp tamarind chutney",
+          "1 tbsp green chutney",
+          "1/4 cup pomegranate seeds",
+          "1/4 cup roasted peanuts",
+          "1/2 cup sev",
+          "Butter for toasting",
+          "Chopped onions and coriander for garnish"
+        ],
+        "servings": 2,
+        "calories": 300,
+        "procedure": [
+          "1. Mix mashed potatoes with dabeli masala, tamarind chutney, and green chutney.",
+          "2. Heat a pan and lightly toast the pav buns with butter.",
+          "3. Spread the spiced potato mixture inside the buns.",
+          "4. Add pomegranate seeds, roasted peanuts, and chopped onions.",
+          "5. Garnish with sev and coriander before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://example.com/dabeli.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=example10"
+      },
+      {
+        "id": 66,
+        "title": "Aloo Chaat",
+        "description": "Crispy fried potatoes tossed with tangy spices and chutneys.",
+        "ingredients": [
+          "2 large potatoes (boiled and cubed)",
+          "1 tbsp oil",
+          "1/2 tsp chaat masala",
+          "1/2 tsp cumin powder",
+          "1/4 tsp red chili powder",
+          "1/2 tsp black salt",
+          "2 tbsp tamarind chutney",
+          "2 tbsp green chutney",
+          "Chopped coriander for garnish",
+          "Sev for topping"
+        ],
+        "servings": 2,
+        "calories": 280,
+        "procedure": [
+          "1. Heat oil in a pan and fry the boiled potato cubes until golden brown.",
+          "2. Transfer the crispy potatoes to a bowl.",
+          "3. Add chaat masala, cumin powder, red chili powder, and black salt.",
+          "4. Drizzle tamarind and green chutney over the potatoes.",
+          "5. Garnish with chopped coriander and sev before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://example.com/aloo-chaat.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=example11"
+      },
+      {
+        "id": 67,
+        "title": "Matar Chaat",
+        "description": "A flavorful chaat made with spicy boiled white peas and topped with chutneys.",
+        "ingredients": [
+          "1 cup dried white peas (soaked and boiled)",
+          "1/2 tsp turmeric powder",
+          "1/2 tsp garam masala",
+          "1/2 tsp chaat masala",
+          "1/2 tsp black salt",
+          "1/4 tsp red chili powder",
+          "2 tbsp tamarind chutney",
+          "2 tbsp green chutney",
+          "1/2 cup chopped onions",
+          "1/2 cup chopped tomatoes",
+          "Chopped coriander and sev for garnish"
+        ],
+        "servings": 2,
+        "calories": 300,
+        "procedure": [
+          "1. Boil the soaked white peas until soft and mash slightly.",
+          "2. Mix in turmeric powder, garam masala, chaat masala, black salt, and red chili powder.",
+          "3. Transfer to a plate and top with onions and tomatoes.",
+          "4. Drizzle tamarind chutney and green chutney over the mixture.",
+          "5. Garnish with sev and chopped coriander before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://example.com/matar-chaat.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=example12"
+      },
+      {
+        "id": 68,
+        "title": "Corn Chaat",
+        "description": "A healthy and tangy chaat made with sweet corn and flavorful spices.",
+        "ingredients": [
+          "1 cup boiled sweet corn",
+          "1/2 cup chopped onions",
+          "1/2 cup chopped tomatoes",
+          "1/2 tsp chaat masala",
+          "1/2 tsp cumin powder",
+          "1/4 tsp black salt",
+          "1 tbsp lemon juice",
+          "2 tbsp green chutney",
+          "2 tbsp tamarind chutney",
+          "Chopped coriander for garnish"
+        ],
+        "servings": 2,
+        "calories": 220,
+        "procedure": [
+          "1. In a bowl, mix boiled sweet corn, onions, and tomatoes.",
+          "2. Add chaat masala, cumin powder, and black salt.",
+          "3. Squeeze lemon juice and mix well.",
+          "4. Drizzle tamarind chutney and green chutney over the mixture.",
+          "5. Garnish with chopped coriander before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://example.com/corn-chaat.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=example13"
+      },
+      {
+        "id": 69,
+        "title": "Moong Dal Chaat",
+        "description": "A protein-rich chaat made with sprouted moong dal and fresh veggies.",
+        "ingredients": [
+          "1 cup sprouted moong dal",
+          "1/2 cup chopped onions",
+          "1/2 cup chopped tomatoes",
+          "1/2 cup boiled potatoes (diced)",
+          "1/2 tsp chaat masala",
+          "1/2 tsp cumin powder",
+          "1/4 tsp black salt",
+          "1 tbsp lemon juice",
+          "2 tbsp green chutney",
+          "Chopped coriander for garnish"
+        ],
+        "servings": 2,
+        "calories": 200,
+        "procedure": [
+          "1. In a bowl, mix sprouted moong dal, onions, tomatoes, and boiled potatoes.",
+          "2. Add chaat masala, cumin powder, and black salt.",
+          "3. Squeeze lemon juice and mix well.",
+          "4. Drizzle green chutney over the mixture.",
+          "5. Garnish with chopped coriander before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://example.com/moong-dal-chaat.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=example14"
+      },
+      {
+        "id": 70,
+        "title": "Raj Kachori",
+        "description": "A royal chaat filled with a mix of potatoes, sprouts, chutneys, and yogurt.",
+        "ingredients": [
+          "4 large kachoris",
+          "1/2 cup boiled potatoes (diced)",
+          "1/2 cup boiled chickpeas",
+          "1/2 cup yogurt",
+          "2 tbsp tamarind chutney",
+          "2 tbsp green chutney",
+          "1/2 tsp chaat masala",
+          "1/4 tsp black salt",
+          "1/2 tsp cumin powder",
+          "1/2 cup sev",
+          "Chopped coriander for garnish"
+        ],
+        "servings": 2,
+        "calories": 400,
+        "procedure": [
+          "1. Make a hole in the center of each kachori.",
+          "2. Fill the kachoris with boiled potatoes and chickpeas.",
+          "3. Drizzle yogurt, tamarind chutney, and green chutney inside.",
+          "4. Sprinkle chaat masala, black salt, and cumin powder.",
+          "5. Top with sev and garnish with chopped coriander before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://example.com/raj-kachori.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=example15"
+      },
+      {
+        "id": 71,
+        "title": "Paneer Tikka Chaat",
+        "description": "A fusion chaat made with spiced grilled paneer, chutneys, and veggies.",
+        "ingredients": [
+          "200g paneer (cubed)",
+          "1 tbsp yogurt",
+          "1/2 tsp turmeric powder",
+          "1/2 tsp red chili powder",
+          "1/2 tsp garam masala",
+          "1/2 tsp cumin powder",
+          "1/2 tsp chaat masala",
+          "1 tbsp lemon juice",
+          "1/2 cup chopped onions",
+          "1/2 cup chopped tomatoes",
+          "2 tbsp tamarind chutney",
+          "2 tbsp green chutney",
+          "Chopped coriander for garnish"
+        ],
+        "servings": 2,
+        "calories": 400,
+        "procedure": [
+          "1. Marinate paneer cubes with yogurt, turmeric, red chili powder, garam masala, cumin powder, and lemon juice for 15 minutes.",
+          "2. Grill or pan-fry the paneer until golden brown.",
+          "3. Arrange on a plate and top with chopped onions and tomatoes.",
+          "4. Drizzle tamarind and green chutney.",
+          "5. Sprinkle chaat masala and garnish with coriander before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://example.com/paneer-tikka-chaat.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=example17"
+      },
+      {
+        "id": 72,
+        "title": "Dahi Bhalla Chaat",
+        "description": "Soft lentil dumplings soaked in yogurt and topped with chutneys and spices.",
+        "ingredients": [
+          "1 cup urad dal (soaked and ground)",
+          "1/2 tsp salt",
+          "1/2 tsp cumin powder",
+          "1/2 tsp chaat masala",
+          "1/4 tsp black salt",
+          "1 cup yogurt (whisked)",
+          "2 tbsp tamarind chutney",
+          "2 tbsp green chutney",
+          "1/2 cup sev",
+          "Chopped coriander for garnish"
+        ],
+        "servings": 4,
+        "calories": 350,
+        "procedure": [
+          "1. Make small balls from the ground urad dal and deep fry until golden brown.",
+          "2. Soak the fried bhallas in warm water for 10 minutes and squeeze out excess water.",
+          "3. Arrange on a plate and cover with whisked yogurt.",
+          "4. Drizzle tamarind and green chutney.",
+          "5. Sprinkle chaat masala, black salt, and cumin powder.",
+          "6. Garnish with sev and chopped coriander before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://example.com/dahi-bhalla-chaat.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=example18"
+      },
+      {
+        "id": 73,
+        "title": "Makhana Chaat",
+        "description": "A crunchy and healthy chaat made with roasted makhana (fox nuts), veggies, and tangy spices.",
+        "ingredients": [
+          "2 cups makhana (fox nuts)",
+          "1/2 cup chopped cucumber",
+          "1/2 cup chopped tomatoes",
+          "1/2 cup chopped onions",
+          "1/2 tsp chaat masala",
+          "1/2 tsp cumin powder",
+          "1/4 tsp black salt",
+          "1 tbsp lemon juice",
+          "1 tbsp green chutney",
+          "Chopped coriander for garnish"
+        ],
+        "servings": 2,
+        "calories": 200,
+        "procedure": [
+          "1. Dry roast makhana in a pan until crispy.",
+          "2. Mix roasted makhana with chopped cucumber, tomatoes, and onions.",
+          "3. Add chaat masala, cumin powder, and black salt.",
+          "4. Drizzle lemon juice and green chutney.",
+          "5. Garnish with chopped coriander before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://example.com/makhana-chaat.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=example21"
+      },
+      {
+        "id": 74,
+        "title": "Pani Puri",
+        "description": "A popular Indian street food consisting of crispy puris filled with spicy, tangy, and flavored water along with potato and chickpea stuffing.",
+        "ingredients": [
+          "20 puris",
+          "1/2 cup boiled and mashed potatoes",
+          "1/2 cup boiled chickpeas",
+          "1/2 cup chopped onions",
+          "1/2 tsp chaat masala",
+          "1/2 tsp cumin powder",
+          "1/2 tsp black salt",
+          "1 tbsp tamarind chutney",
+          "2 tbsp green chutney",
+          "2 cups chilled mint-flavored pani (spiced water)",
+          "Chopped coriander for garnish"
+        ],
+        "servings": 4,
+        "calories": 250,
+        "procedure": [
+          "1. Mix mashed potatoes, chickpeas, onions, chaat masala, cumin powder, and black salt to prepare the stuffing.",
+          "2. Prepare the pani by blending mint, coriander, green chilies, cumin powder, black salt, and chilled water.",
+          "3. Poke a hole in each puri and stuff it with the potato-chickpea mixture.",
+          "4. Add a little tamarind chutney and green chutney.",
+          "5. Dip the filled puri into the chilled pani and serve immediately."
+        ],
+        "type": "Vegetarian",
+        "image": "https://example.com/pani-puri.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=example31"
+      },
+      {
+        "id": 75,
+        "title": "Dahi Puri",
+        "description": "A delightful chaat dish made with crispy puris filled with spicy potato mixture and topped with yogurt, chutneys, and sev.",
+        "ingredients": [
+          "20 puris",
+          "1/2 cup boiled and mashed potatoes",
+          "1/2 cup boiled chickpeas",
+          "1/2 cup chopped onions",
+          "1/2 cup fresh yogurt (whisked)",
+          "1/2 tsp chaat masala",
+          "1/2 tsp cumin powder",
+          "1/2 tsp black salt",
+          "1 tbsp tamarind chutney",
+          "2 tbsp green chutney",
+          "1/2 cup sev",
+          "Chopped coriander for garnish"
+        ],
+        "servings": 4,
+        "calories": 280,
+        "procedure": [
+          "1. Mix mashed potatoes, chickpeas, onions, chaat masala, cumin powder, and black salt to prepare the stuffing.",
+          "2. Poke a hole in each puri and fill it with the stuffing.",
+          "3. Add a spoonful of whisked yogurt over each puri.",
+          "4. Drizzle tamarind chutney and green chutney on top.",
+          "5. Sprinkle sev and chopped coriander before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://example.com/dahi-puri.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=example32"
+      } 
+    ]
+  },
+  {
+    "category": "Chocolates",
+    "recipes": [
+      {
+        "id": 76,
+        "title": "Classic Dark Chocolate",
+        "description": "A simple and rich homemade dark chocolate made with cocoa butter, cocoa powder, and sweetener.",
+        "ingredients": [
+            "1/2 cup cocoa butter",
+            "1/2 cup cocoa powder",
+            "1/4 cup honey or maple syrup",
+            "1/2 tsp vanilla extract",
+            "Pinch of salt"
+        ],
+        "servings": 10,
+        "calories": 180,
+        "procedure": [
+            "1. Melt cocoa butter over a double boiler.",
+            "2. Stir in cocoa powder, honey, vanilla extract, and salt until smooth.",
+            "3. Pour into molds and refrigerate until set.",
+            "4. Remove from molds and store in a cool place."
+        ],
+        "type": "Vegetarian",
+        "image": "https://www.example.com/dark-chocolate.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=example"
+      },
+      {
+        "id": 77,
+        "title": "Milk Chocolate Bars",
+        "description": "Creamy homemade milk chocolate with a smooth texture and sweet taste.",
+        "ingredients": [
+            "1/2 cup cocoa butter",
+            "1/2 cup milk powder",
+            "1/4 cup cocoa powder",
+            "1/4 cup powdered sugar",
+            "1/2 tsp vanilla extract"
+        ],
+        "servings": 8,
+        "calories": 200,
+        "procedure": [
+            "1. Melt cocoa butter over low heat.",
+            "2. Add milk powder, cocoa powder, and powdered sugar, stirring continuously.",
+            "3. Mix in vanilla extract and pour into molds.",
+            "4. Let it set in the refrigerator before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://www.example.com/milk-chocolate.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=example"
+      },
+      {
+        "id": 78,
+        "title": "White Chocolate Delight",
+        "description": "Smooth and creamy homemade white chocolate made with cocoa butter and milk powder.",
+        "ingredients": [
+            "1/2 cup cocoa butter",
+            "1/2 cup powdered sugar",
+            "1/2 cup milk powder",
+            "1/2 tsp vanilla extract",
+            "Pinch of salt"
+        ],
+        "servings": 8,
+        "calories": 220,
+        "procedure": [
+            "1. Melt cocoa butter over a double boiler.",
+            "2. Stir in powdered sugar, milk powder, vanilla extract, and salt.",
+            "3. Pour into molds and refrigerate until set.",
+            "4. Remove from molds and store in a cool place."
+        ],
+        "type": "Vegetarian",
+        "image": "https://www.example.com/white-chocolate.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=example"
+      },
+      {
+        "id": 79,
+        "title": "Hazelnut Chocolate Truffles",
+        "description": "Rich chocolate truffles with a crunchy hazelnut center.",
+        "ingredients": [
+            "1 cup dark chocolate (melted)",
+            "1/4 cup heavy cream",
+            "1/2 cup hazelnuts (crushed)",
+            "1/2 tsp vanilla extract",
+            "Cocoa powder for coating"
+        ],
+        "servings": 12,
+        "calories": 150,
+        "procedure": [
+            "1. Heat cream and mix it into melted chocolate.",
+            "2. Stir in vanilla extract and let the mixture cool until thick.",
+            "3. Roll into small balls and coat with crushed hazelnuts or cocoa powder.",
+            "4. Refrigerate until firm and serve."
+        ],
+        "type": "Vegetarian",
+        "image": "https://www.example.com/hazelnut-truffles.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=example"
+      },
+      {
+        "id": 80,
+        "title": "Coconut Chocolate Bars",
+        "description": "Homemade chocolate bars filled with coconut and coated with dark chocolate.",
+        "ingredients": [
+            "1 cup shredded coconut",
+            "1/4 cup condensed milk",
+            "1 cup dark chocolate (melted)",
+            "1/2 tsp vanilla extract"
+        ],
+        "servings": 10,
+        "calories": 190,
+        "procedure": [
+            "1. Mix shredded coconut, condensed milk, and vanilla extract.",
+            "2. Shape into small bars and freeze until firm.",
+            "3. Dip each bar into melted chocolate and place on parchment paper.",
+            "4. Refrigerate until chocolate hardens and serve."
+        ],
+        "type": "Vegetarian",
+        "image": "https://www.example.com/coconut-bars.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=example"
+      },
+      {
+        "id": 81,
+        "title": "Kunafa Chocolate",
+        "description": "A fusion of Middle Eastern kunafa and rich chocolate, offering a crunchy and creamy texture.",
+        "ingredients": [
+            "1 cup shredded kunafa dough",
+            "1/4 cup melted butter",
+            "1 cup dark chocolate (melted)",
+            "1/4 cup condensed milk",
+            "1/4 cup chopped pistachios"
+        ],
+        "servings": 8,
+        "calories": 250,
+        "procedure": [
+            "1. Toast the shredded kunafa dough with melted butter until golden brown.",
+            "2. Mix condensed milk with melted chocolate and stir until smooth.",
+            "3. Layer the toasted kunafa at the bottom of a mold.",
+            "4. Pour the chocolate mixture over the kunafa layer.",
+            "5. Sprinkle chopped pistachios on top and refrigerate until set."
+        ],
+        "type": "Vegetarian",
+        "image": "https://www.example.com/kunafa-chocolate.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=example"
+    },
+    {
+      "id": 82,
+      "title": "Fruit and Nut Chocolate",
+      "description": "A delightful mix of dried fruits and crunchy nuts covered in smooth dark chocolate.",
+      "ingredients": [
+          "1 cup dark chocolate (melted)",
+          "1/4 cup almonds (chopped)",
+          "1/4 cup walnuts (chopped)",
+          "1/4 cup dried cranberries",
+          "1/4 cup raisins"
+      ],
+      "servings": 10,
+      "calories": 220,
+      "procedure": [
+          "1. Melt the dark chocolate over a double boiler.",
+          "2. Stir in chopped nuts, dried cranberries, and raisins.",
+          "3. Pour into molds and refrigerate until firm.",
+          "4. Remove from molds and enjoy."
+      ],
+      "type": "Vegetarian",
+      "image": "https://www.example.com/fruit-nut-chocolate.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=example"
+    },
+    {
+      "id": 83,
+      "title": "Roasted Almond Chocolate",
+      "description": "Homemade chocolate infused with the rich flavor of roasted almonds.",
+      "ingredients": [
+          "1 cup dark chocolate (melted)",
+          "1/2 cup roasted almonds (chopped)",
+          "1/2 tsp sea salt",
+          "1/2 tsp vanilla extract"
+      ],
+      "servings": 10,
+      "calories": 210,
+      "procedure": [
+          "1. Melt the dark chocolate over a double boiler.",
+          "2. Stir in roasted almonds, sea salt, and vanilla extract.",
+          "3. Pour into molds and refrigerate until set.",
+          "4. Remove from molds and store in a cool place."
+      ],
+      "type": "Vegetarian",
+      "image": "https://www.example.com/roasted-almond-chocolate.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=example"
+    },
+    {
+      "id": 84,
+      "title": "Peanut Butter Chocolate Cups",
+      "description": "Creamy peanut butter encased in rich dark chocolate, a perfect homemade treat.",
+      "ingredients": [
+          "1 cup dark chocolate (melted)",
+          "1/2 cup peanut butter",
+          "1 tbsp honey",
+          "1/2 tsp vanilla extract",
+          "Pinch of salt"
+      ],
+      "servings": 12,
+      "calories": 230,
+      "procedure": [
+          "1. Melt half of the dark chocolate and pour into cupcake liners.",
+          "2. Freeze for 10 minutes until firm.",
+          "3. Mix peanut butter, honey, vanilla extract, and salt.",
+          "4. Add a spoonful of the peanut butter mixture on top of the chocolate layer.",
+          "5. Cover with remaining melted chocolate and refrigerate until set."
+      ],
+      "type": "Vegetarian",
+      "image": "https://www.example.com/peanut-butter-cups.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=example"
+    },
+    {
+      "id": 85,
+      "title": "Chocolate Truffle Balls",
+      "description": "Rich, smooth, and decadent chocolate truffle balls with a soft ganache center.",
+      "ingredients": [
+          "1 cup dark chocolate (chopped)",
+          "1/2 cup heavy cream",
+          "1/2 tsp vanilla extract",
+          "Cocoa powder for coating"
+      ],
+      "servings": 10,
+      "calories": 180,
+      "procedure": [
+          "1. Heat the heavy cream until warm and pour over chopped chocolate.",
+          "2. Stir until smooth and mix in vanilla extract.",
+          "3. Let the ganache cool until firm, then roll into small balls.",
+          "4. Coat with cocoa powder and refrigerate until set."
+      ],
+      "type": "Vegetarian",
+      "image": "https://www.example.com/chocolate-truffles.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=example"
+    },
+    {
+      "id": 86,
+      "title": "Dark Chocolate Bark",
+      "description": "A simple and delicious chocolate bark loaded with nuts and dried fruits.",
+      "ingredients": [
+          "1 cup dark chocolate (melted)",
+          "1/4 cup almonds (chopped)",
+          "1/4 cup dried cranberries",
+          "1/4 cup pumpkin seeds",
+          "1/2 tsp sea salt"
+      ],
+      "servings": 10,
+      "calories": 210,
+      "procedure": [
+          "1. Melt the dark chocolate over a double boiler.",
+          "2. Spread the melted chocolate on a parchment-lined tray.",
+          "3. Sprinkle almonds, dried cranberries, and pumpkin seeds on top.",
+          "4. Sprinkle sea salt and let it set in the fridge.",
+          "5. Once hardened, break into pieces and serve."
+      ],
+      "type": "Vegetarian",
+      "image": "https://www.example.com/dark-chocolate-bark.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=example"
+    },
+    {
+      "id": 87,
+      "title": "Coconut Chocolate Truffles",
+      "description": "A rich and creamy chocolate truffle coated with coconut flakes.",
+      "ingredients": [
+          "1 cup dark chocolate (chopped)",
+          "1/2 cup heavy cream",
+          "1/2 cup shredded coconut",
+          "1/2 tsp vanilla extract"
+      ],
+      "servings": 12,
+      "calories": 190,
+      "procedure": [
+          "1. Heat the heavy cream and pour over chopped chocolate.",
+          "2. Stir until smooth and mix in vanilla extract.",
+          "3. Let the mixture cool and roll into small balls.",
+          "4. Roll the truffles in shredded coconut and refrigerate until set."
+      ],
+      "type": "Vegetarian",
+      "image": "https://www.example.com/coconut-truffles.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=example"
+    },
+    {
+      "id": 88,
+      "title": "Caramel Filled Chocolates",
+      "description": "Soft caramel filling encased in rich chocolate, a perfect homemade treat.",
+      "ingredients": [
+          "1 cup dark chocolate (melted)",
+          "1/2 cup caramel sauce",
+          "1/2 tsp sea salt"
+      ],
+      "servings": 12,
+      "calories": 220,
+      "procedure": [
+          "1. Melt half of the dark chocolate and pour into chocolate molds.",
+          "2. Let it set in the fridge for 10 minutes.",
+          "3. Add a spoonful of caramel sauce to each mold.",
+          "4. Cover with the remaining melted chocolate and refrigerate until firm."
+      ],
+      "type": "Vegetarian",
+      "image": "https://www.example.com/caramel-chocolates.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=example"
+    },
+    {
+      "id": 89,
+      "title": "Mint Chocolate Bars",
+      "description": "A refreshing minty chocolate bar with a smooth and creamy texture.",
+      "ingredients": [
+          "1 cup dark chocolate (melted)",
+          "1/2 cup white chocolate (melted)",
+          "1/2 tsp peppermint extract",
+          "Green food coloring (optional)"
+      ],
+      "servings": 8,
+      "calories": 230,
+      "procedure": [
+          "1. Melt the white chocolate and mix in peppermint extract and green food coloring.",
+          "2. Pour a layer of dark chocolate into a mold and let it set.",
+          "3. Add a layer of mint-flavored white chocolate.",
+          "4. Cover with another layer of dark chocolate and refrigerate until set."
+      ],
+      "type": "Vegetarian",
+      "image": "https://www.example.com/mint-chocolate-bars.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=example"
+    },
+    {
+      "id": 90,
+      "title": "Hazelnut Praline Chocolate",
+      "description": "A crunchy hazelnut praline wrapped in smooth milk chocolate.",
+      "ingredients": [
+          "1 cup milk chocolate (melted)",
+          "1/2 cup hazelnuts (chopped)",
+          "1/4 cup sugar",
+          "1 tbsp butter"
+      ],
+      "servings": 10,
+      "calories": 250,
+      "procedure": [
+          "1. Caramelize sugar in a pan, add hazelnuts and butter, and mix well.",
+          "2. Let the mixture cool and then crush it into small pieces.",
+          "3. Mix the hazelnut praline with melted milk chocolate.",
+          "4. Pour into molds and refrigerate until firm."
+      ],
+      "type": "Vegetarian",
+      "image": "https://www.example.com/hazelnut-praline-chocolate.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=example"
+    }
+    ]   
+  }
+
+]
+}
