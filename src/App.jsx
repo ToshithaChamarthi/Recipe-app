@@ -1,7 +1,7 @@
 import {BrowserRouter as Router,Routes,Route}from "react-router-dom";
 import IndexPage from "./index.jsx";
 import HomePage from "./home.jsx";
-import Navbar from "./components/navbar.jsx";
+import Navbar from "./navbar.jsx";
 function App() {
   return (
     <>
