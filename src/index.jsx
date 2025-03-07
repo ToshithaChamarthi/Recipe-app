@@ -6,7 +6,7 @@ const IndexPage = () => {
   useEffect(() =>{
     const timer =setTimeout(() =>{
       navigate("/next");
-    },7000)
+    },3000)
     return () => clearTimeout(timer);
   },[navigate]);
 

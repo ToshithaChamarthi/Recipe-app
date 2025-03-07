@@ -3,7 +3,7 @@
     width: 38px;
     background-color: red;
     position: relative;
-    /* .bar{
+    .bar{
        height: 8px;
        width: 100%;
        position:absolute;
@@ -18,5 +18,5 @@
         top:100%;
         transform: translateY(-100%);
        }
-    } */
+    }
 }
