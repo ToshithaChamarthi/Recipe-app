@@ -22,6 +22,7 @@
         ],
         "servings": 4,
         "calories": 650,
+        "time": "160 minutes",
         "procedure": [
           "1. Marinate chicken with yogurt, biryani masala, ginger-garlic paste, and salt for 2 hours.",
           "2. Fry sliced onions in ghee until golden brown.",
@@ -54,6 +55,7 @@
         ],
         "servings": 3,
         "calories": 550,
+        "time": "90 minutes",
         "procedure": [
           "1. Marinate paneer with yogurt, biryani masala, ginger-garlic paste, and salt for 30 minutes.",
           "2. Fry sliced onions in ghee until golden brown.",
@@ -86,6 +88,7 @@
         ],
         "servings": 4,
         "calories": 700,
+        "time": "180 minutes",
         "procedure": [
           "1. Marinate mutton with yogurt, biryani masala, ginger-garlic paste, and salt for 4 hours.",
           "2. Fry sliced onions in ghee until golden brown.",
@@ -118,6 +121,7 @@
         ],
         "servings": 3,
         "calories": 500,
+        "time": "90 minutes",
         "procedure": [
           "1. Marinate mushrooms with yogurt, biryani masala, ginger-garlic paste, and salt for 30 minutes.",
           "2. Fry sliced onions in ghee until golden brown.",
@@ -150,6 +154,7 @@
         ],
         "servings": 4,
         "calories": 520,
+        "time": "90 minutes",
         "procedure": [
           "1. Chop vegetables into bite-sized pieces and parboil them.",
           "2. Marinate the vegetables with yogurt, biryani masala, ginger-garlic paste, and salt for 30 minutes.",
@@ -183,6 +188,7 @@
         ],
         "servings": 3,
         "calories": 520,
+        "time": "90 minutes",
         "procedure": [
           "1. Marinate cauliflower florets with yogurt, biryani masala, ginger-garlic paste, and salt for 30 minutes.",
           "2. Fry sliced onions in ghee until golden brown.",
@@ -216,6 +222,7 @@
         ],
         "servings": 4,
         "calories": 540,
+        "time": "100 minutes",
         "procedure": [
           "1. Marinate potatoes and cauliflower with yogurt, biryani masala, ginger-garlic paste, and salt for 30 minutes.",
           "2. Fry sliced onions in ghee until golden brown.",
@@ -248,6 +255,7 @@
         ],
         "servings": 3,
         "calories": 500,
+        "time": "90 minutes",
         "procedure": [
           "1. Marinate tofu cubes with yogurt, biryani masala, ginger-garlic paste, and salt for 30 minutes.",
           "2. Fry sliced onions in ghee until golden brown.",
@@ -280,6 +288,7 @@
         ],
         "servings": 4,
         "calories": 480,
+        "time": "60 minutes",
         "procedure": [
           "1. Sauté onions and ginger-garlic paste in ghee until golden brown.",
           "2. Add chopped vegetables and cook until slightly tender.",
@@ -313,6 +322,7 @@
             "Ghee"],
         "servings": 4,
         "calories": 500,
+        "time": "90 minutes",
         "procedure": [
             "1. Marinate the vegetables with yogurt, biryani masala, ginger-garlic paste, and salt for 30 minutes.", 
             "2. Fry sliced onions in ghee until golden brown.",
@@ -343,6 +353,7 @@
             "Ghee"],
         "servings": 3,
         "calories": 480,
+        "time": "75 minutes",
         "procedure": [
             "1. Marinate bottle gourd with yogurt, biryani masala, ginger-garlic paste, and salt for 30 minutes.", 
             "2. Fry sliced onions in ghee until golden brown.", 
@@ -373,6 +384,7 @@
             "Ghee"],
         "servings": 3,
         "calories": 460,
+        "time": "80 minutes",
         "procedure": [
             "1. Marinate green peas with yogurt, biryani masala, ginger-garlic paste, and salt for 30 minutes.", 
             "2. Fry sliced onions in ghee until golden brown.", 
@@ -403,6 +415,7 @@
             "Ghee"],
         "servings": 4,
         "calories": 630,
+        "time": "120 minutes",
         "procedure": [
             "1. Marinate chicken with yogurt, biryani masala, ginger-garlic paste, and salt for 2 hours.", 
             "2. Fry sliced onions in ghee until golden brown.", 
@@ -437,6 +450,7 @@
         ],
         "servings": 4,
         "calories": 680,
+        "time": "150 minutes",
         "procedure": [
           "1. Marinate mutton with yogurt, garam masala, ginger-garlic paste, salt, and rose water for 4 hours.",
           "2. Fry sliced onions in ghee until golden brown.",
@@ -471,6 +485,7 @@
         ],
         "servings": 4,
         "calories": 620,
+        "time": "130 minutes",
         "procedure": [
           "1. Marinate chicken with yogurt, fennel powder, ginger-garlic paste, turmeric, and salt for 2 hours.",
           "2. Fry sliced onions in ghee until golden brown.",
@@ -506,6 +521,7 @@
         ],
         "servings": 4,
         "calories": 690,
+        "time": "110 minutes",
         "procedure": [
           "1. Marinate mutton with yogurt, chili powder, coriander powder, and salt for 3 hours.",
           "2. Fry sliced onions in ghee until golden brown.",
@@ -543,6 +559,7 @@
         ],
         "servings": 4,
         "calories": 670,
+        "time": "140 minutes",
         "procedure": [
           "1. Marinate chicken with ginger-garlic paste, green chili paste, and salt for 1 hour.",
           "2. Fry sliced onions in ghee until golden brown.",
@@ -580,6 +597,7 @@
         ],
         "servings": 4,
         "calories": 650,
+        "time": "160 minutes",
         "procedure": [
           "1. Marinate chicken/mutton with yogurt, biryani masala, ginger-garlic paste, and salt for 4 hours.",
           "2. Fry sliced onions in ghee until golden brown.",
@@ -615,6 +633,7 @@
         ],
         "servings": 4,
         "calories": 700,
+        "time": "100 minutes",
         "procedure": [
           "1. Marinate mutton/chicken with yogurt, black pepper, biryani masala, and salt for 2 hours.",
           "2. Fry sliced onions in ghee until golden brown.",
@@ -651,6 +670,7 @@
         ],
         "servings": 4,
         "calories": 720,
+        "time": "130 minutes",
         "procedure": [
           "1. Marinate chicken/mutton with yogurt, Chettinad spice mix, and salt for 3 hours.",
           "2. Fry sliced onions in ghee until golden brown.",
@@ -690,6 +710,7 @@
         ],
         "servings": 4,
         "calories": 320,
+        "time": "50 minutes",
         "procedure": [
           "1. Mash the black beans in a large bowl until mostly smooth.",
           "2. Add breadcrumbs, onions, bell peppers, garlic, cumin, chili powder, soy sauce, and egg.",
@@ -718,6 +739,7 @@
         ],
         "servings": 4,
         "calories": 450,
+        "time": "45 minutes",
         "procedure": [
           "1. Melt butter in a pan over medium heat.",
           "2. Add mushrooms and garlic, sauté until golden and tender.",
@@ -750,6 +772,7 @@
         ],
         "servings": 4,
         "calories": 330,
+        "time": "60 minutes",
         "procedure": [
           "1. Mash the cooked lentils in a bowl.",
           "2. Add rolled oats, breadcrumbs, onions, garlic, paprika, cumin, soy sauce, and egg.",
@@ -779,6 +802,7 @@
         ],
         "servings": 4,
         "calories": 340,
+        "time": "55 minutes",
         "procedure": [
           "1. In a bowl, mix quinoa, grated carrots, bell peppers, breadcrumbs, and seasonings.",
           "2. Add the egg and mix until everything binds together.",
@@ -807,6 +831,7 @@
         ],
         "servings": 4,
         "calories": 360,
+        "time": "50 minutes",
         "procedure": [
           "1. Mash the sweet potatoes and chickpeas together in a bowl.",
           "2. Add flour, parsley, garlic, cumin, coriander, salt, and pepper.",
@@ -842,6 +867,7 @@
         ],
         "servings": 2,
         "calories": 550,
+        "time": "45 minutes",
         "procedure": [
           "1. Mix minced chicken, mashed potato, breadcrumbs, garam masala, cumin powder, red chili powder, and salt in a bowl.",
           "2. Shape the mixture into patties and coat them with cornflour.",
@@ -877,6 +903,7 @@
         ],
         "servings": 2,
         "calories": 600,
+        "time": "50 minutes",
         "procedure": [
           "1. Marinate chicken breast with barbecue sauce, smoked paprika, garlic powder, salt, and olive oil for 30 minutes.",
           "2. Grill the marinated chicken on medium heat until cooked through.",
@@ -915,6 +942,7 @@
         ],
         "servings": 2,
         "calories": 580,
+        "time": "60 minutes",
         "procedure": [
           "1. Mix minced chicken with yogurt, breadcrumbs, garam masala, turmeric powder, cumin powder, red chili powder, salt, and chopped coriander leaves.",
           "2. Shape the mixture into patties and coat with cornflour.",
@@ -949,6 +977,7 @@
         ],
         "servings": 2,
         "calories": 620,
+        "time": "50 minutes",
         "procedure": [
           "1. Marinate chicken breast with cumin powder, smoked paprika, garlic powder, salt, and olive oil for 30 minutes.",
           "2. Grill the marinated chicken until fully cooked.",
@@ -984,6 +1013,7 @@
         ],
         "servings": 2,
         "calories": 520,
+        "time": "40 minutes",
         "procedure": [
           "1. Boil the eggs, peel them, and mash with boiled potato, breadcrumbs, cumin powder, red chili powder, salt, and chopped coriander.",
           "2. Shape into patties and coat with cornflour.",
@@ -1023,6 +1053,7 @@
       ],
       "servings": 8,
       "calories": 450,
+      "time": "75 minutes",
       "procedure": [
         "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
         "2. In a bowl, whisk together flour, baking powder, baking soda, salt, cinnamon, and nutmeg.",
@@ -1055,6 +1086,7 @@
       ],
       "servings": 8,
       "calories": 480,
+      "time": "80 minutes",
       "procedure": [
         "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
         "2. In a bowl, whisk together flour, cocoa powder, baking soda, and salt.",
@@ -1091,6 +1123,7 @@
       ],
       "servings": 10,
       "calories": 500,
+      "time": "90 minutes",
       "procedure": [
         "1. Preheat the oven to 350°F (175°C) and grease two cake pans.",
         "2. In a bowl, whisk together flour, cocoa powder, baking powder, baking soda, salt, and sugar.",
@@ -1123,6 +1156,7 @@
       ],
       "servings": 10,
       "calories": 520,
+      "time": "70 minutes",
       "procedure": [
         "1. Preheat the oven to 350°F (175°C) and grease two cake pans.",
         "2. In a bowl, mix flour, cocoa powder, baking powder, baking soda, salt, and sugar.",
@@ -1152,6 +1186,7 @@
         ],
         "servings": 8,
         "calories": 500,
+        "time": "240 minutes",
         "procedure": [
           "1. Preheat the oven to 325°F (163°C) and grease a springform pan.",
           "2. Mix graham cracker crumbs, melted butter, and sugar. Press into the bottom of the pan.",
@@ -1182,6 +1217,7 @@
         ],
         "servings": 10,
         "calories": 480,
+        "time": "85 minutes",
         "procedure": [
           "1. Preheat the oven to 350°F (175°C) and grease two cake pans.",
           "2. In a bowl, whisk together flour, baking powder, and salt.",
@@ -1213,6 +1249,7 @@
         ],
         "servings": 8,
         "calories": 450,
+        "time": "75 minutes",
         "procedure": [
           "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
           "2. In a bowl, mix flour, baking powder, salt, and cinnamon.",
@@ -1245,6 +1282,7 @@
         ],
         "servings": 8,
         "calories": 460,
+        "time": "70 minutes",
         "procedure": [
           "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
           "2. In a bowl, whisk together flour, baking powder, and salt.",
@@ -1278,6 +1316,7 @@
       ],
       "servings": 10,
       "calories": 520,
+      "time": "90 minutes",
       "procedure": [
         "1. Preheat the oven to 350°F (175°C) and grease two cake pans.",
         "2. In a bowl, whisk together flour, cocoa powder, baking soda, baking powder, salt, and sugar.",
@@ -1307,6 +1346,7 @@
       ],
       "servings": 8,
       "calories": 450,
+      "time": "90 minutes",
       "procedure": [
         "1. Preheat the oven to 350°F (175°C) and grease a loaf pan.",
         "2. In a bowl, whisk together flour, baking powder, and salt.",
@@ -1335,6 +1375,7 @@
       ],
       "servings": 10,
       "calories": 280,
+      "time": "75 minutes",
       "procedure": [
         "1. Preheat the oven to 350°F (175°C) and prepare a tube pan (do not grease).",
         "2. In a bowl, sift together cake flour and half the sugar.",
@@ -1367,6 +1408,7 @@
       ],
       "servings": 10,
       "calories": 340,
+      "time": "80 minutes",
       "procedure": [
         "1. Preheat the oven to 325°F (160°C) and grease a tube pan.",
         "2. In a bowl, whisk together cake flour, sugar, baking powder, and salt.",
@@ -1380,12 +1422,12 @@
       "type": "Non-Vegetarian",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPVBbxT22Oa0a2OoiGTaCV1F0Mw7alvf-GKA&s",
       "youtube_link": "https://www.youtube.com/watch?v=pEL5IcDQdEw"
-      },
-      {
-        "id": 43,
-        "title": "Hummingbird Cake",
-        "description": "A moist and tropical-flavored cake made with bananas, pineapple, and warm spices, topped with cream cheese frosting.",
-        "ingredients": [
+    },
+    {
+      "id": 43,
+      "title": "Hummingbird Cake",
+      "description": "A moist and tropical-flavored cake made with bananas, pineapple, and warm spices, topped with cream cheese frosting.",
+      "ingredients": [
           "3 cups all-purpose flour",
           "2 cups sugar",
           "1 tsp baking soda",
@@ -1397,10 +1439,11 @@
           "1 cup crushed pineapple (with juice)",
           "2 ripe bananas (mashed)",
           "1 cup chopped pecans (optional)"
-        ],
-        "servings": 10,
-        "calories": 520,
-        "procedure": [
+      ],
+      "servings": 10,
+      "calories": 520,
+      "time": "90 minutes",
+      "procedure": [
           "1. Preheat the oven to 350°F (175°C) and grease two cake pans.",
           "2. In a large bowl, whisk together flour, sugar, baking soda, cinnamon, and salt.",
           "3. In another bowl, beat eggs, oil, and vanilla extract until combined.",
@@ -1408,12 +1451,12 @@
           "5. Gradually mix the dry ingredients into the wet ingredients.",
           "6. Pour batter into cake pans and bake for 25-30 minutes.",
           "7. Let cool before frosting with cream cheese frosting."
-        ],
-        "type": "Non-Vegetarian",
-        "image": "https://i.redd.it/877az10zv1q91.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=IAHpiHh8DM8"
-      },
-      {
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://i.redd.it/877az10zv1q91.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=IAHpiHh8DM8"
+    },
+    {
         "id": 44,
         "title": "Pineapple Upside-Down Cake",
         "description": "A classic buttery cake with caramelized pineapple and cherries baked on top.",
@@ -1432,6 +1475,7 @@
         ],
         "servings": 8,
         "calories": 480,
+        "time": "75 minutes",
         "procedure": [
           "1. Preheat oven to 350°F (175°C) and grease a cake pan.",
           "2. Melt butter and pour it into the pan, then sprinkle brown sugar evenly.",
@@ -1466,6 +1510,7 @@
         ],
         "servings": 8,
         "calories": 460,
+        "time": "85 minutes",
         "procedure": [
           "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
           "2. In a bowl, whisk together flour, baking powder, cinnamon, nutmeg, and salt.",
@@ -1503,6 +1548,7 @@
         ],
         "servings": 10,
         "calories": 550,
+        "time": "95 minutes",
         "procedure": [
           "1. Preheat the oven to 350°F (175°C) and grease two cake pans.",
           "2. In a bowl, whisk together flour, cocoa powder, baking powder, baking soda, salt, and sugar.",
@@ -1535,6 +1581,7 @@
       ],
       "servings": 8,
       "calories": 420,
+      "time": "70 minutes",
       "procedure": [
         "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
         "2. In a bowl, mix flour, baking soda, baking powder, and salt.",
@@ -1565,6 +1612,7 @@
       ],
       "servings": 8,
       "calories": 400,
+      "time": "75 minutes",
       "procedure": [
         "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
         "2. In a bowl, mix flour, baking soda, baking powder, salt, and cinnamon.",
@@ -1594,6 +1642,7 @@
       ],
       "servings": 8,
       "calories": 450,
+      "time": "75 minutes",
       "procedure": [
         "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
         "2. In a bowl, mix flour, baking soda, baking powder, and salt.",
@@ -1626,6 +1675,7 @@
       ],
       "servings": 10,
       "calories": 480,
+      "time": "90 minutes",
       "procedure": [
         "1. Preheat the oven to 325°F (160°C) and grease a cake pan.",
         "2. In a bowl, mix flour, baking soda, baking powder, salt, cinnamon, and nutmeg.",
@@ -1655,6 +1705,7 @@
       ],
       "servings": 8,
       "calories": 400,
+      "time": "75 minutes",
       "procedure": [
         "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
         "2. In a bowl, whisk together flour, baking powder, and salt.",
@@ -1686,6 +1737,7 @@
       ],
       "servings": 8,
       "calories": 420,
+      "time": "80 minutes",
       "procedure": [
         "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
         "2. In a bowl, whisk together flour, baking soda, and salt.",
@@ -1717,6 +1769,7 @@
       ],
       "servings": 8,
       "calories": 450,
+      "time": "85 minutes",
       "procedure": [
         "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
         "2. In a bowl, whisk together flour, baking powder, and salt.",
@@ -1747,6 +1800,7 @@
       ],
       "servings": 4,
       "calories": 450,
+      "time": "45 minutes",
       "procedure": [
         "1. Preheat the oven to 425°F (220°C) and grease ramekins.",
         "2. Melt dark chocolate and butter together over low heat, stirring until smooth.",
@@ -1780,6 +1834,7 @@
       ],
       "servings": 8,
       "calories": 420,
+      "time": "75 minutes",
       "procedure": [
         "1. Preheat the oven to 350°F (175°C) and grease a cake pan.",
         "2. In a bowl, whisk together flour, baking powder, baking soda, and salt.",
@@ -1798,7 +1853,7 @@
     ]
   },
   {
-    "category": "Chaat",
+    "category": "Chaats",
     "recipes": [
       {
         "id": 56,
@@ -1821,6 +1876,7 @@
         ],
         "servings": 2,
         "calories": 220,
+        "time": "30 minutes",
         "procedure": [
           "1. In a bowl, mix boiled potatoes, chickpeas, onion, tomato, and green chili.",
           "2. Add chaat masala, cumin powder, black salt, red chili powder, and lemon juice.",
@@ -1852,6 +1908,7 @@
         ],
         "servings": 3,
         "calories": 250,
+        "time": "40 minutes",
         "procedure": [
           "1. Mix gram flour, rice flour, turmeric, chili powder, garam masala, and salt in a bowl.",
           "2. Add water gradually to form a thick batter.",
@@ -1882,6 +1939,7 @@
         ],
         "servings": 2,
         "calories": 300,
+        "time": "45 minutes",
         "procedure": [
           "1. Mash boiled potatoes and mix with bread crumbs, salt, cumin powder, chaat masala, and black pepper.",
           "2. Shape into small patties and shallow-fry until golden brown.",
@@ -1909,6 +1967,7 @@
         ],
         "servings": 2,
         "calories": 280,
+        "time": "30 minutes",
         "procedure": [
           "1. Arrange papdis on a serving plate.",
           "2. Top with boiled chickpeas and potatoes.",
@@ -1941,6 +2000,7 @@
         ],
         "servings": 2,
         "calories": 260,
+        "time": "25 minutes",
         "procedure": [
           "1. Roast the papads on an open flame or dry roast in a pan until crispy.",
           "2. Break the papads into large pieces and place them on a serving plate.",
@@ -1970,6 +2030,7 @@
         ],
         "servings": 2,
         "calories": 350,
+        "time": "40 minutes",
         "procedure": [
           "1. Crush the samosas on a plate.",
           "2. Top with boiled chickpeas and yogurt.",
@@ -2000,6 +2061,7 @@
         ],
         "servings": 2,
         "calories": 280,
+        "time": "20 minutes",
         "procedure": [
           "1. Arrange puris on a plate.",
           "2. Add boiled potatoes, chopped onions, and tomatoes on top.",
@@ -2032,6 +2094,7 @@
         ],
         "servings": 2,
         "calories": 320,
+        "time": "50 minutes",
         "procedure": [
           "1. Mash boiled potatoes and mix with bread crumbs, salt, cumin powder, chaat masala, and black pepper.",
           "2. Shape into patties and shallow-fry until golden brown.",
@@ -2062,6 +2125,7 @@
         ],
         "servings": 2,
         "calories": 250,
+        "time": "15 minutes",
         "procedure": [
           "1. In a large bowl, mix puffed rice, onions, tomatoes, and potatoes.",
           "2. Add tamarind chutney and green chutney.",
@@ -2090,6 +2154,7 @@
         ],
         "servings": 2,
         "calories": 300,
+        "time": "40 minutes",
         "procedure": [
           "1. Mix mashed potatoes with dabeli masala, tamarind chutney, and green chutney.",
           "2. Heat a pan and lightly toast the pav buns with butter.",
@@ -2119,6 +2184,7 @@
         ],
         "servings": 2,
         "calories": 280,
+        "time": "20 minutes",
         "procedure": [
           "1. Heat oil in a pan and fry the boiled potato cubes until golden brown.",
           "2. Transfer the crispy potatoes to a bowl.",
@@ -2149,6 +2215,7 @@
         ],
         "servings": 2,
         "calories": 300,
+        "time": "35 minutes",
         "procedure": [
           "1. Boil the soaked white peas until soft and mash slightly.",
           "2. Mix in turmeric powder, garam masala, chaat masala, black salt, and red chili powder.",
@@ -2178,6 +2245,7 @@
         ],
         "servings": 2,
         "calories": 220,
+        "time": "15 minutes",
         "procedure": [
           "1. In a bowl, mix boiled sweet corn, onions, and tomatoes.",
           "2. Add chaat masala, cumin powder, and black salt.",
@@ -2207,6 +2275,7 @@
         ],
         "servings": 2,
         "calories": 200,
+        "time": "30 minutes",
         "procedure": [
           "1. In a bowl, mix sprouted moong dal, onions, tomatoes, and boiled potatoes.",
           "2. Add chaat masala, cumin powder, and black salt.",
@@ -2237,6 +2306,7 @@
         ],
         "servings": 2,
         "calories": 400,
+        "time": "45 minutes",
         "procedure": [
           "1. Make a hole in the center of each kachori.",
           "2. Fill the kachoris with boiled potatoes and chickpeas.",
@@ -2269,6 +2339,7 @@
         ],
         "servings": 2,
         "calories": 400,
+        "time": "50 minutes",
         "procedure": [
           "1. Marinate paneer cubes with yogurt, turmeric, red chili powder, garam masala, cumin powder, and lemon juice for 15 minutes.",
           "2. Grill or pan-fry the paneer until golden brown.",
@@ -2298,6 +2369,7 @@
         ],
         "servings": 4,
         "calories": 350,
+        "time": "60 minutes",
         "procedure": [
           "1. Make small balls from the ground urad dal and deep fry until golden brown.",
           "2. Soak the fried bhallas in warm water for 10 minutes and squeeze out excess water.",
@@ -2328,6 +2400,7 @@
         ],
         "servings": 2,
         "calories": 200,
+        "time": "20 minutes",
         "procedure": [
           "1. Dry roast makhana in a pan until crispy.",
           "2. Mix roasted makhana with chopped cucumber, tomatoes, and onions.",
@@ -2358,6 +2431,7 @@
         ],
         "servings": 4,
         "calories": 250,
+        "time": "45 minutes",
         "procedure": [
           "1. Mix mashed potatoes, chickpeas, onions, chaat masala, cumin powder, and black salt to prepare the stuffing.",
           "2. Prepare the pani by blending mint, coriander, green chilies, cumin powder, black salt, and chilled water.",
@@ -2389,6 +2463,7 @@
         ],
         "servings": 4,
         "calories": 280,
+        "time": "35 minutes",
         "procedure": [
           "1. Mix mashed potatoes, chickpeas, onions, chaat masala, cumin powder, and black salt to prepare the stuffing.",
           "2. Poke a hole in each puri and fill it with the stuffing.",
@@ -2418,6 +2493,7 @@
         ],
         "servings": 10,
         "calories": 180,
+        "time": "60 minutes",
         "procedure": [
             "1. Melt cocoa butter over a double boiler.",
             "2. Stir in cocoa powder, honey, vanilla extract, and salt until smooth.",
@@ -2441,6 +2517,7 @@
         ],
         "servings": 8,
         "calories": 200,
+        "time": "50 minutes",
         "procedure": [
             "1. Melt cocoa butter over low heat.",
             "2. Add milk powder, cocoa powder, and powdered sugar, stirring continuously.",
@@ -2464,6 +2541,7 @@
         ],
         "servings": 8,
         "calories": 220,
+        "time": "50 minutes",
         "procedure": [
             "1. Melt cocoa butter over a double boiler.",
             "2. Stir in powdered sugar, milk powder, vanilla extract, and salt.",
@@ -2487,6 +2565,7 @@
         ],
         "servings": 12,
         "calories": 150,
+        "time": "90 minutes",
         "procedure": [
             "1. Heat cream and mix it into melted chocolate.",
             "2. Stir in vanilla extract and let the mixture cool until thick.",
@@ -2509,6 +2588,7 @@
         ],
         "servings": 10,
         "calories": 190,
+        "time": "75 minutes",
         "procedure": [
             "1. Mix shredded coconut, condensed milk, and vanilla extract.",
             "2. Shape into small bars and freeze until firm.",
@@ -2532,6 +2612,7 @@
         ],
         "servings": 8,
         "calories": 250,
+        "time": "120 minutes",
         "procedure": [
             "1. Toast the shredded kunafa dough with melted butter until golden brown.",
             "2. Mix condensed milk with melted chocolate and stir until smooth.",
@@ -2556,6 +2637,7 @@
       ],
       "servings": 10,
       "calories": 220,
+      "time": "70 minutes",
       "procedure": [
           "1. Melt the dark chocolate over a double boiler.",
           "2. Stir in chopped nuts, dried cranberries, and raisins.",
@@ -2578,6 +2660,7 @@
       ],
       "servings": 10,
       "calories": 210,
+      "time": "60 minutes",
       "procedure": [
           "1. Melt the dark chocolate over a double boiler.",
           "2. Stir in roasted almonds, sea salt, and vanilla extract.",
@@ -2601,6 +2684,7 @@
       ],
       "servings": 12,
       "calories": 230,
+      "time": "90 minutes",
       "procedure": [
           "1. Melt half of the dark chocolate and pour into cupcake liners.",
           "2. Freeze for 10 minutes until firm.",
@@ -2624,6 +2708,7 @@
       ],
       "servings": 10,
       "calories": 180,
+      "time": "100 minutes",
       "procedure": [
           "1. Heat the heavy cream until warm and pour over chopped chocolate.",
           "2. Stir until smooth and mix in vanilla extract.",
@@ -2647,6 +2732,7 @@
       ],
       "servings": 10,
       "calories": 210,
+      "time": "50 minutes",
       "procedure": [
           "1. Melt the dark chocolate over a double boiler.",
           "2. Spread the melted chocolate on a parchment-lined tray.",
@@ -2669,7 +2755,7 @@
           "1/2 tsp vanilla extract"
       ],
       "servings": 12,
-      "calories": 190,
+      "calories": 90,
       "procedure": [
           "1. Heat the heavy cream and pour over chopped chocolate.",
           "2. Stir until smooth and mix in vanilla extract.",
@@ -2691,6 +2777,7 @@
       ],
       "servings": 12,
       "calories": 220,
+      "time": "120 minutes",
       "procedure": [
           "1. Melt half of the dark chocolate and pour into chocolate molds.",
           "2. Let it set in the fridge for 10 minutes.",
@@ -2713,6 +2800,7 @@
       ],
       "servings": 8,
       "calories": 230,
+      "time": "60 minutes",
       "procedure": [
           "1. Melt the white chocolate and mix in peppermint extract and green food coloring.",
           "2. Pour a layer of dark chocolate into a mold and let it set.",
@@ -2735,6 +2823,7 @@
       ],
       "servings": 10,
       "calories": 250,
+      "time": "90 minutes",
       "procedure": [
           "1. Caramelize sugar in a pan, add hazelnuts and butter, and mix well.",
           "2. Let the mixture cool and then crush it into small pieces.",
@@ -2760,6 +2849,7 @@
         ],
         "servings": 1,
         "calories": 5,
+        "time": "5 minutes",
         "procedure": [
             "1. Grind fresh coffee beans to a fine consistency.",
             "2. Use an espresso machine to extract a shot of espresso.",
@@ -2781,6 +2871,7 @@
         ],
         "servings": 1,
         "calories": 80,
+        "time": "10 minutes",
         "procedure": [
             "1. Brew a shot of espresso in a cup.",
             "2. Steam milk and create a thick foam.",
@@ -2803,6 +2894,7 @@
         ],
         "servings": 1,
         "calories": 60,
+        "time": "10 minutes",
         "procedure": [
             "1. Brew fresh coffee and let it cool.",
             "2. Fill a glass with ice cubes.",
@@ -2826,6 +2918,7 @@
         ],
         "servings": 1,
         "calories": 200,
+        "time": "15 minutes",
         "procedure": [
             "1. Brew a shot of espresso.",
             "2. Heat milk and mix with chocolate syrup.",
@@ -2849,6 +2942,7 @@
         ],
         "servings": 1,
         "calories": 150,
+        "time": "10 minutes",
         "procedure": [
             "1. In a bowl, whisk instant coffee, sugar, and hot water until light and fluffy.",
             "2. Fill a glass with cold milk and ice cubes if desired.",
@@ -2871,6 +2965,7 @@
         ],
         "servings": 1,
         "calories": 80,
+        "time": "15 minutes",
         "procedure": [
             "1. Add ground coffee to the upper chamber of a South Indian filter.",
             "2. Pour hot water over the coffee and allow it to drip into the lower chamber.",
@@ -2894,6 +2989,7 @@
         ],
         "servings": 1,
         "calories": 10,
+        "time": "10 minutes",
         "procedure": [
             "1. In a cezve (small coffee pot), mix water, coffee, and sugar (if using).",
             "2. Heat on low without stirring until foam starts to rise.",
@@ -2914,6 +3010,7 @@
         ],
         "servings": 1,
         "calories": 2,
+        "time": "5 minutes",
         "procedure": [
             "1. Boil 1 cup of water in a kettle or saucepan.",
             "2. Add ground coffee to a coffee filter or use instant coffee directly in a cup.",
@@ -2934,6 +3031,7 @@
         ],
         "servings": 1,
         "calories": 200,
+        "time": "5 minutes",
         "procedure": [
             "1. Scoop vanilla ice cream into a serving cup.",
             "2. Pour hot espresso over the ice cream.",
@@ -2955,6 +3053,7 @@
         ],
         "servings": 1,
         "calories": 210,
+        "time": "15 minutes",
         "procedure": [
             "1. Brew hot coffee and pour into a heatproof glass.",
             "2. Stir in whiskey and brown sugar until dissolved.",
@@ -2986,6 +3085,7 @@
         ],
         "servings": 6,
         "calories": 300,
+        "time": "45 minutes",
         "procedure": [
             "1. Mix khoya, flour, baking soda, and milk to form a soft dough.",
             "2. Shape into small balls and deep-fry in ghee until golden brown.",
@@ -3012,6 +3112,7 @@
         ],
         "servings": 4,
         "calories": 250,
+        "time": "50 minutes",
         "procedure": [
             "1. Mix flour, cornstarch, yogurt, and baking soda to form a thick batter.",
             "2. Ferment the batter for 6-8 hours.",
@@ -3035,6 +3136,7 @@
         ],
         "servings": 6,
         "calories": 180,
+        "time": "60 minutes",
         "procedure": [
             "1. Boil milk and curdle it with lemon juice.",
             "2. Strain through a muslin cloth and rinse with cold water.",
@@ -3043,8 +3145,8 @@
             "5. Cook for 15-20 minutes until they double in size."
         ],
         "type": "Vegetarian",
-        "image": "https://example.com/rasgulla.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=example"
+        "image": "https://www.renudalal.com/storage/recipies/92/rasgulla.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=QLPo1bRY1hY"
     },
     {
         "id": 104,
@@ -3059,6 +3161,7 @@
         ],
         "servings": 8,
         "calories": 250,
+        "time": "40 minutes",
         "procedure": [
             "1. Heat condensed milk, sugar, and ghee in a pan.",
             "2. Stir continuously until it thickens.",
@@ -3066,8 +3169,8 @@
             "4. Pour onto a greased plate and let it cool before cutting into pieces."
         ],
         "type": "Vegetarian",
-        "image": "https://example.com/barfi.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=example"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0IwGiWGVciJaLh2k8FiF7TInV4kJyJvJ_cQ&s",
+        "youtube_link": "https://www.youtube.com/watch?v=ktREiOWb_Bw"
     },
     {
         "id": 105,
@@ -3082,6 +3185,7 @@
         ],
         "servings": 10,
         "calories": 200,
+        "time": "30 minutes",
         "procedure": [
             "1. Grind cashew nuts into a fine powder.",
             "2. Prepare sugar syrup by boiling sugar and water.",
@@ -3089,11 +3193,2676 @@
             "4. Roll out and cut into diamond shapes."
         ],
         "type": "Vegetarian",
-        "image": "https://example.com/kaju_katli.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=example"
-        }
+        "image": "https://www.nestleprofessional.in/sites/default/files/2022-07/Kaju-Katli.jpg",
+        "youtube_link": "https://www.youtube.com/watch?app=desktop&v=MC4XXk6mygM"
+    },
+    {
+        "id": 106,
+        "title": "Mysore Pak",
+        "description": "Rich gram flour fudge with a soft, melt-in-mouth texture.",
+        "ingredients": [
+            "1 cup gram flour (besan)",
+            "1 cup ghee",
+            "1.5 cups sugar",
+            "1/2 cup water",
+            "1/4 tsp cardamom powder"
+        ],
+        "servings": 6,
+        "calories": 450,
+        "time": "45 minutes",
+        "procedure": [
+            "1. Sift gram flour and roast it lightly.",
+            "2. Prepare sugar syrup of one-string consistency.",
+            "3. Add gram flour while stirring continuously.",
+            "4. Slowly add ghee in batches while stirring until it thickens.",
+            "5. Pour into a greased tray, let it cool, and cut into squares before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://anandhaassweets.com/cdn/shop/files/GheeMysorePak_1.png?v=1715585447",
+        "youtube_link": "https://www.youtube.com/watch?app=desktop&v=lxrXrcrWGlY&t=20s"
+    },
+    {
+        "id": 107,
+        "title": "Kheer",
+        "description": "A creamy and aromatic Indian rice pudding made with milk, rice, and sugar, flavored with cardamom and garnished with nuts.",
+        "ingredients": [
+            "1/2 cup basmati rice",
+            "4 cups milk",
+            "1/2 cup sugar",
+            "1/2 tsp cardamom powder",
+            "10-12 almonds (chopped)",
+            "10-12 cashews (chopped)",
+            "10-12 raisins",
+            "A few saffron strands (optional)",
+            "1/2 tsp ghee"
+         ],
+         "servings": 4,
+         "calories": 250,
+         "time":"55 minutes",
+         "procedure": [
+            "1. Wash and soak the rice for 30 minutes. (30 minutes soaking, can be done in parallel with other prep)",
+            "2. Heat ghee in a pan and lightly roast the rice for 1-2 minutes. (2 minutes)",
+            "3. Add milk and bring to a boil, then simmer while stirring occasionally. (10 minutes to boil, 20 minutes simmering)",
+            "4. Once the rice is soft and the mixture thickens, add sugar and mix well. (5 minutes)",
+            "5. Stir in cardamom powder, saffron, and chopped nuts. (2 minutes)",
+            "6. Cook for a few more minutes until the desired consistency is reached. (5 minutes)",
+            "7. Garnish with more nuts and serve warm or chilled. (1 minute)"
+         ],
+         "type": "Vegetarian",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXVQ3lsQnQeb6sZy1unNrAMJBJOtgD9RLm5w&s",
+         "youtube_link": "https://www.youtube.com/watch?app=desktop&v=mQXjl3QoQEY"
+    },
+    {
+        "id": 107,
+        "title": "Carrot Halwa (Gajar Ka Halwa)",
+        "description": "A rich and delicious Indian dessert made with grated carrots, milk, sugar, and ghee, flavored with cardamom and garnished with nuts.",
+        "ingredients": [
+            "4 cups grated carrots",
+            "2 cups full-fat milk",
+            "1/2 cup sugar",
+            "1/4 cup ghee",
+            "1/2 tsp cardamom powder",
+            "10-12 almonds (chopped)",
+            "10-12 cashews (chopped)",
+            "10-12 raisins"
+        ],
+        "servings": 4,
+        "calories": 300,
+        "time":"60 minutes",
+        "procedure": [
+            "1. Wash, peel, and grate the carrots. (15 minutes)",
+            "2. Heat ghee in a heavy-bottomed pan and add the grated carrots. Sauté for 5-7 minutes until they soften. (7 minutes)",
+            "3. Pour in the milk and let it simmer on low heat, stirring occasionally, until the milk is absorbed. (20 minutes)",
+            "4. Add sugar and mix well. Cook until the mixture thickens and starts leaving the sides of the pan. (10 minutes)",
+            "5. Stir in cardamom powder, chopped nuts, and raisins. Mix well and cook for another 3-5 minutes. (5 minutes)",
+            "6. Serve warm, garnished with additional nuts. (1 minute)"
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCaxSwq46qDGl9aUBBvGsLKW1XS_Tm5skpqA&s",
+        "youtube_link": "https://www.youtube.com/watch?v=RybqTjRrCYI"
+    },
+    {
+        "id": 108,
+        "title": "Besan Ladoo",
+        "description": "A popular Indian sweet made with roasted gram flour, ghee, and sugar, shaped into round balls.",
+        "ingredients": [
+            "2 cups gram flour (besan)",
+            "1/2 cup ghee",
+            "3/4 cup powdered sugar",
+            "1/2 tsp cardamom powder",
+            "10-12 chopped almonds"
+        ],
+        "servings": 6,
+        "calories": 250,
+        "time": "40 minutes",
+        "procedure": [
+            "1. Heat ghee in a pan and roast the besan on low heat until golden and aromatic. (15 minutes)",
+            "2. Let it cool slightly, then add powdered sugar and cardamom powder. Mix well. (5 minutes)",
+            "3. Shape into small round ladoos and garnish with almonds. (10 minutes)",
+            "4. Let them set before serving. (10 minutes)"
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS68VuE2VTK-6vIMQcOeXBqEJtyCSIimzgqYw&s",
+        "youtube_link": "https://www.youtube.com/watch?v=5OpXp1FynZg"
+    },
+    {
+        "id": 109,
+        "title": "Sooji Halwa",
+        "description": "A classic Indian semolina pudding cooked with ghee, sugar, and flavored with cardamom.",
+        "ingredients": [
+            "1 cup semolina (sooji/rava)",
+            "1/2 cup ghee",
+            "3/4 cup sugar",
+            "2 cups water",
+            "1/2 tsp cardamom powder",              
+            "10-12 chopped cashews",
+            "10-12 raisins"
+        ],
+        "servings": 4,
+        "calories": 280,
+        "time": "30 minutes",
+        "procedure": [
+            "1. Heat ghee in a pan and roast semolina until golden brown. (10 minutes)",
+            "2. In a separate pan, boil water and sugar. (5 minutes)",
+            "3. Slowly add the sugar syrup to the roasted semolina while stirring. (5 minutes)",
+            "4. Add cardamom powder, cashews, and raisins. Mix well. (5 minutes)",
+            "5. Cook until halwa thickens. Serve warm. (5 minutes)"
+        ],
+        "type": "Vegetarian",
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/02/halwa-sooji-halwa-recipe.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=h7Wrgo7ilco"
+    },
+    {
+        "id": 110,
+        "title": "Coconut Burfi (Nariyal Barfi)",
+        "description": "A delicious Indian sweet made with grated coconut, sugar, and milk, flavored with cardamom.",
+        "ingredients": [
+            "2 cups grated coconut",
+            "1 cup sugar",
+            "1/2 cup milk",
+            "1/2 tsp cardamom powder",
+            "1 tbsp ghee",
+            "Chopped nuts for garnish"
+        ],
+        "servings": 6,
+        "calories": 320,
+        "time": "35 minutes" ,
+        "procedure": [
+            "1. Heat ghee in a pan, add grated coconut, and sauté for a few minutes. (5 minutes)",
+            "2. Add milk and sugar, and cook while stirring continuously. (15 minutes)",
+            "3. When the mixture thickens, add cardamom powder and mix well. (5 minutes)",
+            "4. Pour into a greased tray and let it set. Cut into squares and serve. (10 minutes)"
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSltxt9raYiTDipVZj-Ihy6SN8_IZ6HfyA1AA&s",
+        "youtube_link": "https://www.youtube.com/watch?v=dlZaiJ5qoAE"
+    },
+    {
+        "id": 111,
+        "title": "Besan Burfi",
+        "description": "A rich and fudgy sweet made with gram flour, sugar, and ghee.",
+        "ingredients": [
+            "2 cups gram flour (besan)",
+            "1 cup sugar",
+            "1/2 cup ghee",
+            "1/2 tsp cardamom powder",
+            "10-12 chopped almonds"
+        ],
+        "servings": 8,
+        "calories": 300,
+        "time": "45 minutes" ,
+        "procedure": [
+            "1. Heat ghee in a pan and roast the besan until aromatic. (15 minutes)",
+            "2. Add sugar and cardamom powder, mixing well. (10 minutes)",
+            "3. Pour into a greased tray and spread evenly. (5 minutes)",
+            "4. Let it set and cut into squares. (15 minutes)"
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6GvT9WUe6hWbqU5nSSJAA5TqtdCGL7sZJvg&s",
+        "youtube_link": "https://www.youtube.com/watch?v=1Ed_KqQwn1E"
+    },
+    {
+        "id": 112,
+        "title": "Kalakand",
+        "description": "A delicious Indian milk cake made with condensed milk and paneer.",
+        "ingredients": [
+            "2 cups paneer (cottage cheese)",
+            "1 can condensed milk",
+            "1/2 tsp cardamom powder",
+            "10-12 chopped pistachios",
+            "1 tbsp ghee"
+        ],
+        "servings": 6,
+        "calories": 280,
+        "time":"40 minutes",
+        "procedure": [
+            "1. Heat ghee in a pan, add paneer, and cook for 5 minutes. (5 minutes)",
+            "2. Add condensed milk and stir continuously until thick. (20 minutes)",
+            "3. Mix in cardamom powder and pour into a greased tray. (5 minutes)",
+            "4. Garnish with pistachios and let it cool. Cut into squares. (10 minutes)" 
+        ],
+        "type": "Vegetarian",
+        "image": "https://www.mygingergarlickitchen.com/wp-content/rich-markup-images/1x1/1x1-kalakand-recipe.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=6J2lUuak4R0"
+    },
+    {
+        "id": 113,
+        "title": "Badam Halwa (Almond Halwa)",
+        "description": "A rich Indian dessert made with almonds, ghee, and saffron.",
+        "ingredients": [
+            "1 cup almonds (soaked and peeled)",
+            "1/2 cup ghee",
+            "3/4 cup sugar",
+            "1/2 cup milk",
+            "A few saffron strands",
+            "1/2 tsp cardamom powder"
+        ],
+        "servings": 4,
+        "calories": 350,
+        "time": "50 minutes" ,
+        "procedure": [
+            "1. Grind soaked almonds to a smooth paste. (10 minutes)",
+            "2. Heat ghee in a pan, add almond paste, and cook. (15 minutes)",
+            "3. Add sugar, milk, and saffron, and stir continuously. (15 minutes)",
+            "4. Add cardamom powder and cook until thick. (10 minutes)"
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6WkyvyBFX5h_x-0S172GhQ7hcu3Ne-nMQ&s",
+        "youtube_link": "https://www.youtube.com/watch?v=U3y9P-2Um9M"
+    },
+    {
+        "id": 114,
+        "title": "Rava Laddu (Rava Ladoo)",
+        "description": "A traditional Indian sweet made with semolina, ghee, and sugar, shaped into round ladoos.",
+        "ingredients": [
+            "1 cup semolina (rava/sooji)",
+            "1/2 cup sugar",
+            "1/4 cup ghee",
+            "1/2 tsp cardamom powder",
+            "10-12 chopped cashews",
+            "10-12 raisins"
+        ],
+        "servings": 6,
+        "calories": 280,
+        "time": "30 minutes",
+        "procedure": [
+            "1. Roast the semolina in ghee until aromatic. (10 minutes)",
+            "2. Mix in sugar, cardamom powder, cashews, and raisins. (5 minutes)",
+            "3. Add warm milk gradually and shape into ladoos. (10 minutes)",
+            "4. Let them set before serving. (5 minutes)"
+        ],
+        "type": "Vegetarian",
+        "image": "https://pipingpotcurry.com/wp-content/uploads/2020/11/Rava-Ladoo-Homemade-Piping-Pot-Curry-1.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=i5f9qa7l_P0"
+    },
+    {
+        "id": 115,
+        "title": "Malpua (Crisp & Fluffy)",
+        "description": "A crispy and fluffy Indian pancake sweetened with sugar syrup and flavored with fennel and cardamom.",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "1/4 cup semolina (rava)",
+            "1/2 cup milk",
+            "1/2 tsp fennel seeds",
+            "1/2 tsp cardamom powder",
+            "1/2 cup sugar",
+            "1/2 cup water",
+            "Ghee for frying"
+        ],
+        "servings": 4,
+        "calories": 320,
+        "time": "40 minutes",
+        "procedure": [
+            "1. Mix flour, semolina, milk, fennel seeds, and cardamom powder into a smooth batter. Let it rest. (15 minutes)",
+            "2. Heat ghee and fry small pancakes until golden brown. (10 minutes)",
+            "3. Prepare sugar syrup by boiling sugar and water until sticky. (10 minutes)",
+            "4. Dip fried malpuas in warm sugar syrup and serve. (5 minutes)"
+        ],
+        "type": "Vegetarian",
+        "image": "https://i.pinimg.com/736x/d2/d9/af/d2d9af00ced925ada7565b7e836281a1.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Wq3tN2fQA_Q"
+    },
+    {
+        "id": 116,
+        "title": "Peda",
+        "description": "A rich and creamy Indian sweet made with condensed milk, flavored with cardamom and saffron.",
+        "ingredients": [
+            "2 cups condensed milk",
+            "1/4 cup milk powder",
+            "1/2 tsp cardamom powder",
+            "1 tbsp ghee",
+            "Saffron strands",
+            "Chopped pistachios for garnish"
+        ],
+        "servings": 6,
+        "calories": 290,
+        "time": "35 minutes",
+        "procedure": [
+            "1. Heat ghee in a pan and add condensed milk. Stir continuously. (10 minutes)",
+            "2. Add milk powder and cardamom powder. Cook until thick. (15 minutes)",
+            "3. Shape into small pedas and garnish with pistachios and saffron. (10 minutes)"
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Sa4ErMf2M9nx7hjVCgYIFvu74hP8KOlzhw&s",
+        "youtube_link": "https://www.youtube.com/watch?v=DY7jEDPchcw"
+    },
+    {
+        "id": 117,
+        "title": "Rava Kesari",
+        "description": "A delicious semolina-based Indian dessert flavored with saffron and cardamom.",
+        "ingredients": [
+            "1 cup semolina (rava/sooji)",
+            "3/4 cup sugar",
+            "2 cups water",
+            "1/2 cup ghee",
+            "1/2 tsp cardamom powder",
+            "A few saffron strands",
+            "10-12 cashews",
+            "10-12 raisins"
+        ],
+        "servings": 4,
+        "calories": 300,
+        "time": "30 minutes",
+        "procedure": [
+            "1. Roast semolina in ghee until golden. (10 minutes)",
+            "2. Boil water, add saffron, and pour over semolina. Stir well. (5 minutes)",
+            "3. Add sugar and mix continuously until thickened. (10 minutes)",
+            "4. Garnish with cashews and raisins before serving. (5 minutes)"
+        ],
+        "type": "Vegetarian",
+        "image": "https://cookingfromheart.com/wp-content/uploads/2017/08/Rava-Kesari-6.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=rgnoAUePnsU"
+    },
+    {
+        "id": 118,
+        "title": "Puran Poli",
+        "description": "A traditional Indian stuffed flatbread filled with sweet lentil mixture and cooked with ghee.",
+        "ingredients": [
+            "1 cup chana dal",
+            "1 cup jaggery",
+            "2 cups whole wheat flour",
+            "1/2 tsp cardamom powder",
+            "1/2 tsp nutmeg powder",
+            "Ghee for cooking"
+        ],
+        "servings": 6,
+        "calories": 350,
+        "time": "50 minutes",
+        "procedure": [
+            "1. Cook chana dal until soft, drain, and mash. (20 minutes)",
+            "2. Mix with jaggery, cardamom, and nutmeg powder to form a smooth filling. (10 minutes)",
+            "3. Knead wheat flour with water to make a soft dough. (10 minutes)",
+            "4. Roll out small discs, stuff with filling, and seal. (5 minutes)",
+            "5. Cook on a griddle with ghee until golden brown. (5 minutes)"
+        ],
+        "type": "Vegetarian",
+        "image": "https://static.toiimg.com/thumb/55045560.cms?imgsize=252832&width=800&height=800",
+        "youtube_link": "https://www.youtube.com/watch?v=l7Efb-HjDPU"
+    },
+    {
+        "id": 119,
+        "title": "Rasmalai",
+        "description": "A soft and spongy Indian dessert made from paneer, soaked in flavored milk.",
+        "ingredients": [
+            "1 liter milk",
+            "2 tbsp lemon juice",
+            "1/2 cup sugar",
+            "3 cups water",
+            "1/2 tsp cardamom powder",
+            "10-12 saffron strands",
+            "10-12 chopped pistachios and almonds"
+        ],
+        "servings": 6,
+        "calories": 350,
+        "time": "45 minutes",
+        "procedure": [
+            "1. Boil milk, add lemon juice to curdle, and strain to get paneer. (15 minutes)",
+            "2. Knead paneer into a smooth dough and shape into small discs. (10 minutes)",
+            "3. Boil water with sugar and add paneer discs to cook. (10 minutes)",
+            "4. Prepare flavored milk with saffron and cardamom, soak paneer discs, and chill before serving. (10 minutes)"
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGiJn1c4_gt_wjaAT-eKyhBpr7fL6VSPO0KA&s",
+        "youtube_link": "https://www.youtube.com/watch?v=dq3CTGwL4cE"
+    },
+    {
+        "id": 120,
+        "title": "Dry Fruit Laddu (Dry Fruit Ladoo)",
+        "description": "A healthy and nutritious Indian sweet made with mixed dry fruits and nuts, without sugar.",
+        "ingredients": [
+            "1/2 cup almonds",
+            "1/2 cup cashews",
+            "1/2 cup walnuts",
+            "1/2 cup dates (de-seeded)",
+            "1/4 cup figs",
+            "1/2 tsp cardamom powder"
+        ],
+        "servings": 8,
+        "calories": 280,
+        "time": "20 minutes",
+        "procedure": [
+            "1. Dry roast almonds, cashews, and walnuts until aromatic. (5 minutes)",
+            "2. Blend dates and figs into a coarse paste. (5 minutes)",
+            "3. Mix everything together with cardamom powder and shape into ladoos. (10 minutes)"
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_H44WOJwzWPOLCd4bjF1sc0cV3f1DRyCDTw&s",
+        "youtube_link": "https://www.youtube.com/watch?v=NF7vNuRwTxc"
+    },
+    {
+        "id": 121,
+        "title": "Karanji (Kajjikayalu)",
+        "description": "A crispy and flaky Indian sweet stuffed with coconut and dry fruits, deep-fried to perfection.",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "1/4 cup ghee",
+            "1 cup grated coconut",
+            "1/2 cup powdered sugar",
+            "1/2 tsp cardamom powder",
+            "10-12 chopped almonds and cashews",
+            "Oil for frying"
+        ],
+        "servings": 10,
+        "calories": 320,
+        "time": "50 minutes",
+        "procedure": [
+            "1. Knead flour with ghee and water into a soft dough. Let it rest. (15 minutes)",
+            "2. Mix coconut, sugar, cardamom powder, and nuts for the filling. (10 minutes)",
+            "3. Roll out small circles, add filling, and seal the edges. (15 minutes)",
+            "4. Deep-fry in oil until golden and crisp. (10 minutes)"
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqSmM75OrxJddkaAcDXb91NHyAS9lqcf-qmw&s",
+        "youtube_link": "https://www.youtube.com/watch?v=ITA4VhZNuPQ"
+    },
+    {
+        "id": 122,
+        "title": "Sweet Pongal",
+        "description": "A delicious South Indian rice and lentil dish sweetened with jaggery and flavored with ghee and nuts.",
+        "ingredients": [
+            "1/2 cup rice",
+            "1/4 cup yellow moong dal",
+            "3/4 cup jaggery",
+            "2 cups water",
+            "1/2 cup milk",
+            "1/4 cup ghee",
+            "10-12 cashews and raisins",
+            "1/2 tsp cardamom powder"
+        ],
+        "servings": 4,
+        "calories": 310,
+        "time": "40 minutes",
+        "procedure": [
+            "1. Dry roast moong dal and cook it with rice in water. (15 minutes)",
+            "2. Melt jaggery in a separate pan and add to cooked rice mixture. (10 minutes)",
+            "3. Stir in ghee, milk, and cardamom powder. (10 minutes)",
+            "4. Garnish with roasted cashews and raisins before serving. (5 minutes)"
+        ],
+        "type": "Vegetarian",
+        "image": "https://www.cookwithkushi.com/wp-content/uploads/2022/09/best_sweet_pongal_sakkarai_chakkara_pongal_recipe.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=UYoUuAqCfdw"
+    },
+    {
+        "id": 123,
+        "title": "Rice Payasam (Paramannam)",
+        "description": "A traditional South Indian rice pudding made with milk, jaggery, and flavored with cardamom.",
+        "ingredients": [
+              "1/2 cup rice",
+              "4 cups milk",
+              "3/4 cup jaggery",
+              "1/4 cup ghee",
+              "10-12 cashews and raisins",
+              "1/2 tsp cardamom powder"
+        ],
+        "servings": 4,
+        "calories": 320,
+        "time": "45 minutes",
+        "procedure": [
+            "1. Cook rice in milk until soft and creamy. (20 minutes)",
+            "2. Melt jaggery separately and strain to remove impurities. (10 minutes)",
+            "3. Mix jaggery with the cooked rice and stir well. (10 minutes)",
+            "4. Garnish with roasted cashews and raisins before serving. (5 minutes)"
+        ],
+        "type": "Vegetarian",
+        "image": "https://www.cookshideout.com/wp-content/uploads/2022/10/Paramannam_FI-500x500.jpg",
+        "youtube_link": "https://www.youtube.com/watch?app=desktop&v=LIrWg7OLsQ0"
+    },
+    {
+        "id": 124,
+        "title": "Poornam Boorelu (Poornalu, Burelu Recipe)",
+        "description": "A traditional Andhra sweet made of chana dal stuffing encased in a crispy outer layer.",
+        "ingredients": [
+            "1 cup chana dal",
+            "1 cup jaggery",
+            "1 cup rice flour",
+            "1/4 cup all-purpose flour",
+            "1/4 tsp cardamom powder",
+            "Oil for frying"
+        ],
+        "servings": 6,
+        "calories": 350,
+        "time": "60 minutes",
+        "procedure": [
+            "1. Cook chana dal until soft, mash, and mix with jaggery. (20 minutes)",
+            "2. Shape into small balls and prepare a batter with rice and all-purpose flour. (15 minutes)",
+            "3. Dip the balls in batter and deep fry until golden brown. (15 minutes)",
+            "4. Serve warm as a festive treat. (10 minutes)"
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3n38vM5eaERE5ZfOEvunYkuyrBILeqlIlCg&s",
+        "youtube_link": "https://www.youtube.com/watch?v=3B8xdTFJLco"
+    },
+    {
+        "id": 125,
+        "title": "Semiya Kesari",
+        "description": "A delicious and vibrant South Indian sweet made with vermicelli, ghee, and sugar.",
+        "ingredients": [
+            "1 cup vermicelli (semiya)",
+            "1 cup sugar",
+            "2 cups water",
+            "1/4 cup ghee",
+            "10-12 cashews and raisins",
+            "1/2 tsp cardamom powder",
+            "A pinch of saffron strands"
+        ],
+        "servings": 4,
+        "calories": 290,
+        "time": "30 minutes",
+        "procedure": [
+            "1. Roast vermicelli in ghee until golden brown. (5 minutes)",
+            "2. Boil water, add vermicelli, and cook until soft. (10 minutes)",
+            "3. Stir in sugar, saffron, and cardamom powder, cooking until thick. (10 minutes)",
+            "4. Garnish with roasted cashews and raisins before serving. (5 minutes)"
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5TKo0_0qSOjkhV71_DGU03ALFPW-c0Dye6snGztl_TAlzkiLHRT6pFipYhrgMoxnIhT8&usqp=CAU",
+        "youtube_link": "https://www.youtube.com/watch?v=ID2ohHZnOsY"
+    }  
+  ]
+  },
+  {
+    "category": "Donuts",
+    "recipes":[
+      {
+        "id": 126,
+        "title": "Glazed Donut",
+        "description": "Classic yeast donut coated with a sweet vanilla glaze.",
+        "ingredients": [
+            "2 1/4 tsp active dry yeast",
+            "3/4 cup warm milk",
+            "1/4 cup sugar",
+            "1/4 cup unsalted butter, melted",
+            "1 egg",
+            "2 1/2 cups all-purpose flour",
+            "1/2 tsp salt",
+            "Vegetable oil for frying",
+            "1 cup powdered sugar",
+            "2 tbsp milk",
+            "1/2 tsp vanilla extract"
+        ],
+        "servings": 6,
+        "calories": 250,
+        "time": "90 minutes",
+        "procedure": [
+            "1. Dissolve yeast in warm milk and let it sit for 5 minutes.",
+            "2. Add sugar, melted butter, egg, flour, and salt; knead into a dough.",
+            "3. Let dough rise for 1 hour until doubled in size.",
+            "4. Roll out dough, cut into donut shapes, and let rise for 30 minutes.",
+            "5. Fry in hot oil until golden brown, then dip in vanilla glaze."
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7dJ5zkKGW2AeAX_LSwzDUlkZ9UMtSVjJsmg&s",
+        "youtube_link": "https://www.youtube.com/watch?v=ijYtLqIDZtk"
+    },
+    {
+        "id": 127,
+        "title": "Chocolate Frosted Donut",
+        "description": "A soft donut topped with a rich chocolate glaze.",
+        "ingredients": [
+            "2 1/4 tsp active dry yeast",
+            "3/4 cup warm milk",
+            "1/4 cup sugar",
+            "1/4 cup unsalted butter, melted",
+            "1 egg",
+            "2 1/2 cups all-purpose flour",
+            "1/2 tsp salt",
+            "Vegetable oil for frying",
+            "1 cup chocolate chips",
+            "1/4 cup heavy cream"
+        ],
+        "servings": 6,
+        "calories": 280,
+        "time": "90 minutes",
+        "procedure": [
+            "1. Follow the same dough preparation as the Glazed Donut.",
+            "2. After frying, melt chocolate chips with heavy cream to make the frosting.",
+            "3. Dip each donut in chocolate glaze and let set before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy9pbMmdKuGNhtNy1W9PN67wDBYpb764RQDg&s",
+        "youtube_link": "https://www.youtube.com/watch?v=9qiSPNqOwQk"
+    },
+    {
+        "id": 128,
+        "title": "Boston Cream Donut",
+        "description": "A soft donut filled with creamy vanilla custard and topped with chocolate glaze.",
+        "ingredients": [
+            "2 1/4 tsp active dry yeast",
+            "3/4 cup warm milk",
+            "1/4 cup sugar",
+            "1/4 cup unsalted butter, melted",
+            "1 egg",
+            "2 1/2 cups all-purpose flour",
+            "1/2 tsp salt",
+            "Vegetable oil for frying",
+            "1 cup milk",
+            "2 tbsp cornstarch",
+            "1/4 cup sugar",
+            "1 egg yolk",
+            "1 tsp vanilla extract",
+            "1/2 cup chocolate chips",
+            "1/4 cup heavy cream"
+        ],
+        "servings": 6,
+        "calories": 320,
+        "time": "120 minutes",
+        "procedure": [
+            "1. Prepare the donut dough as per the Glazed Donut recipe.",
+            "2. Cook milk, sugar, cornstarch, egg yolk, and vanilla to make custard filling.",
+            "3. Fry the donuts, then inject custard into the center using a piping bag.",
+            "4. Melt chocolate chips with heavy cream for the glaze and spread over the top."
+        ],
+        "type": "Vegetarian",
+        "image": "https://bonnibakery.com/wp-content/uploads/2024/11/Boston-Cream-Donuts-5.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=qhhD0Zd0nFA"
+    },
+    {
+        "id": 129,
+        "title": "Jelly-Filled Donut",
+        "description": "A fluffy donut filled with fruit jelly and dusted with sugar.",
+        "ingredients": [
+            "2 1/4 tsp active dry yeast",
+            "3/4 cup warm milk",
+            "1/4 cup sugar",
+            "1/4 cup unsalted butter, melted",
+            "1 egg",
+            "2 1/2 cups all-purpose flour",
+            "1/2 tsp salt",
+            "Vegetable oil for frying",
+            "1/2 cup fruit jelly",
+            "Powdered sugar for dusting"
+        ],
+        "servings": 6,
+        "calories": 290,
+        "time": "90 minutes",
+        "procedure": [
+            "1. Prepare the donut dough as per the Glazed Donut recipe.",
+            "2. Fry the donuts, then inject fruit jelly into the center using a piping bag.",
+            "3. Dust with powdered sugar before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdXpzwR7Dv8ju-hRBEd5MoBTNQYOwTuBYgsQ&s",
+        "youtube_link": "https://www.youtube.com/watch?v=A_hQGlLcKfw"
+    },
+    {
+        "id": 130,
+        "title": "Old-Fashioned Donut",
+        "description": "A dense and slightly crispy donut with a classic buttermilk flavor.",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "1 tsp baking powder",
+            "1/2 tsp baking soda",
+            "1/2 tsp salt",
+            "1/2 tsp nutmeg",
+            "1/2 cup sugar",
+            "2 tbsp butter, melted",
+            "1 egg",
+            "1/2 cup buttermilk",
+            "Vegetable oil for frying"
+        ],
+        "servings": 6,
+        "calories": 270,
+        "time": "60 minutes",
+        "procedure": [
+            "1. Mix flour, baking powder, baking soda, salt, and nutmeg in a bowl.",
+            "2. In another bowl, whisk sugar, melted butter, egg, and buttermilk.",
+            "3. Combine wet and dry ingredients to form a dough.",
+            "4. Roll out, cut into donut shapes, and fry until golden brown."
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRuBZPpi2enEzd4jRvYzsFr4B0Pqh7YLAlww&s",
+        "youtube_link": "https://www.youtube.com/watch?v=LbhydnUJBkk"
+    },
+    {
+      "id": 131,
+      "title": "Cinnamon Sugar Donut",
+      "description": "A classic donut coated in a sweet cinnamon-sugar mixture.",
+      "ingredients": [
+          "2 cups all-purpose flour",
+          "1/2 cup sugar",
+          "2 tsp baking powder",
+          "1/2 tsp salt",
+          "1/2 cup milk",
+          "2 tbsp melted butter",
+          "1 tsp vanilla extract",
+          "1 egg",
+          "1/2 cup sugar (for coating)",
+          "1 tsp cinnamon (for coating)",
+          "Oil for frying"
+      ],
+      "servings": 6,
+      "calories": 250,
+      "time": "40 minutes",
+      "procedure": [
+          "1. Mix flour, sugar, baking powder, and salt in a bowl.",
+          "2. Add milk, butter, vanilla extract, and egg to form a dough.",
+          "3. Roll out the dough and cut into donut shapes.",
+          "4. Fry in hot oil until golden brown, then drain on paper towels.",
+          "5. Mix cinnamon and sugar, then coat the warm donuts before serving."
+      ],
+      "type": "Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR39R__-4Qu-0tfMwKwRhDkl8qj5HE8WHZSEA&s",
+      "youtube_link": "https://www.youtube.com/watch?v=cPOemBGa0v8"
+    },
+    {
+      "id": 132,
+      "title": "Maple Bacon Donut",
+      "description": "A sweet and savory donut topped with maple glaze and crispy bacon.",
+      "ingredients": [
+          "2 cups all-purpose flour",
+          "1/2 cup sugar",
+          "2 tsp baking powder",
+          "1/2 tsp salt",
+          "1/2 cup milk",
+          "2 tbsp melted butter",
+          "1 tsp vanilla extract",
+          "1 egg",
+          "1/2 cup maple syrup",
+          "1 cup powdered sugar",
+          "4 slices crispy bacon (chopped)",
+          "Oil for frying"
+      ],
+      "servings": 6,
+      "calories": 300,
+      "time": "45 minutes",
+      "procedure": [
+          "1. Mix flour, sugar, baking powder, and salt in a bowl.",
+          "2. Add milk, butter, vanilla extract, and egg to form a dough.",
+          "3. Roll out the dough and cut into donut shapes.",
+          "4. Fry in hot oil until golden brown, then drain on paper towels.",
+          "5. Mix maple syrup and powdered sugar to make a glaze.",
+          "6. Dip each donut in maple glaze and top with crispy bacon."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYfG4wIvkdzJUwgdOwz6W86q6sHDDA6SbDjg&s",
+      "youtube_link": "https://www.youtube.com/watch?v=ngakF0Wz0sA"
+    },
+    {
+      "id": 133,
+      "title": "Sprinkle Donut",
+      "description": "A fun and colorful donut covered in sweet glaze and rainbow sprinkles.",
+      "ingredients": [
+          "2 cups all-purpose flour",
+          "1/2 cup sugar",
+          "2 tsp baking powder",
+          "1/2 tsp salt",
+          "1/2 cup milk",
+          "2 tbsp melted butter",
+          "1 tsp vanilla extract",
+          "1 egg",
+          "1 cup powdered sugar",
+          "2 tbsp milk",
+          "1/2 tsp vanilla extract (for glaze)",
+          "1/4 cup rainbow sprinkles",
+          "Oil for frying"
+      ],
+      "servings": 6,
+      "calories": 280,
+      "time": "40 minutes",
+      "procedure": [
+          "1. Mix flour, sugar, baking powder, and salt in a bowl.",
+          "2. Add milk, butter, vanilla extract, and egg to form a dough.",
+          "3. Roll out the dough and cut into donut shapes.",
+          "4. Fry in hot oil until golden brown, then drain on paper towels.",
+          "5. Mix powdered sugar, milk, and vanilla to make a glaze.",
+          "6. Dip each donut in glaze and sprinkle with rainbow sprinkles."
+      ],
+      "type": "Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUr3hP_vD6PUwDpzscDPbPkp1g9_B4ouQTSw&s",
+      "youtube_link": "https://www.youtube.com/watch?v=DNHbGpjz31Y"
+    },
+    {
+      "id": 134,
+      "title": "Chocolate Cake Donut",
+      "description": "A rich and moist chocolate donut, perfect for chocolate lovers.",
+      "ingredients": [
+          "1 cup all-purpose flour",
+          "1/2 cup cocoa powder",
+          "1/2 cup sugar",
+          "1 tsp baking powder",
+          "1/4 tsp salt",
+          "1/2 cup milk",
+          "1/4 cup melted butter",
+          "1 tsp vanilla extract",
+          "1 egg",
+          "1/2 cup chocolate chips",
+          "Oil for frying"
+      ],
+      "servings": 6,
+      "calories": 320,
+      "time": "45 minutes",
+      "procedure": [
+          "1. Mix flour, cocoa powder, sugar, baking powder, and salt in a bowl.",
+          "2. Add milk, butter, vanilla extract, and egg to form a dough.",
+          "3. Fold in chocolate chips.",
+          "4. Roll out the dough and cut into donut shapes.",
+          "5. Fry in hot oil until golden brown, then drain on paper towels.",
+          "6. Optionally, glaze or dust with powdered sugar before serving."
+      ],
+      "type": "Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi98WUHqxNErDb2wDXRh30bQOx3lzohtM1Zg&s",
+      "youtube_link": "https://www.youtube.com/watch?v=O_KH0RFneHg"
+    },
+    {
+      "id": 135,
+      "title": "Blueberry Cake Donut",
+      "description": "A deliciously moist cake donut filled with blueberries.",
+      "ingredients": [
+          "1 cup all-purpose flour",
+          "1/2 cup sugar",
+          "1 tsp baking powder",
+          "1/4 tsp salt",
+          "1/2 cup milk",
+          "1/4 cup melted butter",
+          "1 tsp vanilla extract",
+          "1 egg",
+          "1/2 cup fresh or frozen blueberries",
+          "Oil for frying"
+      ],
+      "servings": 6,
+      "calories": 280,
+      "time": "45 minutes",
+      "procedure": [
+          "1. Mix flour, sugar, baking powder, and salt in a bowl.",
+          "2. Add milk, butter, vanilla extract, and egg to form a dough.",
+          "3. Gently fold in blueberries.",
+          "4. Roll out the dough and cut into donut shapes.",
+          "5. Fry in hot oil until golden brown, then drain on paper towels.",
+          "6. Optionally, glaze or dust with powdered sugar before serving."
+      ],
+      "type": "Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyheStYEwwyq79iV9TrcnIf1HbWUzjW4yTiw&s",
+      "youtube_link": "https://www.youtube.com/watch?v=AHKGps5NLoo"
+    }
+  ]
+  },
+  {
+    "category": "Fried Rice",
+    "recipes":[
+    {
+        "id": 136,
+        "title": "Veg Fried Rice",
+        "description": "A flavorful and aromatic rice dish loaded with mixed vegetables and spices.",
+        "ingredients": [
+            "2 cups cooked rice",
+            "1/2 cup carrots (chopped)",
+            "1/2 cup beans (chopped)",
+            "1/2 cup capsicum (chopped)",
+            "2 tbsp soy sauce",
+            "1 tbsp vinegar",
+            "1 tsp black pepper",
+            "2 tbsp oil",
+            "2 cloves garlic (minced)",
+            "Salt to taste"
+        ],
+        "servings": 4,
+        "calories": 250,
+        "time": "30 minutes",
+        "procedure": [
+            "1. Heat oil in a pan and sauté garlic until golden.",
+            "2. Add chopped vegetables and stir-fry on high heat.",
+            "3. Add cooked rice, soy sauce, vinegar, black pepper, and salt.",
+            "4. Stir-fry for a few minutes and serve hot."
+        ],
+        "type": "Vegetarian",
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/fried-rice.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=ZTgVFe4_H-s"
+    },
+    {
+        "id": 137,
+        "title": "Chicken Fried Rice",
+        "description": "A delicious Indo-Chinese style fried rice with tender chicken and aromatic spices.",
+        "ingredients": [
+            "2 cups cooked rice",
+            "1 cup chicken (diced)",
+            "1/2 cup carrots (chopped)",
+            "1/2 cup capsicum (chopped)",
+            "2 tbsp soy sauce",
+            "1 tbsp vinegar",
+            "1 tsp black pepper",
+            "2 tbsp oil",
+            "2 cloves garlic (minced)",
+            "Salt to taste"
+        ],
+        "servings": 4,
+        "calories": 300,
+        "time": "30 minutes",
+        "procedure": [
+            "1. Heat oil in a pan and sauté garlic until golden.",
+            "2. Add diced chicken and cook until tender.",
+            "3. Add chopped vegetables and stir-fry on high heat.",
+            "4. Add cooked rice, soy sauce, vinegar, black pepper, and salt.",
+            "5. Stir-fry for a few minutes and serve hot."
+        ],
+        "type": "Non-Vegetarian",
+        "image": "https://i.ytimg.com/vi/KyxW9rnKPKQ/maxresdefault.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=AxJi_rR887g"
+    },
+    {
+        "id": 138,
+        "title": "Mushroom Fried Rice",
+        "description": "A savory fried rice dish made with mushrooms and aromatic seasonings.",
+        "ingredients": [
+            "2 cups cooked rice",
+            "1 cup mushrooms (sliced)",
+            "1/2 cup onions (chopped)",
+            "1/2 cup capsicum (chopped)",
+            "2 tbsp soy sauce",
+            "1 tbsp vinegar",
+            "1 tsp black pepper",
+            "2 tbsp oil",
+            "2 cloves garlic (minced)",
+            "Salt to taste"
+        ],
+        "servings": 4,
+        "calories": 280,
+        "time": "30 minutes",
+        "procedure": [
+            "1. Heat oil in a pan and sauté garlic until golden.",
+            "2. Add sliced mushrooms and cook until soft.",
+            "3. Add chopped onions and capsicum and stir-fry on high heat.",
+            "4. Add cooked rice, soy sauce, vinegar, black pepper, and salt.",
+            "5. Stir-fry for a few minutes and serve hot."
+        ],
+        "type": "Vegetarian",
+        "image": "https://i.ytimg.com/vi/2XRY18oNKTI/maxresdefault.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=2XRY18oNKT"
+    },
+    {
+        "id": 139,
+        "title": "Paneer Fried Rice",
+        "description": "A tasty and protein-rich fried rice dish with soft paneer cubes.",
+        "ingredients": [
+            "2 cups cooked rice",
+            "1 cup paneer (cubed)",
+            "1/2 cup carrots (chopped)",
+            "1/2 cup capsicum (chopped)",
+            "2 tbsp soy sauce",
+            "1 tbsp vinegar",
+            "1 tsp black pepper",
+            "2 tbsp oil",
+            "2 cloves garlic (minced)",
+            "Salt to taste"
+        ],
+        "servings": 4,
+        "calories": 320,
+        "time": "30 minutes",
+        "procedure": [
+            "1. Heat oil in a pan and sauté garlic until golden.",
+            "2. Add paneer cubes and cook until slightly golden.",
+            "3. Add chopped vegetables and stir-fry on high heat.",
+            "4. Add cooked rice, soy sauce, vinegar, black pepper, and salt.",
+            "5. Stir-fry for a few minutes and serve hot."
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz_pFVDwlSuhkvb_wgQy7YYxOhS-b0hGnn4w&s",
+        "youtube_link": "https://www.youtube.com/watch?v=LzekwP1hqmc"
+    },
+    {
+        "id": 140,
+        "title": "Masala Fried Rice",
+        "description": "A spicy and flavorful Indian-style fried rice with aromatic spices.",
+        "ingredients": [
+            "2 cups cooked rice",
+            "1/2 cup onions (chopped)",
+            "1/2 cup tomatoes (chopped)",
+            "1/2 cup peas",
+            "1 tsp cumin seeds",
+            "1 tsp garam masala",
+            "1 tsp red chili powder",
+            "2 tbsp oil",
+            "2 cloves garlic (minced)",
+            "Salt to taste"
+        ],
+        "servings": 4,
+        "calories": 270,
+        "time": "30 minutes",
+        "procedure": [
+            "1. Heat oil in a pan and sauté cumin seeds until they crackle.",
+            "2. Add garlic, onions, and tomatoes and cook until soft.",
+            "3. Add peas and stir-fry for a minute.",
+            "4. Add cooked rice, garam masala, red chili powder, and salt.",
+            "5. Stir-fry for a few minutes and serve hot."
+        ],
+        "type": "Vegetarian",
+        "image": "https://www.jeyashriskitchen.com/wp-content/uploads/2017/11/masala-rice.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=UAtR8InGdOE"
+    },
+    {
+      "id": 141,
+      "title": "Jeera Fried Rice",
+      "description": "Aromatic cumin-flavored rice, lightly spiced and perfect as a side dish.",
+      "ingredients": [
+          "2 cups cooked basmati rice",
+          "1 tbsp ghee or oil",
+          "1 tsp cumin seeds",
+          "1 green chili (slit)",
+          "1/2 tsp salt",
+          "2 tbsp chopped coriander leaves"
+      ],
+      "servings": 2,
+      "calories": 250,
+      "time": "20 minutes",
+      "procedure": [
+          "1. Heat ghee or oil in a pan and add cumin seeds.",
+          "2. Once they crackle, add green chili and sauté for a few seconds.",
+          "3. Add cooked rice and salt, mix well, and cook for 2-3 minutes.",
+          "4. Garnish with coriander leaves and serve hot."
+      ],
+      "type": "Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLUMi8inD2J8HRTxS2V-XF22KT9ZMMNyA8rw&s",
+      "youtube_link": "https://www.youtube.com/watch?v=raUlcCUnEZs"
+    },
+    {
+      "id": 142,
+      "title": "Lemon Fried Rice",
+      "description": "A tangy and flavorful rice dish with the zest of fresh lemons.",
+      "ingredients": [
+          "2 cups cooked rice",
+          "1 tbsp oil",
+          "1/2 tsp mustard seeds",
+          "1/2 tsp turmeric powder",
+          "1 green chili (chopped)",
+          "8-10 curry leaves",
+          "2 tbsp lemon juice",
+          "Salt to taste",
+          "2 tbsp roasted peanuts"
+      ],
+      "servings": 2,
+      "calories": 260,
+      "time": "20 minutes",
+      "procedure": [
+          "1. Heat oil in a pan, add mustard seeds and let them splutter.",
+          "2. Add turmeric powder, green chili, and curry leaves.",
+          "3. Add cooked rice, salt, and mix well.",
+          "4. Turn off the heat and mix in lemon juice and roasted peanuts.",
+          "5. Serve warm."
+      ],
+      "type": "Vegetarian",
+      "image": "https://kfoods.com/images1/newrecipeicon/lemon-rice_12743.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=_zvHhtJWgVo"
+    },
+    {
+      "id": 143,
+      "title": "Carrot Fried Rice",
+      "description": "A simple and nutritious fried rice with grated carrots and mild spices.",
+      "ingredients": [
+          "2 cups cooked rice",
+          "1 tbsp oil",
+          "1/2 tsp cumin seeds",
+          "1 cup grated carrots",
+          "1/4 tsp black pepper powder",
+          "Salt to taste",
+          "2 tbsp chopped coriander leaves"
+      ],
+      "servings": 2,
+      "calories": 270,
+      "time": "25 minutes",
+      "procedure": [
+          "1. Heat oil in a pan and add cumin seeds.",
+          "2. Add grated carrots and sauté for 3-4 minutes.",
+          "3. Add cooked rice, salt, and black pepper powder, then mix well.",
+          "4. Garnish with coriander leaves and serve hot."
+      ],
+      "type": "Vegetarian",
+      "image": "https://whereismyspoon.co/wp-content/uploads/2020/09/carrot-rice-dish-500x500.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=LTvjCL7b1QY"
+    },
+    {
+      "id": 144,
+      "title": "Nasi Goreng",
+      "description": "Indonesian-style fried rice with a bold and spicy flavor.",
+      "ingredients": [
+          "2 cups cooked rice",
+          "1 tbsp oil",
+          "1/2 cup chopped chicken (optional)",
+          "2 cloves garlic (minced)",
+          "1 red chili (chopped)",
+          "1 tbsp soy sauce",
+          "1/2 tbsp kecap manis (sweet soy sauce)",
+          "1 egg (fried, for topping)",
+          "Salt to taste",
+          "Spring onions for garnish"
+      ],
+      "servings": 2,
+      "calories": 320,
+      "time": "30 minutes",
+      "procedure": [
+          "1. Heat oil in a pan and sauté garlic and chili.",
+          "2. Add chicken (if using) and cook until browned.",
+          "3. Add cooked rice, soy sauce, and kecap manis, then stir-fry for a few minutes.",
+          "4. Serve with a fried egg on top and garnish with spring onions."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd92feoTWXQuHTUzP8UUf9AzV2xiJr58PRig&s",
+      "youtube_link": "https://www.youtube.com/watch?v=zsNnqYN_a6Y"
+    },
+    {
+      "id": 145,
+      "title": "Kimchi Fried Rice",
+      "description": "Korean-style fried rice with fermented kimchi and a spicy kick.",
+      "ingredients": [
+          "2 cups cooked rice",
+          "1 tbsp oil",
+          "1/2 cup chopped kimchi",
+          "1 tbsp kimchi juice",
+          "1/2 tbsp gochujang (Korean chili paste)",
+          "1 tbsp soy sauce",
+          "1 egg (fried, for topping)",
+          "2 tbsp chopped green onions"
+      ],
+      "servings": 2,
+      "calories": 300,
+      "time": "25 minutes",
+      "procedure": [
+          "1. Heat oil in a pan and sauté chopped kimchi for 2 minutes.",
+          "2. Add cooked rice, kimchi juice, gochujang, and soy sauce, then stir-fry.",
+          "3. Serve with a fried egg on top and garnish with green onions."
+      ],
+      "type": "Vegetarian",
+      "image": "https://www.crunchycreamysweet.com/wp-content/uploads/2020/06/kimchi-fried-rice-C.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=pr-uZxNkjYk"
+    },
+    {
+      "id": 146,
+      "title": "Egg Fried Rice",
+      "description": "A flavorful stir-fried rice dish with scrambled eggs, vegetables, and soy sauce.",
+      "ingredients": [
+          "2 cups cooked rice",
+          "2 eggs",
+          "1/2 cup mixed vegetables (carrots, peas, bell peppers)",
+          "2 tbsp soy sauce",
+          "1 tbsp oil",
+          "1/2 tsp black pepper",
+          "Salt to taste",
+          "1 tbsp chopped spring onions"
+      ],
+      "servings": 2,
+      "calories": 350,
+      "time": "20 minutes",
+      "procedure": [
+          "1. Heat oil in a pan and scramble the eggs.",
+          "2. Add vegetables and stir-fry for a couple of minutes.",
+          "3. Add cooked rice, soy sauce, black pepper, and salt.",
+          "4. Stir well and cook for 5 minutes. Garnish with spring onions and serve."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://theyummydelights.com/wp-content/uploads/2024/08/vegetable-egg-fried-rice.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=iv1frVob"
+    },
+    {
+      "id": 147,
+      "title": "Schezwan Chicken Fried Rice",
+      "description": "A spicy and flavorful fried rice dish made with tender chicken, Schezwan sauce, and aromatic spices.",
+      "ingredients": [
+          "2 cups cooked rice",
+          "1/2 cup boneless chicken (diced)",
+          "1/2 cup mixed vegetables",
+          "2 tbsp Schezwan sauce",
+          "1 tbsp soy sauce",
+          "1 tbsp oil",
+          "1/2 tsp black pepper",
+          "Salt to taste",
+          "1 tbsp chopped spring onions",
+          "1 tsp ginger-garlic paste"
+      ],
+      "servings": 2,
+      "calories": 450,
+      "time": "30 minutes",
+      "procedure": [
+          "1. Heat oil in a pan and sauté the ginger-garlic paste until aromatic.",
+          "2. Add diced chicken and cook until tender.",
+          "3. Add mixed vegetables and stir-fry for a few minutes.",
+          "4. Add cooked rice, Schezwan sauce, soy sauce, black pepper, and salt.",
+          "5. Mix well and cook for 5 minutes. Garnish with spring onions and serve hot."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://www.sharmispassions.com/wp-content/uploads/2014/11/SchezwanFriedRice5.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=w6FFlG_GPoc"
+    },
+    {
+      "id": 148,
+      "title": "Mutton Fried Rice",
+      "description": "A rich and aromatic fried rice with tender mutton pieces and spices.",
+      "ingredients": [
+          "2 cups cooked rice",
+          "1/2 cup boneless mutton (cooked and shredded)",
+          "1/2 cup mixed vegetables",
+          "2 tbsp soy sauce",
+          "1 tbsp oil",
+          "1/2 tsp black pepper",
+          "Salt to taste",
+          "1 tbsp chopped spring onions"
+      ],
+      "servings": 2,
+      "calories": 450,
+      "time": "30 minutes",
+      "procedure": [
+          "1. Heat oil in a pan and sauté the cooked mutton.",
+          "2. Add vegetables and stir-fry for a few minutes.",
+          "3. Add cooked rice, soy sauce, black pepper, and salt.",
+          "4. Mix well and cook for 5 minutes. Garnish with spring onions and serve."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://cdn.shopify.com/s/files/1/0270/7157/8246/files/Mutton_Briyani_-_final_600x600.jpg?v=1612857406",
+      "youtube_link": "https://www.youtube.com/watch?v=6LUsCfYdk8g"
+    },
+    {
+      "id": 149,
+      "title": "Fish Fried Rice",
+      "description": "A light and flavorful fried rice with flaky fish pieces and aromatic seasoning.",
+      "ingredients": [
+          "2 cups cooked rice",
+          "1/2 cup fish fillet (cooked and flaked)",
+          "1/2 cup mixed vegetables",
+          "2 tbsp soy sauce",
+          "1 tbsp oil",
+          "1/2 tsp black pepper",
+          "Salt to taste",
+          "1 tbsp chopped spring onions"
+      ],
+      "servings": 2,
+      "calories": 380,
+      "time": "25 minutes",
+      "procedure": [
+          "1. Heat oil in a pan and sauté the cooked fish.",
+          "2. Add vegetables and stir-fry for a few minutes.",
+          "3. Add cooked rice, soy sauce, black pepper, and salt.",
+          "4. Mix well and cook for 5 minutes. Garnish with spring onions and serve."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://www.thetakeiteasychef.com/wp-content/uploads/2016/04/the-take-it-easy-fried-rice.1024x1024.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=Iv0-UPR1k8s"
+    },
+    {
+      "id": 150,
+      "title": "Prawns Fried Rice",
+      "description": "A seafood lover’s delight, with juicy prawns stir-fried with rice and spices.",
+      "ingredients": [
+          "2 cups cooked rice",
+          "1/2 cup prawns (cleaned and deveined)",
+          "1/2 cup mixed vegetables",
+          "2 tbsp soy sauce",
+          "1 tbsp oil",
+          "1/2 tsp black pepper",
+          "Salt to taste",
+          "1 tbsp chopped spring onions"
+      ],
+      "servings": 2,
+      "calories": 420,
+      "time": "25 minutes",
+      "procedure": [
+          "1. Heat oil in a pan and sauté the prawns until pink and cooked.",
+          "2. Add vegetables and stir-fry for a few minutes.",
+          "3. Add cooked rice, soy sauce, black pepper, and salt.",
+          "4. Mix well and cook for 5 minutes. Garnish with spring onions and serve."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://www.licious.in/blog/wp-content/uploads/2022/07/shutterstock_1582779079.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=fQOqj2S8Jfs"
+    }
+  ]
+  },
+  {
+    "category": "MilkShakes",
+    "recipes":[
+    {
+        "id": 151,
+        "title": "Chocolate Milkshake",
+        "description": "A rich and creamy chocolate-flavored milkshake, perfect for chocolate lovers.",
+        "ingredients": [
+            "2 cups milk",
+            "4 scoops chocolate ice cream",
+            "2 tbsp chocolate syrup",
+            "Whipped cream (optional)",
+            "Chocolate shavings (for garnish)"
+        ],
+        "servings": 2,
+        "calories": 350,
+        "time": "10 minutes",
+        "procedure": [
+            "1. Blend milk, chocolate ice cream, and chocolate syrup until smooth.",
+            "2. Pour into a glass and top with whipped cream.",
+            "3. Garnish with chocolate shavings and serve immediately."
+        ],
+        "type": "Vegetarian",
+        "image": "https://valentinascorner.com/wp-content/uploads/2022/09/Chocolate-Milkshake-1.jpg",
+        "youtube_link": "https://www.youtube.com/watch?app=desktop&v=EA4yMzlHo9U&t=40s"
+    },
+    {
+        "id": 152,
+        "title": "Strawberry Milkshake",
+        "description": "A refreshing and fruity strawberry milkshake made with fresh strawberries.",
+        "ingredients": [
+            "2 cups milk",
+            "1 cup fresh strawberries",
+            "4 scoops strawberry ice cream",
+            "2 tbsp sugar",
+            "Whipped cream (optional)"
+        ],
+        "servings": 2,
+        "calories": 320,
+        "time": "10 minutes",
+        "procedure": [
+            "1. Blend milk, strawberries, ice cream, and sugar until smooth.",
+            "2. Pour into a glass and top with whipped cream.",
+            "3. Serve chilled and enjoy."
+        ],
+        "type": "Vegetarian",
+        "image": "https://www.skinnymixes.com/cdn/shop/files/1_520x500_e6f5d198-da55-4750-b47f-de1e7ab947cc_1024x1024.jpg?v=1724445853",
+        "youtube_link": "https://www.youtube.com/watch?v=vwO7nPaAWvs"
+    },
+    {
+        "id": 153,
+        "title": "Creamsicle Milkshake",
+        "description": "A creamy orange-flavored milkshake with a hint of vanilla.",
+        "ingredients": [
+            "2 cups milk",
+            "1/2 cup orange juice",
+            "4 scoops vanilla ice cream",
+            "1 tbsp honey",
+            "Whipped cream (optional)",
+            "Orange zest (for garnish)"
+        ],
+        "servings": 2,
+        "calories": 330,
+        "time": "10 minutes",
+        "procedure": [
+            "1. Blend milk, orange juice, vanilla ice cream, and honey until smooth.",
+            "2. Pour into a glass and top with whipped cream.",
+            "3. Garnish with orange zest and serve immediately."
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoL7SY94idHgi1xbhSOLqXEegVvyiZt1kRng&s",
+        "youtube_link": "https://www.youtube.com/watch?v=FGSrC1OhbNg"
+    },
+    {
+        "id": 154,
+        "title": "Lemon Pie Milkshake",
+        "description": "A tangy and creamy milkshake inspired by the classic lemon pie.",
+        "ingredients": [
+            "2 cups milk",
+            "4 scoops vanilla ice cream",
+            "2 tbsp lemon juice",
+            "1 tbsp honey",
+            "1/4 tsp vanilla extract",
+            "Whipped cream (optional)",
+            "Lemon zest (for garnish)"
+        ],
+        "servings": 2,
+        "calories": 340,
+        "time": "10 minutes",
+        "procedure": [
+            "1. Blend milk, vanilla ice cream, lemon juice, honey, and vanilla extract until smooth.",
+            "2. Pour into a glass and top with whipped cream.",
+            "3. Garnish with lemon zest and serve chilled."
+        ],
+        "type": "Vegetarian",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/delish-lemon-pie-milkshake-still002-1598287318.jpg?crop=1xw:1xh;center,top&resize=1200:*",
+        "youtube_link": "https://www.youtube.com/watch?v=fl1T71DbTHg"
+    },
+    {
+        "id": 155,
+        "title": "Peanut Butter & Jelly Milkshake",
+        "description": "A deliciously nostalgic milkshake combining the flavors of peanut butter and jelly.",
+        "ingredients": [
+            "2 cups milk",
+            "4 scoops vanilla ice cream",
+            "2 tbsp peanut butter",
+            "2 tbsp strawberry jam",
+            "1 tbsp honey",
+            "Whipped cream (optional)"
+        ],
+        "servings": 2,
+        "calories": 380,
+        "time": "10 minutes",
+        "procedure": [
+            "1. Blend milk, vanilla ice cream, peanut butter, strawberry jam, and honey until smooth.",
+            "2. Pour into a glass and top with whipped cream.",
+            "3. Serve immediately and enjoy."
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm_sf5EC0kYW5A2Ml7Wj763WyJFT74hBanJw&s",
+        "youtube_link": "https://www.youtube.com/watch?v=SnviCntBU2o"
+    },
+    {
+      "id": 156,
+      "title": "Oreo Cheesecake Milkshake",
+      "description": "A creamy and rich milkshake made with Oreo cookies and cheesecake flavor.",
+      "ingredients": [
+          "1 cup vanilla ice cream",
+          "1/2 cup milk",
+          "4 Oreo cookies",
+          "2 tbsp cream cheese",
+          "1 tbsp sugar",
+          "Whipped cream for topping",
+          "Crushed Oreos for garnish"
+      ],
+      "servings": 2,
+      "calories": 450,
+      "time": "10 minutes",
+      "procedure": [
+          "1. Blend ice cream, milk, Oreo cookies, cream cheese, and sugar until smooth.",
+          "2. Pour into a glass and top with whipped cream and crushed Oreos.",
+          "3. Serve immediately."
+      ],
+      "type": "Vegetarian",
+      "image": "https://www.cookedbyjulie.com/wp-content/uploads/2022/03/oreo-milkshake-four.jpg",
+      "youtube_link": "https://www.youtube.com/watch?app=desktop&v=cmgbSBi7VWQ&t=0s"
+    },
+    {
+      "id": 157,
+      "title": "Fruity Pebbles Milkshake",
+      "description": "A colorful and fun milkshake with Fruity Pebbles cereal.",
+      "ingredients": [
+          "1 cup vanilla ice cream",
+          "1/2 cup milk",
+          "1/4 cup Fruity Pebbles cereal",
+          "1 tbsp sugar",
+          "Whipped cream for topping",
+          "Extra Fruity Pebbles for garnish"
+      ],
+      "servings": 2,
+      "calories": 400,
+      "time": "10 minutes",
+      "procedure": [
+          "1. Blend ice cream, milk, Fruity Pebbles, and sugar until smooth.",
+          "2. Pour into a glass and top with whipped cream and extra cereal.",
+          "3. Serve immediately."
+      ],
+      "type": "Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjjY1ezxI_OxSWuRwITtMfoSf3NJNMELu5lg&s",
+      "youtube_link": "https://www.youtube.com/watch?v=WuR5e7Q7om8"
+    },
+    {
+      "id": 158,
+      "title": "Banana Cream Pie Milkshake",
+      "description": "A rich and creamy banana-flavored milkshake inspired by banana cream pie.",
+      "ingredients": [
+          "1 banana",
+          "1 cup vanilla ice cream",
+          "1/2 cup milk",
+          "1/4 tsp vanilla extract",
+          "1 tbsp honey",
+          "Whipped cream for topping",
+          "Crushed graham crackers for garnish"
+      ],
+      "servings": 2,
+      "calories": 420,
+      "time": "10 minutes",
+      "procedure": [
+          "1. Blend banana, ice cream, milk, vanilla extract, and honey until smooth.",
+          "2. Pour into a glass and top with whipped cream and crushed graham crackers.",
+          "3. Serve immediately."
+      ],
+      "type": "Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsZflWzUL3wPMMrch1-TAZOoXx4VbENRrHKw&s",
+      "youtube_link": "https://www.youtube.com/watch?v=fODC9rXWWXc"
+    },
+    {
+      "id": 159,
+      "title": "Bourbon Milk Punch",
+      "description": "A classic milk-based cocktail with bourbon, vanilla, and nutmeg.",
+      "ingredients": [
+          "1/2 cup whole milk",
+          "1/4 cup heavy cream",
+          "2 oz bourbon",
+          "1 tbsp powdered sugar",
+          "1/2 tsp vanilla extract",
+          "Ice cubes",
+          "Ground nutmeg for garnish"
+      ],
+      "servings": 1,
+      "calories": 350,
+      "time": "5 minutes",
+      "procedure": [
+          "1. Shake milk, cream, bourbon, sugar, and vanilla with ice until well mixed.",
+          "2. Strain into a chilled glass.",
+          "3. Sprinkle with nutmeg and serve."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://www.skinnymixes.com/cdn/shop/articles/FRENCH_VANILLA-7.png?v=1694706683",
+      "youtube_link": "https://www.youtube.com/watch?v=9redTyaM8Oo"
+    },
+    {
+      "id": 160,
+      "title": "Cap'n Crunch Milkshake",
+      "description": "A nostalgic milkshake featuring the sweet and crunchy flavors of Cap'n Crunch cereal.",
+      "ingredients": [
+          "1 cup vanilla ice cream",
+          "1/2 cup milk",
+          "1/4 cup Cap'n Crunch cereal",
+          "1 tbsp sugar",
+          "Whipped cream for topping",
+          "Crushed Cap'n Crunch for garnish"
+      ],
+      "servings": 2,
+      "calories": 430,
+      "time": "10 minutes",
+      "procedure": [
+          "1. Blend ice cream, milk, Cap'n Crunch, and sugar until smooth.",
+          "2. Pour into a glass and top with whipped cream and crushed cereal.",
+          "3. Serve immediately."
+      ],
+      "type": "Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRPzME1JJLMueaFJgFg7dtmTTvk-HCfpkVqw&s",
+      "youtube_link": "https://www.youtube.com/watch?v=ySGc-SjxdBM"
+    },
+    {
+      "id": 161,
+      "title": "Cherry-Vanilla Milkshake",
+      "description": "A creamy and refreshing milkshake with the classic combination of cherry and vanilla.",
+      "ingredients": [
+          "1 cup vanilla ice cream",
+          "1/2 cup milk",
+          "1/2 cup pitted cherries",
+          "1 tsp vanilla extract",
+          "Whipped cream for topping",
+          "Cherries for garnish"
+      ],
+      "servings": 2,
+      "calories": 350,
+      "time": "10 minutes",
+      "procedure": [
+          "1. Blend vanilla ice cream, milk, pitted cherries, and vanilla extract until smooth.",
+          "2. Pour into a glass and top with whipped cream and cherries.",
+          "3. Serve immediately."
+      ],
+      "type": "Vegetarian",
+      "image": "https://delightfulemade.com/wp-content/uploads/2023/07/Cherry-milkshake-6.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=N8oD9FITR7"
+    },
+    {
+      "id": 162,
+      "title": "Red Velvet Cheesecake Milkshake",
+      "description": "A rich and indulgent milkshake that combines the flavors of red velvet cake and cheesecake.",
+      "ingredients": [
+          "1 cup red velvet cake pieces",
+          "1/2 cup milk",
+          "1 cup vanilla ice cream",
+          "1/4 cup cream cheese",
+          "Whipped cream for topping",
+          "Red velvet crumbs for garnish"
+      ],
+      "servings": 2,
+      "calories": 400,
+      "time": "10 minutes",
+      "procedure": [
+          "1. Blend red velvet cake, milk, vanilla ice cream, and cream cheese until smooth.",
+          "2. Pour into a glass and top with whipped cream and red velvet crumbs.",
+          "3. Serve immediately."
+      ],
+      "type": "Vegetarian",
+      "image": "https://bakewithshivesh.com/wp-content/uploads/2020/09/IMG-8181-scaled.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=QKYHnnJ1ZFw"
+    },
+    {
+      "id": 163,
+      "title": "Sugar Cookie Milkshake",
+      "description": "A delightful milkshake with the taste of freshly baked sugar cookies.",
+      "ingredients": [
+          "1 cup vanilla ice cream",
+          "1/2 cup milk",
+          "2 sugar cookies, crumbled",
+          "1/2 tsp vanilla extract",
+          "Whipped cream for topping",
+          "Sprinkles for garnish"
+      ],
+      "servings": 2,
+      "calories": 380,
+      "time": "10 minutes",
+      "procedure": [
+          "1. Blend vanilla ice cream, milk, crumbled sugar cookies, and vanilla extract until smooth.",
+          "2. Pour into a glass and top with whipped cream and sprinkles.",
+          "3. Serve immediately."
+      ],
+      "type": "Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA4cFWEp2W8S2eHxM1CUWJk-IqjU4bMG15hQ&s",
+      "youtube_link": "https://www.youtube.com/watch?v=Bj2T9c922gc"
+    },
+    {
+      "id": 164,
+      "title": "Salted Caramel-Pretzel Milkshake",
+      "description": "A sweet and salty milkshake featuring caramel and crunchy pretzels.",
+      "ingredients": [
+          "1 cup vanilla ice cream",
+          "1/2 cup milk",
+          "2 tbsp caramel sauce",
+          "1/4 cup crushed pretzels",
+          "Whipped cream for topping",
+          "Caramel drizzle and pretzels for garnish"
+      ],
+      "servings": 2,
+      "calories": 420,
+      "time": "10 minutes",
+      "procedure": [
+          "1. Blend vanilla ice cream, milk, caramel sauce, and crushed pretzels until smooth.",
+          "2. Pour into a glass and top with whipped cream, caramel drizzle, and pretzels.",
+          "3. Serve immediately."
+      ],
+      "type": "Vegetarian",
+      "image": "https://www.pamperedchef.com/iceberg/com/recipe/1553366-lg.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=WrxhVnb5TeU"
+    },
+    {
+      "id": 165,
+      "title": "Brownie Milkshake",
+      "description": "A thick and chocolatey milkshake loaded with brownie goodness.",
+      "ingredients": [
+          "1 cup chocolate ice cream",
+          "1/2 cup milk",
+          "1/2 cup brownie chunks",
+          "2 tbsp chocolate syrup",
+          "Whipped cream for topping",
+          "Chocolate shavings for garnish"
+      ],
+      "servings": 2,
+      "calories": 450,
+      "time": "10 minutes",
+      "procedure": [
+          "1. Blend chocolate ice cream, milk, brownie chunks, and chocolate syrup until smooth.",
+          "2. Pour into a glass and top with whipped cream and chocolate shavings.",
+          "3. Serve immediately."
+      ],
+      "type": "Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZM7B-IqkD89jRFSn9tpQjC_B-lCSShwwgjQ&s",
+      "youtube_link": "https://www.youtube.com/watch?v=F2TIDB0Pt9U"
+    }
+  ]
+  },
+  {
+    "category": "Momos",
+    "recipes":[
+      {
+        "id": 166,
+        "title": "Classic Veg Momos",
+        "description": "Steamed dumplings filled with a flavorful mix of vegetables and spices.",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "1/2 cup cabbage, finely chopped",
+            "1/2 cup carrot, grated",
+            "1/4 cup onion, finely chopped",
+            "1 tsp garlic, minced",
+            "1 tsp ginger, minced",
+            "1/2 tsp black pepper",
+            "1 tbsp soy sauce",
+            "Salt to taste",
+            "Water as needed",
+            "Oil for greasing"
+        ],
+        "servings": 4,
+        "calories": 180,
+        "time": "40 minutes",
+        "procedure": [
+            "1. Prepare the dough by mixing flour and water until smooth. Let it rest for 30 minutes.",
+            "2. In a pan, sauté garlic, ginger, onion, carrot, and cabbage. Add soy sauce, black pepper, and salt. Let the filling cool.",
+            "3. Roll out small discs from the dough, add filling, and seal the edges.",
+            "4. Steam the momos for 10-12 minutes until translucent.",
+            "5. Serve hot with spicy chutney."
+        ],
+        "type": "Vegetarian",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2023/5/308737282/GZ/OP/DR/186484327/whatsapp-image-2023-05-17-at-06-08-14-2-.jpeg",
+        "youtube_link": "https://www.youtube.com/watch?app=desktop&v=kfvXn1RMRpY&t=93s"
+    },
+    {
+        "id": 167,
+        "title": "Paneer Momos",
+        "description": "Soft dumplings stuffed with crumbled paneer and spices, steamed to perfection.",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "1/2 cup paneer, crumbled",
+            "1/4 cup onion, finely chopped",
+            "1 tsp garlic, minced",
+            "1 tsp ginger, minced",
+            "1/2 tsp black pepper",
+            "1 tbsp soy sauce",
+            "Salt to taste",
+            "Water as needed",
+            "Oil for greasing"
+        ],
+        "servings": 4,
+        "calories": 220,
+        "time": "40 minutes",
+        "procedure": [
+            "1. Prepare the dough by mixing flour and water until smooth. Let it rest for 30 minutes.",
+            "2. In a bowl, mix paneer, onion, garlic, ginger, soy sauce, black pepper, and salt.",
+            "3. Roll out small discs from the dough, add filling, and seal the edges.",
+            "4. Steam the momos for 10-12 minutes until cooked.",
+            "5. Serve hot with dipping sauce."
+        ],
+        "type": "Vegetarian",
+        "image": "https://www.chefkunalkapur.com/wp-content/uploads/2021/07/CW0_7613.jpg?v=1627703755",
+        "youtube_link": "https://www.youtube.com/watch?v=OqOBHmXsE-4"
+    },
+    {
+        "id": 168,
+        "title": "Mushroom Momos",
+        "description": "Delicious dumplings filled with sautéed mushrooms and aromatic spices.",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "1/2 cup mushrooms, finely chopped",
+            "1/4 cup onion, finely chopped",
+            "1 tsp garlic, minced",
+            "1 tsp ginger, minced",
+            "1/2 tsp black pepper",
+            "1 tbsp soy sauce",
+            "Salt to taste",
+            "Water as needed",
+            "Oil for greasing"
+        ],
+        "servings": 4,
+        "calories": 200,
+        "time": "40 minutes",
+        "procedure": [
+            "1. Prepare the dough by mixing flour and water until smooth. Let it rest for 30 minutes.",
+            "2. Sauté garlic, ginger, onion, and mushrooms in a pan. Add soy sauce, black pepper, and salt.",
+            "3. Roll out small discs from the dough, add filling, and seal the edges.",
+            "4. Steam the momos for 10-12 minutes.",
+            "5. Serve hot with tomato chutney."
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkfXgHtC8DspqbFTKyFy9C-yCBLdEfjMuL1g&s",
+        "youtube_link": "https://www.youtube.com/watch?v=rqIN8lYDbzY"
+    },
+    {
+        "id": 169,
+        "title": "Corn & Cheese Momos",
+        "description": "Creamy and cheesy corn-filled dumplings, a fusion delight.",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "1/2 cup sweet corn, boiled and mashed",
+            "1/4 cup cheese, grated",
+            "1/4 cup onion, finely chopped",
+            "1 tsp garlic, minced",
+            "1/2 tsp black pepper",
+            "Salt to taste",
+            "Water as needed",
+            "Oil for greasing"
+        ],
+        "servings": 4,
+        "calories": 250,
+        "time": "40 minutes",
+        "procedure": [
+            "1. Prepare the dough by mixing flour and water until smooth. Let it rest for 30 minutes.",
+            "2. In a bowl, mix sweet corn, cheese, onion, garlic, black pepper, and salt.",
+            "3. Roll out small discs from the dough, add filling, and seal the edges.",
+            "4. Steam the momos for 10-12 minutes.",
+            "5. Serve hot with spicy mayo dip."
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf4H5dd81uPs3FlBfznISOksPARpeJ9qTMhg&s",
+        "youtube_link": "https://www.youtube.com/watch?v=0RryJNloSBE"
+    },
+    {
+        "id": 170,
+        "title": "Spinach & Cheese Momos",
+        "description": "Nutritious dumplings with a delicious spinach and cheese filling.",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "1/2 cup spinach, blanched and chopped",
+            "1/4 cup cheese, grated",
+            "1/4 cup onion, finely chopped",
+            "1 tsp garlic, minced",
+            "1/2 tsp black pepper",
+            "Salt to taste",
+            "Water as needed",
+            "Oil for greasing"
+        ],
+        "servings": 4,
+        "calories": 230,
+        "time": "40 minutes",
+        "procedure": [
+            "1. Prepare the dough by mixing flour and water until smooth. Let it rest for 30 minutes.",
+            "2. In a bowl, mix spinach, cheese, onion, garlic, black pepper, and salt.",
+            "3. Roll out small discs from the dough, add filling, and seal the edges.",
+            "4. Steam the momos for 10-12 minutes.",
+            "5. Serve hot with garlic chutney."
+        ],
+        "type": "Vegetarian",
+        "image": "https://i.ytimg.com/vi/scynCsj1LxY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLClm8bkC1ibHYdFsfw2GmIocyRR8w",
+        "youtube_link": "https://www.youtube.com/watch?v=KZ6mI4AUzn8"
+    },
+    {
+      "id": 171,
+      "title": "Schezwan Momos",
+      "description": "Spicy dumplings filled with vegetables or chicken, tossed in Schezwan sauce.",
+      "ingredients": [
+          "1 cup all-purpose flour",
+          "1/2 cup finely chopped cabbage",
+          "1/2 cup finely chopped carrots",
+          "1/2 cup finely chopped bell peppers",
+          "1/2 cup finely chopped onions",
+          "2 tbsp Schezwan sauce",
+          "1 tsp soy sauce",
+          "1 tsp ginger-garlic paste",
+          "Salt to taste",
+          "Oil for greasing"
+      ],
+      "servings": 4,
+      "calories": 250,
+      "time": "40 minutes",
+      "procedure": [
+          "1. Mix flour with water and salt to form a dough; let it rest for 20 minutes.",
+          "2. Sauté vegetables with ginger-garlic paste, soy sauce, and Schezwan sauce.",
+          "3. Roll out small circles of dough, fill with stuffing, and shape into momos.",
+          "4. Steam for 10-12 minutes, then toss in Schezwan sauce before serving."
+      ],
+      "type": "Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHkGtr2GNzAzIb3JiYF3DpMbGaDz4K18XrRg&s",
+      "youtube_link": "https://www.youtube.com/watch?v=yJjMQWL2-Hg"
+    },
+    {
+      "id": 172,
+      "title": "Tandoori Momos",
+      "description": "Momos marinated in spiced yogurt and grilled for a smoky flavor.",
+      "ingredients": [
+          "1 cup all-purpose flour",
+          "1/2 cup chopped mixed vegetables or chicken",
+          "1/2 cup hung curd",
+          "1 tsp tandoori masala",
+          "1/2 tsp red chili powder",
+          "1/2 tsp turmeric powder",
+          "1/2 tsp garam masala",
+          "1 tsp ginger-garlic paste",
+          "Salt to taste",
+          "Oil for greasing"
+      ],
+      "servings": 4,
+      "calories": 270,
+      "time": "50 minutes",
+      "procedure": [
+          "1. Prepare momo dough and stuffing with vegetables or chicken.",
+          "2. Steam the momos for 10-12 minutes.",
+          "3. Mix hung curd with spices and coat the momos in the marinade.",
+          "4. Grill or bake until golden and slightly charred, then serve hot."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSADtD1dTLq3a3o__HsvbQEts0kCFpNHHjzwA&s",
+      "youtube_link": "https://www.youtube.com/watch?v=zY16x5TBXzw"
+    },
+    {
+      "id": 173,
+      "title": "Chocolate Momos",
+      "description": "Sweet dumplings filled with melted chocolate and nuts.",
+      "ingredients": [
+          "1 cup all-purpose flour",
+          "1/2 cup melted dark chocolate",
+          "1/4 cup chopped nuts (almonds, cashews)",
+          "1 tbsp powdered sugar",
+          "1/2 tsp cinnamon powder",
+          "1 tsp butter",
+          "Oil for greasing"
+      ],
+      "servings": 4,
+      "calories": 300,
+      "time": "35 minutes",
+      "procedure": [
+          "1. Prepare dough using flour and water, let it rest.",
+          "2. Mix melted chocolate with nuts, powdered sugar, and cinnamon.",
+          "3. Roll out dough circles, fill with chocolate mixture, and seal into momos.",
+          "4. Steam for 8-10 minutes, brush with butter, and serve warm."
+      ],
+      "type": "Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0wDhI3fg6d1_7lHTZYGsmvpS716luZ7amMQ&s",
+      "youtube_link": "https://www.youtube.com/watch?v=hzW3LsMFF3c"
+    },
+    {
+      "id": 174,
+      "title": "Chicken Momos",
+      "description": "Juicy dumplings filled with spiced minced chicken, served with dipping sauce.",
+      "ingredients": [
+          "1 cup all-purpose flour",
+          "1/2 cup minced chicken",
+          "1/4 cup finely chopped onions",
+          "1 tsp ginger-garlic paste",
+          "1 tsp soy sauce",
+          "1/2 tsp black pepper powder",
+          "Salt to taste",
+          "Oil for greasing"
+      ],
+      "servings": 4,
+      "calories": 280,
+      "time": "40 minutes",
+      "procedure": [
+          "1. Prepare a soft dough using flour and water, let it rest.",
+          "2. Mix minced chicken with onions, soy sauce, black pepper, and salt.",
+          "3. Roll out dough circles, fill with chicken mixture, and shape into momos.",
+          "4. Steam for 12-15 minutes and serve hot with sauce."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://static.india.com/wp-content/uploads/2024/12/FEATURE-2024-12-15T174448.090.jpg?impolicy=Medium_Widthonly&w=350&h=263",
+      "youtube_link": "https://www.youtube.com/watch?v=hgx1wYVFrhg"
+    },
+    {
+      "id": 175,
+      "title": "Spicy Chicken Momos",
+      "description": "Momos stuffed with spicy chicken filling, tossed in a fiery sauce.",
+      "ingredients": [
+          "1 cup all-purpose flour",
+          "1/2 cup minced chicken",
+          "1/4 cup finely chopped onions",
+          "1 tsp ginger-garlic paste",
+          "1 tsp soy sauce",
+          "1/2 tsp black pepper powder",
+          "1 tbsp red chili sauce",
+          "1/2 tsp vinegar",
+          "Salt to taste",
+          "Oil for greasing"
+      ],
+      "servings": 4,
+      "calories": 290,
+      "time": "45 minutes",
+      "procedure": [
+          "1. Prepare momo dough and let it rest for 20 minutes.",
+          "2. Mix minced chicken with onions, soy sauce, black pepper, and chili sauce.",
+          "3. Roll out dough circles, fill with spicy chicken mixture, and seal.",
+          "4. Steam for 12-15 minutes, then toss in chili sauce and vinegar before serving."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT52v_fzVC2k3BKrWBCjgXm1_0-aws2PpuxKw&s",
+      "youtube_link": "https://www.youtube.com/watch?v=ollh6pS3HL8"
+    },
+    {
+      "id": 176,
+      "title": "Mutton Momos",
+      "description": "Steamed dumplings filled with flavorful minced mutton and spices.",
+      "ingredients": [
+          "2 cups all-purpose flour",
+          "1/2 cup water",
+          "1/2 tsp salt",
+          "1 cup minced mutton",
+          "1/2 cup finely chopped onions",
+          "1 tbsp ginger-garlic paste",
+          "1/2 tsp black pepper",
+          "1/2 tsp soy sauce",
+          "1 tbsp chopped coriander",
+          "1 tbsp oil"
+      ],
+      "servings": 4,
+      "calories": 250,
+      "time": "45 minutes",
+      "procedure": [
+          "1. Mix flour, water, and salt to make a smooth dough. Let it rest for 30 minutes.",
+          "2. Prepare the filling by mixing minced mutton, onions, ginger-garlic paste, soy sauce, black pepper, and coriander.",
+          "3. Roll out small circles of dough and place filling in the center.",
+          "4. Fold and seal the edges, then steam for 15-20 minutes.",
+          "5. Serve hot with chutney or dipping sauce."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSVE9i436JCQGULsx867Nj_FlGmNKGbILOOg&s",
+      "youtube_link": "https://www.youtube.com/watch?v=UvleeUZNT6A"
+    },
+    {
+      "id": 177,
+      "title": "Prawn Momos",
+      "description": "Delicate dumplings filled with juicy prawns and aromatic spices.",
+      "ingredients": [
+          "2 cups all-purpose flour",
+          "1/2 cup water",
+          "1/2 tsp salt",
+          "1 cup finely chopped prawns",
+          "1/2 cup finely chopped onions",
+          "1 tbsp ginger-garlic paste",
+          "1/2 tsp black pepper",
+          "1/2 tsp soy sauce",
+          "1 tbsp chopped coriander",
+          "1 tbsp oil"
+      ],
+      "servings": 4,
+      "calories": 230,
+      "time": "45 minutes",
+      "procedure": [
+          "1. Mix flour, water, and salt to make a smooth dough. Let it rest for 30 minutes.",
+          "2. Prepare the filling by mixing chopped prawns, onions, ginger-garlic paste, soy sauce, black pepper, and coriander.",
+          "3. Roll out small circles of dough and place filling in the center.",
+          "4. Fold and seal the edges, then steam for 15-20 minutes.",
+          "5. Serve hot with chutney or dipping sauce."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3UJP7xQtUIFhG7-oktvJ1PB2ji99sEDFH4A&s",
+      "youtube_link": "https://www.youtube.com/watch?v=iyscSyaePIg"
+    },
+    {
+      "id": 178,
+      "title": "Keema Momos",
+      "description": "Delicious dumplings stuffed with spiced minced meat, a perfect street food snack.",
+      "ingredients": [
+          "2 cups all-purpose flour",
+          "1/2 cup water",
+          "1/2 tsp salt",
+          "1 cup minced chicken or lamb",
+          "1/2 cup finely chopped onions",
+          "1 tbsp ginger-garlic paste",
+          "1/2 tsp black pepper",
+          "1/2 tsp soy sauce",
+          "1 tbsp chopped coriander",
+          "1 tbsp oil"
+      ],
+      "servings": 4,
+      "calories": 260,
+      "time": "45 minutes",
+      "procedure": [
+          "1. Mix flour, water, and salt to make a smooth dough. Let it rest for 30 minutes.",
+          "2. Prepare the filling by mixing minced meat, onions, ginger-garlic paste, soy sauce, black pepper, and coriander.",
+          "3. Roll out small circles of dough and place filling in the center.",
+          "4. Fold and seal the edges, then steam for 15-20 minutes.",
+          "5. Serve hot with chutney or dipping sauce."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/shaikh.khalid7-gmail.com/Chicken_Momos_Recipe_Delicious_Steamed_Chicken_Dumplings.jpg",
+      "youtube_link": "https://www.youtube.com/watch?app=desktop&v=JptJWWj7tS8"
+    },
+    {
+      "id": 179,
+      "title": "Fried Momos",
+      "description": "Crispy golden-brown dumplings with a juicy meat filling inside.",
+      "ingredients": [
+          "2 cups all-purpose flour",
+          "1/2 cup water",
+          "1/2 tsp salt",
+          "1 cup minced chicken or vegetables",
+          "1/2 cup finely chopped onions",
+          "1 tbsp ginger-garlic paste",
+          "1/2 tsp black pepper",
+          "1/2 tsp soy sauce",
+          "1 tbsp chopped coriander",
+          "1 tbsp oil",
+          "Oil for deep frying"
+      ],
+      "servings": 4,
+      "calories": 300,
+      "time": "50 minutes",
+      "procedure": [
+          "1. Mix flour, water, and salt to make a smooth dough. Let it rest for 30 minutes.",
+          "2. Prepare the filling by mixing minced meat or vegetables, onions, ginger-garlic paste, soy sauce, black pepper, and coriander.",
+          "3. Roll out small circles of dough and place filling in the center.",
+          "4. Fold and seal the edges, then deep-fry in hot oil until golden brown.",
+          "5. Serve hot with spicy chutney or dipping sauce."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiVheB35_lR-xe3Ph0NIqWvp4HehTbxYuVwQ&s",
+      "youtube_link": "https://www.youtube.com/watch?v=iq1ivh1Qgok"
+    },
+    {
+      "id": 180,
+      "title": "Soup Momos (Thukpa Momos)",
+      "description": "A comforting soup with dumplings served in a spicy broth.",
+      "ingredients": [
+          "2 cups all-purpose flour",
+          "1/2 cup water",
+          "1/2 tsp salt",
+          "1 cup minced chicken or vegetables",
+          "1/2 cup finely chopped onions",
+          "1 tbsp ginger-garlic paste",
+          "1/2 tsp black pepper",
+          "1/2 tsp soy sauce",
+          "1 tbsp chopped coriander",
+          "1 tbsp oil",
+          "4 cups chicken or vegetable broth",
+          "1/2 cup chopped carrots",
+          "1/2 cup chopped cabbage",
+          "1 tbsp chili sauce",
+          "1 tsp soy sauce"
+      ],
+      "servings": 4,
+      "calories": 280,
+      "time": "60 minutes",
+      "procedure": [
+          "1. Mix flour, water, and salt to make a smooth dough. Let it rest for 30 minutes.",
+          "2. Prepare the filling by mixing minced chicken or vegetables, onions, ginger-garlic paste, soy sauce, black pepper, and coriander.",
+          "3. Roll out small circles of dough and place filling in the center.",
+          "4. Fold and seal the edges, then steam for 15-20 minutes.",
+          "5. In a pot, heat oil and sauté chopped carrots, cabbage, and onions.",
+          "6. Add chicken or vegetable broth, chili sauce, and soy sauce. Let it simmer for 10 minutes.",
+          "7. Add the steamed momos to the broth and simmer for 5 more minutes.",
+          "8. Serve hot garnished with coriander."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1kukqCk49k_PMo9UswC-pSBS3-o2LtFBK3g&s",
+      "youtube_link": "https://www.youtube.com/watch?v=4hYx0anG3mk"
+    },
+    {
+      "id": 181,
+      "title": "Butter Chicken Momos",
+      "description": "Juicy dumplings stuffed with chicken and coated in creamy butter chicken gravy.",
+      "ingredients": [
+          "1 cup all-purpose flour",
+          "1/2 cup water",
+          "1 cup minced chicken",
+          "1/2 tsp ginger-garlic paste",
+          "1/4 tsp salt",
+          "1/4 tsp black pepper",
+          "1/2 cup butter chicken gravy",
+          "1 tbsp butter"
+      ],
+      "servings": 4,
+      "calories": 350,
+      "time": "50 minutes",
+      "procedure": [
+          "1. Mix flour and water to make a smooth dough and rest for 20 minutes.",
+          "2. Prepare chicken filling with ginger-garlic paste, salt, and pepper.",
+          "3. Roll out dough, fill with chicken, and shape into momos.",
+          "4. Steam momos for 10-12 minutes until cooked.",
+          "5. Toss steamed momos in butter chicken gravy and serve hot."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLBX8IxjmeJmxaTr_7vTphKiVD8dGsK9L7FQ&s",
+      "youtube_link": "https://www.youtube.com/watch?v=Si3MD_sYu7o"
+    },
+    {
+      "id": 182,
+      "title": "Malai Momos",
+      "description": "Creamy and rich dumplings coated with a luscious malai sauce.",
+      "ingredients": [
+          "1 cup all-purpose flour",
+          "1/2 cup water",
+          "1 cup minced paneer or chicken",
+          "1/4 tsp salt",
+          "1/4 tsp black pepper",
+          "1/2 cup fresh cream",
+          "1 tbsp butter",
+          "1/2 tsp cardamom powder"
+      ],
+      "servings": 4,
+      "calories": 320,
+      "time": "45 minutes",
+      "procedure": [
+          "1. Make a dough with flour and water and let it rest for 20 minutes.",
+          "2. Prepare filling with minced paneer or chicken, salt, and pepper.",
+          "3. Shape and steam the momos for 10-12 minutes.",
+          "4. Cook fresh cream with butter and cardamom powder to make malai sauce.",
+          "5. Toss steamed momos in the sauce and serve warm."
+      ],
+      "type": "Vegetarian",
+      "image": "https://i.ytimg.com/vi/F0eAbj3qUIQ/sddefault.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=62Jv6QlBn70"
+    },
+    {
+      "id": 183,
+      "title": "BBQ Momos",
+      "description": "Smoky and flavorful dumplings coated with a tangy BBQ sauce.",
+      "ingredients": [
+          "1 cup all-purpose flour",
+          "1/2 cup water",
+          "1 cup minced chicken or vegetables",
+          "1/4 tsp salt",
+          "1/4 tsp black pepper",
+          "1/2 cup BBQ sauce",
+          "1 tbsp oil"
+      ],
+      "servings": 4,
+      "calories": 330,
+      "time": "50 minutes",
+      "procedure": [
+          "1. Prepare the dough with flour and water and let it rest.",
+          "2. Mix filling ingredients and stuff into small momo wrappers.",
+          "3. Steam the momos for 12 minutes until fully cooked.",
+          "4. Sauté momos in BBQ sauce for a smoky flavor and serve hot."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://www.shutterstock.com/image-photo/veg-momo-barbeque-sauce-served-260nw-1871386660.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=zWYIEeSmCV8"
+    },
+    {
+      "id": 184,
+      "title": "Peri Peri Momos",
+      "description": "Spicy dumplings tossed in a fiery peri peri sauce.",
+      "ingredients": [
+          "1 cup all-purpose flour",
+          "1/2 cup water",
+          "1 cup minced vegetables or chicken",
+          "1/4 tsp salt",
+          "1/4 tsp black pepper",
+          "1/2 cup peri peri sauce",
+          "1 tbsp oil"
+      ],
+      "servings": 4,
+      "calories": 340,
+      "time": "50 minutes",
+      "procedure": [
+          "1. Prepare a smooth dough and let it rest for 20 minutes.",
+          "2. Fill and shape the momos with your chosen filling.",
+          "3. Steam for 10-12 minutes until cooked through.",
+          "4. Sauté in peri peri sauce for a bold, spicy flavor and serve hot."
+      ],
+      "type": "Non-Vegetarian",
+      "image": "https://thumbs.dreamstime.com/b/homemade-chicken-peri-peri-momos-sauces-mayonnaise-homemade-chicken-peri-peri-momos-sauces-mayonnaise-327791522.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=oNBntFveaS0"
+    },
+    {
+      "id": 185,
+      "title": "Cheese Burst Momos",
+      "description": "Gooey and cheesy momos with a molten cheese center.",
+      "ingredients": [
+          "1 cup all-purpose flour",
+          "1/2 cup water",
+          "1 cup shredded mozzarella cheese",
+          "1/4 tsp salt",
+          "1/4 tsp black pepper",
+          "1 tbsp butter",
+          "1/2 tsp oregano"
+      ],
+      "servings": 4,
+      "calories": 360,
+      "time": "45 minutes",
+      "procedure": [
+          "1. Knead flour with water to make a smooth dough and let it rest.",
+          "2. Fill with shredded mozzarella cheese, salt, pepper, and oregano.",
+          "3. Shape and steam for 10-12 minutes until soft.",
+          "4. Lightly pan-fry with butter for extra crispiness and serve hot."
+      ],
+      "type": "Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBFqXU0FZEND9H-WqE-vj-fp33JPzbL7BGJg&s",
+      "youtube_link": "https://www.youtube.com/watch?v=KLb-Hkdp3lE"
+    }
+  ]
+  },
+  {
+    "category": "Mojitos",
+    "recipes":[
+      {
+        "id": 186,
+        "title": "Classic Mojito",
+        "description": "A refreshing Cuban cocktail made with lime, mint, sugar, and soda.",
+        "ingredients": [
+            "10 fresh mint leaves",
+            "1 lime (cut into wedges)",
+            "2 tbsp sugar",
+            "1 cup soda water",
+            "1/2 cup crushed ice",
+            "1 oz white rum (optional)"
+        ],
+        "servings": 1,
+        "calories": 120,
+        "time": "10 minutes",
+        "procedure": [
+            "1. Muddle mint leaves, lime wedges, and sugar in a glass.",
+            "2. Add crushed ice and white rum (if using).",
+            "3. Top with soda water and stir gently.",
+            "4. Garnish with mint leaves and serve chilled."
+        ],
+        "type": "Vegetarian",
+        "image": "https://www.isabeleats.com/wp-content/uploads/2018/02/classic-mojito-recipe-small-3.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=29T9C4Uccrk"
+    },
+    {
+        "id": 187,
+        "title": "Strawberry Mojito",
+        "description": "A fruity twist on the classic mojito with fresh strawberries.",
+        "ingredients": [
+            "10 fresh mint leaves",
+            "1/2 cup fresh strawberries (sliced)",
+            "1 lime (cut into wedges)",
+            "2 tbsp sugar",
+            "1 cup soda water",
+            "1/2 cup crushed ice",
+            "1 oz white rum (optional)"
+        ],
+        "servings": 1,
+        "calories": 130,
+        "time": "10 minutes",
+        "procedure": [
+            "1. Muddle mint leaves, lime wedges, strawberries, and sugar in a glass.",
+            "2. Add crushed ice and white rum (if using).",
+            "3. Top with soda water and stir gently.",
+            "4. Garnish with mint leaves and strawberry slices."
+        ],
+        "type": "Vegetarian",
+        "image": "https://burrataandbubbles.com/wp-content/uploads/2022/07/strawberry-mojito-featured-image.jpg",
+        "youtube_link": "https://www.youtube.com/watch?app=desktop&v=G5lJsg7MZYA"
+    },
+    {
+        "id": 188,
+        "title": "Mango Mojito",
+        "description": "A tropical mango-infused mojito with a perfect balance of sweetness and freshness.",
+        "ingredients": [
+            "10 fresh mint leaves",
+            "1/2 cup fresh mango puree",
+            "1 lime (cut into wedges)",
+            "2 tbsp sugar",
+            "1 cup soda water",
+            "1/2 cup crushed ice",
+            "1 oz white rum (optional)"
+        ],
+        "servings": 1,
+        "calories": 140,
+        "time": "10 minutes",
+        "procedure": [
+            "1. Muddle mint leaves, lime wedges, and sugar in a glass.",
+            "2. Add mango puree and mix well.",
+            "3. Add crushed ice and white rum (if using).",
+            "4. Top with soda water, stir gently, and garnish with mint leaves."
+        ],
+        "type": "Vegetarian",
+        "image": "https://vanillaandbean.com/wp-content/uploads/2022/07/MangoMojitoFresh-10.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=BWEuCPs7Y1w"
+    },
+    {
+        "id": 189,
+        "title": "Pineapple Mojito",
+        "description": "A tropical mojito variation with fresh pineapple and mint.",
+        "ingredients": [
+            "10 fresh mint leaves",
+            "1/2 cup fresh pineapple chunks",
+            "1 lime (cut into wedges)",
+            "2 tbsp sugar",
+            "1 cup soda water",
+            "1/2 cup crushed ice",
+            "1 oz white rum (optional)"
+        ],
+        "servings": 1,
+        "calories": 135,
+        "time": "10 minutes",
+        "procedure": [
+            "1. Muddle mint leaves, lime wedges, pineapple chunks, and sugar in a glass.",
+            "2. Add crushed ice and white rum (if using).",
+            "3. Top with soda water, stir gently, and garnish with mint leaves."
+        ],
+        "type": "Vegetarian",
+        "image": "https://mixop.net/wp-content/uploads/136A7906-scaled-735x1032.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=EY9tJFvlMCY"
+    },
+    {
+        "id": 190,
+        "title": "Watermelon Mojito",
+        "description": "A hydrating mojito with the sweetness of watermelon and refreshing mint.",
+        "ingredients": [
+            "10 fresh mint leaves",
+            "1/2 cup fresh watermelon chunks",
+            "1 lime (cut into wedges)",
+            "2 tbsp sugar",
+            "1 cup soda water",
+            "1/2 cup crushed ice",
+            "1 oz white rum (optional)"
+        ],
+        "servings": 1,
+        "calories": 125,
+        "time": "10 minutes",
+        "procedure": [
+            "1. Muddle mint leaves, lime wedges, watermelon chunks, and sugar in a glass.",
+            "2. Add crushed ice and white rum (if using).",
+            "3. Top with soda water, stir gently, and garnish with mint leaves."
+        ],
+        "type": "Vegetarian",
+        "image": "https://www.watermelon.org/wp-content/uploads/2020/03/Cherry-Mojito_2008.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=16eqfvraVzE"
+    },
+    {
+      "id": 191,
+      "title": "Blueberry Mojito",
+      "description": "A refreshing cocktail with blueberries, mint, lime, and soda.",
+      "ingredients": [
+          "1/2 cup fresh blueberries",
+          "10 fresh mint leaves",
+          "1 lime (juiced)",
+          "2 tbsp simple syrup",
+          "1/2 cup club soda",
+          "1/4 cup white rum (optional)",
+          "Ice cubes"
+      ],
+      "servings": 1,
+      "calories": 120,
+      "time": "10 minutes",
+      "procedure": [
+          "1. Muddle blueberries, mint leaves, and lime juice in a glass.",
+          "2. Add simple syrup and ice cubes.",
+          "3. Pour in club soda and rum (if using).",
+          "4. Stir well and garnish with extra blueberries and mint leaves."
+      ],
+      "type": "Vegetarian",
+      "image": "https://thenovicechefblog.com/wp-content/uploads/2013/05/Blueberry-Mojito-1.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=WoXrej6STEU"
+    },
+    {
+      "id": 192,
+      "title": "Coconut Mojito",
+      "description": "A tropical twist on the classic mojito with coconut and mint.",
+      "ingredients": [
+          "1/2 cup coconut water",
+          "10 fresh mint leaves",
+          "1 lime (juiced)",
+          "2 tbsp simple syrup",
+          "1/2 cup club soda",
+          "1/4 cup white rum (optional)",
+          "Ice cubes"
+      ],
+      "servings": 1,
+      "calories": 130,
+      "time": "10 minutes",
+      "procedure": [
+          "1. Muddle mint leaves and lime juice in a glass.",
+          "2. Add simple syrup, coconut water, and ice cubes.",
+          "3. Pour in club soda and rum (if using).",
+          "4. Stir well and garnish with coconut flakes and mint leaves."
+      ],
+      "type": "Vegetarian",
+      "image": "https://hostthetoast.com/wp-content/uploads/2019/07/Coconut-Mojitos-1.jpg",
+      "youtube_link": "https://www.youtube.com/watch?v=S4B-kooz6Hc"
+    },
+    {
+      "id": 193,
+      "title": "Passion Fruit Mojito",
+      "description": "A vibrant mojito infused with fresh passion fruit and mint.",
+      "ingredients": [
+          "1/2 cup fresh passion fruit pulp",
+          "10 fresh mint leaves",
+          "1 lime (juiced)",
+          "2 tbsp simple syrup",
+          "1/2 cup club soda",
+          "1/4 cup white rum (optional)",
+          "Ice cubes"
+      ],
+      "servings": 1,
+      "calories": 140,
+      "time": "10 minutes",
+      "procedure": [
+          "1. Muddle passion fruit pulp, mint leaves, and lime juice in a glass.",
+          "2. Add simple syrup and ice cubes.",
+          "3. Pour in club soda and rum (if using).",
+          "4. Stir well and garnish with extra passion fruit seeds and mint leaves."
+      ],
+      "type": "Vegetarian",
+      "image": "https://sansdrinks.com.au/cdn/shop/articles/Passionfruit-Mojito_242a0e0f-c219-4b6a-89d6-4b8b154814fe.jpg?v=1669771571",
+      "youtube_link": "https://www.youtube.com/watch?v=oWOwKl9mMNg"
+    },
+    {
+      "id": 194,
+      "title": "Cucumber Mojito",
+      "description": "A cooling mojito featuring fresh cucumber and mint.",
+      "ingredients": [
+          "1/2 cup cucumber slices",
+          "10 fresh mint leaves",
+          "1 lime (juiced)",
+          "2 tbsp simple syrup",
+          "1/2 cup club soda",
+          "1/4 cup white rum (optional)",
+          "Ice cubes"
+      ],
+      "servings": 1,
+      "calories": 110,
+      "time": "10 minutes",
+      "procedure": [
+          "1. Muddle cucumber slices, mint leaves, and lime juice in a glass.",
+          "2. Add simple syrup and ice cubes.",
+          "3. Pour in club soda and rum (if using).",
+          "4. Stir well and garnish with cucumber slices and mint leaves."
+      ],
+      "type": "Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNEhVjzJJfISthsLexYgqSaTKSJcu6z69jcw&s",
+      "youtube_link": "https://www.youtube.com/watch?v=Dv6MhbK6XZQ"
+    },
+    {
+      "id": 195,
+      "title": "Ginger Mojito",
+      "description": "A zesty mojito infused with fresh ginger and mint.",
+      "ingredients": [
+          "1/2 inch fresh ginger (grated)",
+          "10 fresh mint leaves",
+          "1 lime (juiced)",
+          "2 tbsp simple syrup",
+          "1/2 cup club soda",
+          "1/4 cup white rum (optional)",
+          "Ice cubes"
+      ],
+      "servings": 1,
+      "calories": 125,
+      "time": "10 minutes",
+      "procedure": [
+          "1. Muddle grated ginger, mint leaves, and lime juice in a glass.",
+          "2. Add simple syrup and ice cubes.",
+          "3. Pour in club soda and rum (if using).",
+          "4. Stir well and garnish with ginger slices and mint leaves."
+      ],
+      "type": "Vegetarian",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSysJG1RmYKTs27xeyf4E_R52VPmWaJG6ybYQ&s",
+      "youtube_link": "https://www.youtube.com/watch?v=Ow3ESWLWRhU"
+    }
+
+  ]
+  },
+  {
+    "category": "Noodles",
+    "recipes":[
+      {
+        "id": 196,
+        "title": "Paneer Noodles",
+        "description": "Delicious stir-fried noodles tossed with crispy paneer and vegetables in flavorful sauces.",
+        "ingredients": [
+            "200g noodles",
+            "100g paneer (cubed)",
+            "1 onion (sliced)",
+            "1 bell pepper (sliced)",
+            "1 carrot (julienned)",
+            "2 tbsp soy sauce",
+            "1 tbsp chili sauce",
+            "1 tbsp vinegar",
+            "1 tsp ginger-garlic paste",
+            "Salt to taste",
+            "Black pepper to taste",
+            "2 tbsp oil"
+        ],
+        "servings": 2,
+        "calories": 450,
+        "time": "30 minutes",
+        "procedure": [
+            "1. Boil noodles as per instructions, drain, and set aside.",
+            "2. Heat oil in a pan and sauté ginger-garlic paste, onions, bell peppers, and carrots.",
+            "3. Add paneer cubes and stir-fry until slightly golden.",
+            "4. Add soy sauce, chili sauce, vinegar, salt, and black pepper.",
+            "5. Toss in boiled noodles and stir-fry for 2-3 minutes before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXNPpL8s-VCUgOFuGGJZHjLYiayJv2TZ6WPg&s",
+        "youtube_link": "https://www.youtube.com/watch?v=chQ8H-GLwls"
+      },
+      {
+        "id": 197,
+        "title": "Mushroom Noodles",
+        "description": "Flavorful noodles cooked with sautéed mushrooms and mixed vegetables.",
+        "ingredients": [
+            "200g noodles",
+            "100g mushrooms (sliced)",
+            "1 onion (sliced)",
+            "1 bell pepper (sliced)",
+            "1 carrot (julienned)",
+            "2 tbsp soy sauce",
+            "1 tbsp chili sauce",
+            "1 tbsp vinegar",
+            "1 tsp ginger-garlic paste",
+            "Salt to taste",
+            "Black pepper to taste",
+            "2 tbsp oil"
+        ],
+        "servings": 2,
+        "calories": 420,
+        "time": "30 minutes",
+        "procedure": [
+            "1. Boil noodles as per instructions, drain, and set aside.",
+            "2. Heat oil in a pan and sauté ginger-garlic paste, onions, bell peppers, and carrots.",
+            "3. Add sliced mushrooms and stir-fry until tender.",
+            "4. Add soy sauce, chili sauce, vinegar, salt, and black pepper.",
+            "5. Toss in boiled noodles and stir-fry for 2-3 minutes before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBs2rZeurD5_Y45xBk6YZMZo1PFpnp3QLfw&s",
+        "youtube_link": "https://www.youtube.com/watch?v=1jmYxsniyi8"
+      },
+      {
+        "id": 198,
+        "title": "Chicken Noodles",
+        "description": "Savory chicken noodles stir-fried with fresh vegetables and soy-based sauces.",
+        "ingredients": [
+            "200g noodles",
+            "150g chicken (sliced)",
+            "1 onion (sliced)",
+            "1 bell pepper (sliced)",
+            "1 carrot (julienned)",
+            "2 tbsp soy sauce",
+            "1 tbsp chili sauce",
+            "1 tbsp vinegar",
+            "1 tsp ginger-garlic paste",
+            "Salt to taste",
+            "Black pepper to taste",
+            "2 tbsp oil"
+        ],
+        "servings": 2,
+        "calories": 500,
+        "time": "35 minutes",
+        "procedure": [
+            "1. Boil noodles as per instructions, drain, and set aside.",
+            "2. Heat oil in a pan and sauté ginger-garlic paste, onions, bell peppers, and carrots.",
+            "3. Add chicken slices and stir-fry until fully cooked.",
+            "4. Add soy sauce, chili sauce, vinegar, salt, and black pepper.",
+            "5. Toss in boiled noodles and stir-fry for 2-3 minutes before serving."
+        ],
+        "type": "Non-Vegetarian",
+        "image": "https://i.ytimg.com/vi/lumjG47pfOc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBeYBdpYGr0_BZ13VRxTHIDgRHMzQ",
+        "youtube_link": "https://www.youtube.com/watch?v=lumjG47pfOc"
+      },
+      {
+        "id": 199,
+        "title": "Veg Noodles",
+        "description": "A simple and delicious stir-fried noodle dish packed with mixed vegetables.",
+        "ingredients": [
+            "200g noodles",
+            "1 onion (sliced)",
+            "1 bell pepper (sliced)",
+            "1 carrot (julienned)",
+            "1/2 cup cabbage (shredded)",
+            "2 tbsp soy sauce",
+            "1 tbsp chili sauce",
+            "1 tbsp vinegar",
+            "1 tsp ginger-garlic paste",
+            "Salt to taste",
+            "Black pepper to taste",
+            "2 tbsp oil"
+        ],
+        "servings": 2,
+        "calories": 400,
+        "time": "25 minutes",
+        "procedure": [
+            "1. Boil noodles as per instructions, drain, and set aside.",
+            "2. Heat oil in a pan and sauté ginger-garlic paste, onions, bell peppers, carrots, and cabbage.",
+            "3. Add soy sauce, chili sauce, vinegar, salt, and black pepper.",
+            "4. Toss in boiled noodles and stir-fry for 2-3 minutes before serving."
+        ],
+        "type": "Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRH5r-zc3NqMQbdNpcWZZn3a7_Q9rP8vugyg&s",
+        "youtube_link": "https://www.youtube.com/watch?v=xWZeQBLV6q4"
+      },
+      {
+        "id": 200,
+        "title": "Egg Noodles",
+        "description": "A flavorful noodle dish with scrambled eggs and vegetables, tossed in soy-based sauces.",
+        "ingredients": [
+            "200g noodles",
+            "2 eggs",
+            "1 onion (sliced)",
+            "1 bell pepper (sliced)",
+            "1 carrot (julienned)",
+            "2 tbsp soy sauce",
+            "1 tbsp chili sauce",
+            "1 tbsp vinegar",
+            "1 tsp ginger-garlic paste",
+            "Salt to taste",
+            "Black pepper to taste",
+            "2 tbsp oil"
+        ],
+        "servings": 2,
+        "calories": 480,
+        "time": "30 minutes",
+        "procedure": [
+            "1. Boil noodles as per instructions, drain, and set aside.",
+            "2. Heat oil in a pan and scramble the eggs, then set aside.",
+            "3. In the same pan, sauté ginger-garlic paste, onions, bell peppers, and carrots.",
+            "4. Add soy sauce, chili sauce, vinegar, salt, and black pepper.",
+            "5. Toss in boiled noodles and scrambled eggs, stir-fry for 2-3 minutes before serving."
+        ],
+        "type": "Non-Vegetarian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaf9xU1osRPdJy9CheDwfY4Us9W9Ew7w9fHw&s",
+        "youtube_link": "https://www.youtube.com/watch?v=GxerXnzENc0"
+      }
   ]
   }
-
 ]
 }
